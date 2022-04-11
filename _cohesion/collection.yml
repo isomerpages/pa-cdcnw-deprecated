@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - 2021 Cohesion Issues/Oct 2021.md
       - 2021 Cohesion Issues/Sep 2021.md
       - 2021 Cohesion Issues/Aug 2021.md
       - 2021 Cohesion Issues/July 2021.md
