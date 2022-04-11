@@ -1,4 +1,5 @@
 collections:
   programmes:
     output: true
-    order: []
+    order:
+      - ASSISTING THE NEEDY/.keep
