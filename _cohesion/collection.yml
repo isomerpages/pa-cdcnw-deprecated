@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - 2020 Cohesion Issues/Feb 2020.md
       - 2020 Cohesion Issues/.keep
       - 2021 Cohesion Issues/Dec 2021.md
       - 2021 Cohesion Issues/Nov 2021.md
