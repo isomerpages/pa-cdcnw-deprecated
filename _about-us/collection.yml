@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Our Achievements.md
-      - Our District.md
-      - Our Council.md
-      - Mayor's Message.md
       - Vision And Mission.md
+      - Mayor's Message.md
+      - Our Council.md
+      - Our District.md
+      - Our Achievements.md
