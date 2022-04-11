@@ -2,4 +2,5 @@ collections:
   programmes:
     output: true
     order:
+      - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
       - ASSISTING THE NEEDY/.keep
