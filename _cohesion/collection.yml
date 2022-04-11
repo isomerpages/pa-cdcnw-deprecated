@@ -2,7 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - 2022 Cohesion Issues/.keep
+      - 2022 Cohesion Issues/Mar 2022.md
       - 2022 Cohesion Issues/Jan 2022.md
       - 2022 Cohesion Issues/Feb 2022.md
-      - 2022 Cohesion Issues/Mar 2022.md
-      - 2022 Cohesion Issues/.keep
