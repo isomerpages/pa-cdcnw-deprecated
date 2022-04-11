@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - 2020 Cohesion Issues/Aug 2020.md
       - 2020 Cohesion Issues/July 2020.md
       - 2020 Cohesion Issues/Apr 2020.md
       - 2020 Cohesion Issues/June 2020.md
