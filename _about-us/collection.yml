@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Achievements.md
       - Our District.md
       - Our Council.md
       - Mayor's Message.md
