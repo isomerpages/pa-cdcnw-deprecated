@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
-      - ASSISTING THE NEEDY/Project I Care at North West.md
-      - ASSISTING THE NEEDY/North West Student Support Fund.md
-      - ASSISTING THE NEEDY/Know Your Medicine, Get It Right! @ North West.md
-      - ASSISTING THE NEEDY/North West Food Aid Fund.md
-      - ASSISTING THE NEEDY/North West Utilities Assistance Scheme.md
-      - ASSISTING THE NEEDY/North West Home Fix Scheme.md
+      - ASSISTING THE NEEDY/.keep
+      - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
       - ASSISTING THE NEEDY/CDC Vouchers Scheme.md
       - ASSISTING THE NEEDY/DigiReady @ North West.md
-      - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
-      - ASSISTING THE NEEDY/.keep
+      - ASSISTING THE NEEDY/North West Home Fix Scheme.md
+      - ASSISTING THE NEEDY/North West Utilities Assistance Scheme.md
+      - ASSISTING THE NEEDY/North West Food Aid Fund.md
+      - ASSISTING THE NEEDY/Know Your Medicine, Get It Right! @ North West.md
+      - ASSISTING THE NEEDY/North West Student Support Fund.md
+      - ASSISTING THE NEEDY/Project I Care at North West.md
