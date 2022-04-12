@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - 2018 Cohesion Issues/Fed 2018.md
       - 2018 Cohesion Issues/.keep
       - 2019 Cohesion Issues/Dec 2019.md
       - 2019 Cohesion Issues/Oct 2019.md
