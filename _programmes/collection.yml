@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - ASSISTING THE NEEDY/North West Home Fix Scheme.md
       - ASSISTING THE NEEDY/CDC Vouchers Scheme.md
       - ASSISTING THE NEEDY/DigiReady @ North West.md
       - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
