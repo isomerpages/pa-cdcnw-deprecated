@@ -2,42 +2,11 @@ collections:
   cohesion:
     output: true
     order:
-      - 2016 Cohesion Issues/.keep
-      - 2016 Cohesion Issues/Dec 2016.md
-      - 2016 Cohesion Issues/Oct 2016.md
-      - 2016 Cohesion Issues/Aug 2016.md
-      - 2016 Cohesion Issues/Jun 2016.md
-      - 2017 Cohesion Issues/Dec 2017.md
-      - 2017 Cohesion Issues/Oct 2017.md
-      - 2017 Cohesion Issues/Aug 2017.md
-      - 2017 Cohesion Issues/Jun 2017.md
-      - 2017 Cohesion Issues/Apr 2017.md
-      - 2017 Cohesion Issues/Feb 2017.md
-      - 2017 Cohesion Issues/.keep
-      - 2018 Cohesion Issues/Dec 2018.md
-      - 2018 Cohesion Issues/Oct 2018.md
-      - 2018 Cohesion Issues/Aug 2018.md
-      - 2018 Cohesion Issues/Jun 2018.md
-      - 2018 Cohesion Issues/Apr 2018.md
-      - 2018 Cohesion Issues/Fed 2018.md
-      - 2018 Cohesion Issues/.keep
-      - 2019 Cohesion Issues/Dec 2019.md
-      - 2019 Cohesion Issues/Oct 2019.md
-      - 2019 Cohesion Issues/Aug 2019.md
-      - 2019 Cohesion Issues/Jun 2019.md
-      - 2019 Cohesion Issues/Apr 2019.md
-      - 2019 Cohesion Issues/Feb 2019.md
-      - 2019 Cohesion Issues/.keep
-      - 2020 Cohesion Issues/.keep
-      - 2020 Cohesion Issues/Dec 2020.md
-      - 2020 Cohesion Issues/Nov 2020.md
-      - 2020 Cohesion Issues/Oct 2020.md
-      - 2020 Cohesion Issues/Sep 2020.md
-      - 2020 Cohesion Issues/Aug 2020.md
-      - 2020 Cohesion Issues/July 2020.md
-      - 2020 Cohesion Issues/June 2020.md
-      - 2020 Cohesion Issues/Apr 2020.md
-      - 2020 Cohesion Issues/Feb 2020.md
+      - 2022 Cohesion Issues/.keep
+      - 2022 Cohesion Issues/Mar 2022.md
+      - 2022 Cohesion Issues/Jan 2022.md
+      - 2022 Cohesion Issues/Feb 2022.md
+      - 2021 Cohesion Issues/.keep
       - 2021 Cohesion Issues/Dec 2021.md
       - 2021 Cohesion Issues/Nov 2021.md
       - 2021 Cohesion Issues/Oct 2021.md
@@ -50,8 +19,39 @@ collections:
       - 2021 Cohesion Issues/Mar 2021.md
       - 2021 Cohesion Issues/Feb 2021.md
       - 2021 Cohesion Issues/Jan 2021.md
-      - 2021 Cohesion Issues/.keep
-      - 2022 Cohesion Issues/.keep
-      - 2022 Cohesion Issues/Mar 2022.md
-      - 2022 Cohesion Issues/Jan 2022.md
-      - 2022 Cohesion Issues/Feb 2022.md
+      - 2020 Cohesion Issues/.keep
+      - 2020 Cohesion Issues/Dec 2020.md
+      - 2020 Cohesion Issues/Nov 2020.md
+      - 2020 Cohesion Issues/Oct 2020.md
+      - 2020 Cohesion Issues/Sep 2020.md
+      - 2020 Cohesion Issues/Aug 2020.md
+      - 2020 Cohesion Issues/July 2020.md
+      - 2020 Cohesion Issues/June 2020.md
+      - 2020 Cohesion Issues/Apr 2020.md
+      - 2020 Cohesion Issues/Feb 2020.md
+      - 2019 Cohesion Issues/.keep
+      - 2019 Cohesion Issues/Dec 2019.md
+      - 2019 Cohesion Issues/Oct 2019.md
+      - 2019 Cohesion Issues/Aug 2019.md
+      - 2019 Cohesion Issues/Jun 2019.md
+      - 2019 Cohesion Issues/Apr 2019.md
+      - 2019 Cohesion Issues/Feb 2019.md
+      - 2018 Cohesion Issues/.keep
+      - 2018 Cohesion Issues/Dec 2018.md
+      - 2018 Cohesion Issues/Oct 2018.md
+      - 2018 Cohesion Issues/Aug 2018.md
+      - 2018 Cohesion Issues/Jun 2018.md
+      - 2018 Cohesion Issues/Apr 2018.md
+      - 2018 Cohesion Issues/Fed 2018.md
+      - 2017 Cohesion Issues/.keep
+      - 2017 Cohesion Issues/Dec 2017.md
+      - 2017 Cohesion Issues/Oct 2017.md
+      - 2017 Cohesion Issues/Aug 2017.md
+      - 2017 Cohesion Issues/Jun 2017.md
+      - 2017 Cohesion Issues/Apr 2017.md
+      - 2017 Cohesion Issues/Feb 2017.md
+      - 2016 Cohesion Issues/.keep
+      - 2016 Cohesion Issues/Dec 2016.md
+      - 2016 Cohesion Issues/Oct 2016.md
+      - 2016 Cohesion Issues/Aug 2016.md
+      - 2016 Cohesion Issues/Jun 2016.md
