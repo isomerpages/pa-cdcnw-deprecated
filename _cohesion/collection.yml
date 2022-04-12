@@ -2,11 +2,11 @@ collections:
   cohesion:
     output: true
     order:
+      - 2016 Cohesion Issues/.keep
       - 2016 Cohesion Issues/Dec 2016.md
       - 2016 Cohesion Issues/Oct 2016.md
       - 2016 Cohesion Issues/Aug 2016.md
       - 2016 Cohesion Issues/Jun 2016.md
-      - 2016 Cohesion Issues/.keep
       - 2017 Cohesion Issues/Dec 2017.md
       - 2017 Cohesion Issues/Oct 2017.md
       - 2017 Cohesion Issues/Aug 2017.md
