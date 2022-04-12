@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - ASSISTING THE NEEDY/North West Student Support Fund.md
       - ASSISTING THE NEEDY/Know Your Medicine, Get It Right! @ North West.md
       - ASSISTING THE NEEDY/North West Food Aid Fund.md
       - ASSISTING THE NEEDY/North West Utilities Assistance Scheme.md
