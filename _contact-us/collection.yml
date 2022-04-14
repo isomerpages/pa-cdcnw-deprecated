@@ -2,5 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - Programme Registration Form.md
       - Subscribe to E Cohesion.md
       - Contact Us.md
