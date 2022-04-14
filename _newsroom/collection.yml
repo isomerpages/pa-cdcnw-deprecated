@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Publications.md
-      - Sustainability Report.md
-      - Annual Report.md
-      - Speeches.md
       - Press Releases.md
+      - Speeches.md
+      - Annual Report.md
+      - Sustainability Report.md
