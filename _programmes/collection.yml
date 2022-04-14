@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - UPCOMING PROGRAMMES/North West Virtual Walk Challenge.md
       - UPCOMING PROGRAMMES/Temasek Trust CDC Lifelong Learning Enabling Fund.md
       - UPCOMING PROGRAMMES/.keep
       - CONNECTING THE COMMUNITY/SME Centre @ North West.md
