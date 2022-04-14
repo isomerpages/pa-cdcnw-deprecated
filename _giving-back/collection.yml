@@ -2,6 +2,6 @@ collections:
   giving-back:
     output: true
     order:
-      - Donate To NWCDC/North West Heart For Students Scheme.md
-      - Donate To NWCDC/Club 100 @ North West.md
       - Donate To NWCDC/.keep
+      - Donate To NWCDC/Club 100 @ North West.md
+      - Donate To NWCDC/North West Heart For Students Scheme.md
