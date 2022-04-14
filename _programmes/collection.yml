@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CONNECTING THE COMMUNITY/North West Youth Concert.md
       - CONNECTING THE COMMUNITY/Community Cares at North West.md
       - CONNECTING THE COMMUNITY/Club 100 at North West.md
       - CONNECTING THE COMMUNITY/Mayor’s Network at North West – Schools.md
