@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - UPCOMING PROGRAMMES/SME Capability Workshops @ North West.md
       - UPCOMING PROGRAMMES/Upcoming Recycle @ North West Sessions.md
       - UPCOMING PROGRAMMES/SkillsFuture Advice @ North West   Online Webinars.md
       - UPCOMING PROGRAMMES/North West Virtual Walk Challenge.md
