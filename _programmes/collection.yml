@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - UPCOMING PROGRAMMES/Temasek Trust CDC Lifelong Learning Enabling Fund.md
       - UPCOMING PROGRAMMES/.keep
       - CONNECTING THE COMMUNITY/SME Centre @ North West.md
       - CONNECTING THE COMMUNITY/Mayor’s Network @ North West  SMEs.md
