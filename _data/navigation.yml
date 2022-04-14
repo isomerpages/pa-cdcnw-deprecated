@@ -6,3 +6,11 @@ links:
     collection: cohesion
   - title: Programmes
     collection: programmes
+  - title: NEWSROOM
+    collection: newsroom
+  - title: PhotoGallery
+    collection: photo-gallery
+  - title: Giving Back
+    collection: giving-back
+  - title: Contact US
+    collection: contact-us
