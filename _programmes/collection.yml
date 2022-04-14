@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CONNECTING THE COMMUNITY/North West 911.md
       - CONNECTING THE COMMUNITY/Mayor’s Network @ North West   Social Service
         Agencies.md
       - CONNECTING THE COMMUNITY/North West Youth Concert.md
