@@ -22,10 +22,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
   - infopic:
       title: North West Sustainability Report 2019
       description: North West Sustainability Report 2019 is out!  Check the North West
@@ -33,6 +29,8 @@ sections:
       alt: Image alt text
   - infopic:
       button: Sustainability in action
-      url: //
+      url: https://pa-cdcnw-staging.netlify.app/newsroom/publications
       alt: Image alt text
+  - resources:
+      title: North West Happenings
 ---
