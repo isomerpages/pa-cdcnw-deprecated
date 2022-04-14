@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Subscribe to E Cohesion.md
       - Contact Us.md
