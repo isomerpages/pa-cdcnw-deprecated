@@ -1,4 +1,5 @@
 collections:
   photo-gallery:
     output: true
-    order: []
+    order:
+      - Photo Gallery.md
