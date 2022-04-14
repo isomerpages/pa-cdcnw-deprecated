@@ -1,4 +1,5 @@
 collections:
   giving-back:
     output: true
-    order: []
+    order:
+      - Donate To NWCDC/.keep
