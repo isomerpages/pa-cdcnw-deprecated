@@ -2,14 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - UPCOMING PROGRAMMES/.keep
-      - UPCOMING PROGRAMMES/Temasek Trust CDC Lifelong Learning Enabling Fund.md
-      - UPCOMING PROGRAMMES/North West Virtual Walk Challenge.md
-      - UPCOMING PROGRAMMES/SkillsFuture Advice @ North West   Online Webinars.md
-      - UPCOMING PROGRAMMES/Upcoming Recycle @ North West Sessions.md
-      - UPCOMING PROGRAMMES/SME Capability Workshops @ North West.md
-      - UPCOMING PROGRAMMES/North West Sustainability Forum.md
-      - UPCOMING PROGRAMMES/SkillsFuture Roadshow @ North West.md
       - ASSISTING THE NEEDY/.keep
       - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
       - ASSISTING THE NEEDY/CDC Vouchers Scheme.md
@@ -59,3 +51,11 @@ collections:
       - CONNECTING THE COMMUNITY/North West 911.md
       - CONNECTING THE COMMUNITY/Mayor’s Network @ North West  SMEs.md
       - CONNECTING THE COMMUNITY/SME Centre @ North West.md
+      - UPCOMING PROGRAMMES/.keep
+      - UPCOMING PROGRAMMES/Temasek Trust CDC Lifelong Learning Enabling Fund.md
+      - UPCOMING PROGRAMMES/North West Virtual Walk Challenge.md
+      - UPCOMING PROGRAMMES/SkillsFuture Advice @ North West   Online Webinars.md
+      - UPCOMING PROGRAMMES/Upcoming Recycle @ North West Sessions.md
+      - UPCOMING PROGRAMMES/SME Capability Workshops @ North West.md
+      - UPCOMING PROGRAMMES/North West Sustainability Forum.md
+      - UPCOMING PROGRAMMES/SkillsFuture Roadshow @ North West.md
