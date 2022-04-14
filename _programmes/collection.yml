@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CONNECTING THE COMMUNITY/Mayor’s Network at North West – IHLs.md
       - CONNECTING THE COMMUNITY/WeCare at North West – Service Weeks.md
       - CONNECTING THE COMMUNITY/SkillsFuture Advice at North West.md
       - CONNECTING THE COMMUNITY/WeCare Arts at North West.md
