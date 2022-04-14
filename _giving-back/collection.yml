@@ -2,4 +2,5 @@ collections:
   giving-back:
     output: true
     order:
+      - Donate To NWCDC/Club 100 @ North West.md
       - Donate To NWCDC/.keep
