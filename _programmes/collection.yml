@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - CONNECTING THE COMMUNITY/WeCare Arts at North West.md
       - CONNECTING THE COMMUNITY/.keep
       - ASSISTING THE NEEDY/.keep
       - ASSISTING THE NEEDY/North West Emergency Relief Fund.md
