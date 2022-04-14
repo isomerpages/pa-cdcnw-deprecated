@@ -2,10 +2,10 @@ collections:
   giving-back:
     output: true
     order:
-      - Ground Up Initiatives.md
-      - Volunteer/North West Youth Assembly.md
-      - Volunteer/.keep
-      - Corporate Social Responsibility.md
       - Donate To NWCDC/.keep
       - Donate To NWCDC/Club 100 @ North West.md
       - Donate To NWCDC/North West Heart For Students Scheme.md
+      - Corporate Social Responsibility.md
+      - Volunteer/.keep
+      - Volunteer/North West Youth Assembly.md
+      - Ground Up Initiatives.md
