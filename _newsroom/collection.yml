@@ -2,5 +2,6 @@ collections:
   newsroom:
     output: true
     order:
+      - Annual Report.md
       - Speeches.md
       - Press Releases.md
