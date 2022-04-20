@@ -1,4 +1,5 @@
 collections:
   bonding-the-people:
     output: true
-    order: []
+    order:
+      - GREEN LIVING @ NORTH WEST/.keep
