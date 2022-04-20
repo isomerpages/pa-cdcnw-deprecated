@@ -2,4 +2,5 @@ collections:
   bonding-the-people:
     output: true
     order:
+      - GREEN LIVING at NORTH WEST/Reduce @ North West.md
       - GREEN LIVING at NORTH WEST/.keep
