@@ -2,7 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - TEST/test.md
       - TEST/.keep
       - Press Releases.md
       - Speeches.md
