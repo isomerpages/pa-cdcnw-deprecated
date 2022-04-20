@@ -2,6 +2,7 @@ collections:
   bonding-the-people:
     output: true
     order:
+      - HEALTHY LIVING AT NORTH WEST/NORTH WEST FITNESS CLUB.md
       - HEALTHY LIVING AT NORTH WEST/North West Running Club.md
       - HEALTHY LIVING AT NORTH WEST/.keep
       - GREEN LIVING at NORTH WEST/Green Homes at North West.md
