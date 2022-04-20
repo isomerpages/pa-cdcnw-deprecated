@@ -5,7 +5,38 @@ links:
   - title: Cohesion
     collection: cohesion
   - title: Programmes
-    collection: programmes
+    url: /permalink
+    sublinks:
+      - title: ASSSITING THE NEEDY
+        url: /permalink
+      - title: BONDING THE PEOPLE
+        url: /permalink
+      - title: GREEN LIVING@ NORTHWEST
+        url: /permalink
+      - title: " Reduce at North West"
+        url: /permalink
+      - title: Green Homes @ North West
+        url: /permalink
+      - title: Clean Toilets @ North West
+        url: /permalink
+      - title: Keep Clean @ North West
+        url: /permalink
+      - title: Recycle @ North West
+        url: /permalink
+      - title: Reuse @ North West
+        url: /permalink
+      - title: We Care, Recycle @ North West
+        url: /permalink
+      - title: Waterways CleanUp @ North West
+        url: /permalink
+      - title: North West Giraffe Fund
+        url: /permalink
+      - title: North West - Plan 2030
+        url: /permalink
+      - title: North West Eco Trails
+        url: /permalink
+      - title: HEALTHY LIVING @ NORTH WEST
+        url: /permalink
   - title: NEWSROOM
     collection: newsroom
   - title: PhotoGallery
