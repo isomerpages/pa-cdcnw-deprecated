@@ -1,0 +1,9 @@
+---
+title: North West GIRAFFE Fund
+permalink: /programmes/BONDING-THE-PEOPLE/NorthWest-GIRAFFE-Fund
+description: ""
+third_nav_title: BONDING THE PEOPLE
+---
+
+
+
