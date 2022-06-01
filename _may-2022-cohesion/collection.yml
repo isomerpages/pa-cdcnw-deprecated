@@ -2,5 +2,6 @@ collections:
   may-2022-cohesion:
     output: true
     order:
+      - Interim Financial Assistance Scheme.md
       - Mayor's Message.md
       - Nurturing Youths, Warming Hearts.md
