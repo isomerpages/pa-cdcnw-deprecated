@@ -2,6 +2,7 @@ collections:
   may-2022-cohesion:
     output: true
     order:
+      - Home.md
       - North West Career & Employability Job Fair.md
       - Health & Wellness.md
       - Interim Financial Assistance Scheme.md
