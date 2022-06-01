@@ -1,4 +1,5 @@
 collections:
   may-2022-cohesion:
     output: true
-    order: []
+    order:
+      - Nurturing Youths, Warming Hearts.md
