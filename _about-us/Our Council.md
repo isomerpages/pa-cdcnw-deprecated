@@ -3,13 +3,15 @@ title: Our Council
 permalink: /about-us/Our-Council
 description: ""
 ---
-The North West Community Development Council (CDC) has **six standing committees** to spearhead and align the CDC’s programmes to the key strategic directions.  
+Our Council spearheads and aligns the CDC’s programmes to the key strategic directions. 
+
+
   
 The six standing committees are as follows:  
 
 
 **1\. Corporate Relations Standing Committee**  
-The Corporate Relations Standing Committee aims to build up the branding and publicity for the CDC to better engage the community.  
+The Corporate Relations Standing Committee aims to build up the branding and publicity, as well as expand the partners' network for the CDC to better engage the community. 
   
 **2\. Finance Standing Committee**  
 The Finance Standing Committee aims to maintain the financial solvency of the CDC.  
