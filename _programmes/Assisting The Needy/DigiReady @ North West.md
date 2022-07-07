@@ -28,6 +28,4 @@ What items can you contribute?
 *   Headset
 *   Laptop bag
 
-Complete this [form](https://www.go.gov.sg/digiready) to schedule for drop-off or home collection. 
-
-
+Complete this [form](https://www.go.gov.sg/digiready) to schedule for drop-off or home collection.
