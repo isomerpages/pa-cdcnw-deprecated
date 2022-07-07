@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Assisting The Needy/.keep
-      - Assisting The Needy/Assisting The Needy.md
       - Assisting The Needy/CDC Vouchers Scheme.md
       - Assisting The Needy/DigiReady @ North West.md
       - Assisting The Needy/North West Emergency Relief Fund.md
