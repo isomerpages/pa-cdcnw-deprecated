@@ -5,8 +5,11 @@ description: ""
 ---
 Our Council spearheads and aligns the CDC’s programmes to the key strategic directions. 
 
+**Advisory Panel**
 
-  
+
+**Council Members**
+
 The six standing committees are as follows:  
 
 
