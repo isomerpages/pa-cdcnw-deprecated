@@ -5,13 +5,7 @@ description: ""
 ---
 Our Council spearheads and aligns the CDC’s programmes to the key strategic directions. 
 
-**Advisory Panel**
-
-
-**Council Members**
-
 The six standing committees are as follows:  
-
 
 **1\. Corporate Relations Standing Committee**  
 The Corporate Relations Standing Committee aims to build up the branding and publicity, as well as expand the partners' network for the CDC to better engage the community. 
@@ -20,8 +14,8 @@ The Corporate Relations Standing Committee aims to build up the branding and pub
 The Finance Standing Committee aims to maintain the financial solvency of the CDC.  
   
 **3\. Green Living Standing Committee**  
-The Green Living Standing Committee aims to promote green culture in the district and social bonding through green programmes and causes.   
-  
+The Green Living Standing Committee aims to promote green culture in the district and social bonding through green programmes and causes.  
+
 **4\. Healthy Living Standing Committee**  
 The Healthy Living Standing Committee aims to build a health community in the district and promote social bonding through healthy living programmes.
 
