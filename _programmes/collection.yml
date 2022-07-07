@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Example Title.md
       - Uplifting The Community/.keep
       - Uplifting The Community/CDC Vouchers Scheme.md
       - Uplifting The Community/DigiReady @ North West.md
