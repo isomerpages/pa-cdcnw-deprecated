@@ -2,13 +2,13 @@ collections:
   programmes:
     output: true
     order:
-      - Assisting The Needy/North West Interim Financial Assistance Scheme.md
       - Assisting The Needy/.keep
       - Assisting The Needy/CDC Vouchers Scheme.md
       - Assisting The Needy/DigiReady @ North West.md
       - Assisting The Needy/North West Emergency Relief Fund.md
       - Assisting The Needy/North West Food Aid Fund.md
       - Assisting The Needy/North West Home Fix Scheme.md
+      - Assisting The Needy/North West Interim Financial Assistance Scheme.md
       - Assisting The Needy/North West Utilities Assistance Scheme.md
       - Assisting The Needy/North West Student Support Fund.md
       - Bonding The People/.keep
