@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Partnerships & Volunteerism/.keep
       - Promoting Health & Wellness/.keep
       - Uplifting The Community/.keep
       - Uplifting The Community/CDC Vouchers Scheme.md
