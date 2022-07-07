@@ -23,5 +23,3 @@ Bursaries are given to kindergarten students to purchase school essentials for t
 **(a) North West Student Wise Enrichment Programme**
 
 The CDC works closely with schools located within the North West District to identify the students. Students will attend a series of workshops to develop skills in listening and communications, social etiquette, and public speaking. They also attend motivational workshops to build confidence and improve their interpersonal skills in social settings.
-
-![](/images/Programmes/SSF%20Approved%20Masthead_Final.png)
