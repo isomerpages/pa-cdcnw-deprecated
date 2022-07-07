@@ -1,5 +1,0 @@
-collections:
-  photo-gallery:
-    output: true
-    order:
-      - Photo Gallery.md
