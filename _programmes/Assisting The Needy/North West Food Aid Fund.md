@@ -35,4 +35,4 @@ The Club-100 @ North West was set up in May 2008 to promote the culture of givin
 * Corporate Social Responsibility (CSR) projects
 North West CDC gathers support from corporate organisations and community partners by tapping on their expertise and resources for collaborations as part of their CSR efforts.
 
-For more information on the various scheme provided in North West Food Aid Fund, please contact North West CDC at northwest_cdc@pa.gov.sg. 
+For more information on the various scheme provided in North West Food Aid Fund, please contact North West CDC at northwest_cdc@pa.gov.sg.
