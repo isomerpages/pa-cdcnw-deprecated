@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Assisting The Needy/Huggies Singapore Diaper Bank @ North West.md
       - Assisting The Needy/.keep
       - Assisting The Needy/CDC Vouchers Scheme.md
       - Assisting The Needy/DigiReady @ North West.md
