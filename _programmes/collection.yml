@@ -2,17 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Promoting Health & Wellness/.keep
-      - Uplifting The Community/.keep
-      - Uplifting The Community/CDC Vouchers Scheme.md
-      - Uplifting The Community/DigiReady @ North West.md
-      - Uplifting The Community/Huggies Singapore Diaper Bank @ North West.md
-      - Uplifting The Community/North West Emergency Relief Fund.md
-      - Uplifting The Community/North West Food Aid Fund.md
-      - Uplifting The Community/North West Home Fix Scheme.md
-      - Uplifting The Community/North West Interim Financial Assistance Scheme.md
-      - Uplifting The Community/North West Student Support Fund.md
-      - Uplifting The Community/North West Utilities Assistance Scheme.md
       - Advocating Green Living/.keep
       - Advocating Green Living/Reduce at North West.md
       - Advocating Green Living/Green Homes at  North West.md
@@ -25,6 +14,16 @@ collections:
       - Advocating Green Living/North West GIRAFFE Fund.md
       - Advocating Green Living/North West Sustainability Plan 2030.md
       - Advocating Green Living/North West Eco Trails.md
+      - Uplifting The Community/.keep
+      - Uplifting The Community/CDC Vouchers Scheme.md
+      - Uplifting The Community/DigiReady @ North West.md
+      - Uplifting The Community/Huggies Singapore Diaper Bank @ North West.md
+      - Uplifting The Community/North West Emergency Relief Fund.md
+      - Uplifting The Community/North West Food Aid Fund.md
+      - Uplifting The Community/North West Home Fix Scheme.md
+      - Uplifting The Community/North West Interim Financial Assistance Scheme.md
+      - Uplifting The Community/North West Student Support Fund.md
+      - Uplifting The Community/North West Utilities Assistance Scheme.md
       - Partnerships & Volunteerism/.keep
       - Partnerships & Volunteerism/WeCare Arts at North West.md
       - Partnerships & Volunteerism/SkillsFuture Advice at North West.md
@@ -39,3 +38,4 @@ collections:
       - Partnerships & Volunteerism/North West 911.md
       - Partnerships & Volunteerism/Mayor’s Network @ North West  SMEs.md
       - Partnerships & Volunteerism/SME Centre @ North West.md
+      - Promoting Health & Wellness/.keep
