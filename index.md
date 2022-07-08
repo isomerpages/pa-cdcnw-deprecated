@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: North West CDC
+title: North West Community Development Council
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -22,4 +22,5 @@ sections:
   - resources:
       title: North West Happenings
 ---
+
 
