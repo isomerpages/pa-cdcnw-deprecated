@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: North West CDC
-description: Brief site description here
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -22,3 +22,4 @@ sections:
   - resources:
       title: North West Happenings
 ---
+
