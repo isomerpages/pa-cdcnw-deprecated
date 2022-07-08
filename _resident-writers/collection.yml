@@ -1,0 +1,4 @@
+collections:
+  resident-writers:
+    output: true
+    order: []
