@@ -8,6 +8,8 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
+      title: North West CDC
+      subtitle: Building a Caring and Healthy North West Community
   - infopic:
       title: North West Sustainability Report 2019
       description: North West Sustainability Report 2019 is out!  Check the North West
