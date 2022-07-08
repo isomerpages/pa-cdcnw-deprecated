@@ -1,4 +1,5 @@
 collections:
   resident-writers:
     output: true
-    order: []
+    order:
+      - Stories from the Ground.md
