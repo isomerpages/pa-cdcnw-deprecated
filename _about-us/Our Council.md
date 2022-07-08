@@ -3,9 +3,9 @@ title: Our Council
 permalink: /about-us/Our-Council
 description: ""
 ---
-Our Council spearheads and aligns the CDC’s programmes to the key strategic directions. 
+Our Council comprises of the Advisory Panel, Council Members and District Councillors, spearhead and align the CDC’s programmes to the key strategic directions. 
 
-The six standing committees are as follows:  
+There are six standing committees, each with its role and responsibilities:  
 
 **1\. Corporate Relations Standing Committee**  
 The Corporate Relations Standing Committee aims to build up the branding and publicity, as well as expand the partners' network for the CDC to better engage the community. 
@@ -24,3 +24,5 @@ The Social Support Standing Committee aims to assist the needy residents in the 
   
 **6\. SkillsFuture Standing Committee**  
 The SkillsFuture Standing Committee aims to develop programmes to engage the community to stay relevant through skills mastery and lifelong learning.
+
+Download our [Council Booklet](/files/CDCCouncilBooklet_FA_ForWeb.pdf) for more information. 
