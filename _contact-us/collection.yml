@@ -1,8 +1,0 @@
-collections:
-  contact-us:
-    output: true
-    order:
-      - Contact Us.md
-      - Subscribe to E Cohesion.md
-      - Programme Registration Form.md
-      - FAQs.md
