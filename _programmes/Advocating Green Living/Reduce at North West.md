@@ -4,7 +4,7 @@ permalink: /programmes/BONDING-THE-PEOPLE/Reduce-at-NorthWest
 description: ""
 third_nav_title: Advocating Green Living
 ---
-Reduce @ North West was launched in 2011 to educate and encourage residents to do their part in fighting climate change by reducing energy consumption.  
+**Reduce At North West**  was launched in 2011 to educate and encourage residents to do their part in fighting climate change by reducing energy consumption.  
 
 In 2017, the scope of the programme was expanded to include messages of reducing water consumption and food wastage. 
 
