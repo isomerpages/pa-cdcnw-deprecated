@@ -8,10 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/hero-banner.png
-      title: North West CDC
+      title: North West Community Development Council
       subtitle: Building a Caring and Healthy North West Community
   - infopic:
-      title: North West Sustainability Report 2019
+      title: Advocating Green Living
       description: North West Sustainability Report 2019 is out!  Check the North West
         District's achievements in sustainable development,
       alt: Image alt text
@@ -22,5 +22,3 @@ sections:
   - resources:
       title: North West Happenings
 ---
-
-
