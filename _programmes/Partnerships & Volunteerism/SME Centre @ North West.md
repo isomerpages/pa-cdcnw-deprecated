@@ -4,5 +4,8 @@ permalink: /programmes/CONNECTING-THE-COMMUNITY/SMECentre-NorthWest
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+On 10 July 2013, a MOU was signed between five local trade associations, SPRING Singapore and the People’s Association to set up Small and Medium-sized enterprise (SME) Centres within the five Community Development Councils (CDCs). 
 
+Located in the North West District, the SME Centre @ North West is one of the five centres that aim to provide free business advices to SMEs on issues such as government schemes and overseas business expansions.  
 
+For more information, please contact [northwest@smecentre-smf.sg](mailto:northwest@smecentre-smf.sg).
