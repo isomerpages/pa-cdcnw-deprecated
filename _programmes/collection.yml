@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Advocating Green Living/North West Sustainability Forum.md
       - Advocating Green Living/.keep
       - Advocating Green Living/Green Homes at  North West.md
       - Advocating Green Living/Recycle at  North West.md
@@ -11,6 +10,7 @@ collections:
       - Advocating Green Living/North West GIRAFFE Fund.md
       - Advocating Green Living/Waterways Clean Up at North West.md
       - Advocating Green Living/Keep Clean  at North West.md
+      - Advocating Green Living/North West Sustainability Forum.md
       - Advocating Green Living/Clean Toilets at North West.md
       - Advocating Green Living/Reuse at North West.md
       - Advocating Green Living/North West Sustainability Plan 2030.md
