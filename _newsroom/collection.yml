@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Media Materials.md
-      - Speeches.md
       - Annual Report.md
       - Sustainability Report.md
       - Publications.md
