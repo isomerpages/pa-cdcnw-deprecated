@@ -2,8 +2,8 @@ collections:
   cohesion:
     output: true
     order:
-      - May 2022/Main Page.md
       - May 2022/.keep
+      - May 2022/Main Page.md
       - July 2022/.keep
       - July 2022/Main Page.md
       - July 2022/Service Weeks.md
