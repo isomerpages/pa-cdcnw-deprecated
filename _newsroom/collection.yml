@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Press Releases.md
+      - Media Materials.md
       - Speeches.md
       - Annual Report.md
       - Sustainability Report.md
