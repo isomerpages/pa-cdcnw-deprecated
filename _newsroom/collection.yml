@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Media Materials.md
       - Annual Report.md
+      - Media Materials.md
       - Sustainability Report.md
       - Publications.md
