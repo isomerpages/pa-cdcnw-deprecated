@@ -2,13 +2,13 @@ collections:
   cohesion:
     output: true
     order:
-      - July 2022/Minute to Green it.md
-      - July 2022/Career and Employability.md
-      - July 2022/CDC Vouchers.md
-      - July 2022/NW Running Club.md
-      - July 2022/Service Weeks.md
-      - July 2022/Newsletter.md
       - July 2022/.keep
+      - July 2022/Newsletter.md
+      - July 2022/Service Weeks.md
+      - July 2022/NW Running Club.md
+      - July 2022/CDC Vouchers.md
+      - July 2022/Career and Employability.md
+      - July 2022/Minute to Green it.md
       - 2022 Cohesion Issues/.keep
       - 2022 Cohesion Issues/May 2022.md
       - 2022 Cohesion Issues/Mar 2022.md
