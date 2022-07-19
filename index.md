@@ -7,8 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
-      title: North West Community Development Council
+      background: /images/Hero Banner.jpg
+      title: North West CDC
       subtitle: Building a Caring and Healthy North West Community
   - infopic:
       title: Advocating Green Living
