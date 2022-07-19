@@ -12,13 +12,31 @@ sections:
       subtitle: Building a Caring and Healthy North West Community
   - infopic:
       title: Advocating Green Living
-      description: North West Sustainability Report 2019 is out!  Check the North West
-        District's achievements in sustainable development,
+      description: Working towards a sustainable future, we aim to imbue a green
+        mindset and spark behavioral change among residents through various
+        green initiatives.
       alt: Image alt text
   - infopic:
-      button: Sustainability in action
       url: https://pa-cdcnw-staging.netlify.app/newsroom/publications
       alt: Image alt text
+      title: Enabling Partnerships and Volunteerism
+      description: We play an enabler role in connecting our corporate partners'
+        resources to serve the various needs in the community.
+  - infopic:
+      title: Uplifting The Community
+      subtitle: Infopic Subtitle
+      description: We aim to provide short-term support for residents through local
+        assistance schemes, and empower residents to improve their lives and
+        employability.
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: Promoting Health and Wellness
+      subtitle: Infopic Subtitle
+      description: "Through a range of healthy living programmes, we hope for our
+        North West residents to maintain an active and healthy lifestyle. "
+      button: Button Text
+      alt: Image alt text
   - resources:
-      title: North West Happenings
+      title: Resources
 ---
