@@ -17,7 +17,6 @@ sections:
         green initiatives.
       alt: Image alt text
   - infopic:
-      url: https://pa-cdcnw-staging.netlify.app/newsroom/publications
       alt: Image alt text
       title: Enabling Partnerships and Volunteerism
       description: We play an enabler role in connecting our corporate partners'
@@ -28,14 +27,12 @@ sections:
       description: We aim to provide short-term support for residents through local
         assistance schemes, and empower residents to improve their lives and
         employability.
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Promoting Health and Wellness
       subtitle: Infopic Subtitle
       description: "Through a range of healthy living programmes, we hope for our
         North West residents to maintain an active and healthy lifestyle. "
-      button: Button Text
       alt: Image alt text
   - resources:
       title: Resources
