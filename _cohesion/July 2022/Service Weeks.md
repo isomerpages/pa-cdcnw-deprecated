@@ -8,8 +8,8 @@ third_nav_title: July 2022
 	 <body>
       <header>
             <div class="row w-100 my-0 mx-auto py-3 px-2" style="max-width: 1920px;"> 
-              <div class="col-md-6 text-left"><a href="cohesion-main.html"><img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"></a></div>
-           <div class="col-md-6 text-right">
+            <div class="col-md-6 text-left"><a href="cohesion-main.html"><img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"></a></div>
+            <div class="col-md-6 text-right">
             <div class="w-100 float-right ml-n4" style="position: absolute; bottom: 0;">
           <p class="gotham mb-0" style="color: #fb5c1f; font-size: x-large; text-transform: uppercase;">JULY 2022</p>
           <p class="p-0 m-0 d-md-block d-sm-block d-none" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
@@ -18,34 +18,35 @@ third_nav_title: July 2022
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
           </div>
         </div>
+</div>
         <div class="col-12 d-md-none d-sm-none d-block mx-auto text-center">
             <p class="p-0 m-0" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
             <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
             <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-							</div></div>
+        </div>
     </header>
     <main>
       <div class="row w-100 m-0 p-0">
-        <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
+      <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
       </div>
-      <article class="mx-auto px-md-4 px-3 py-5" style="max-width: 1000px;">  
+     <article class="mx-auto px-md-4 px-3 py-5" style="max-width: 1000px;">  
         <h1 class="gotham text-center pb-4 red">Giving is always rewarding!</h1>
         <p>The North West CDC is constantly exploring ways to connect our partners to the needs in the community. An expansion from the <strong>WeCare @ North West Service Weeks</strong> programme’s usual food distribution at the start of the year, the CDC distributed health and hygiene products to 7,000 needy residents for the first time.</p>  
         <p>Each care pack worth around $200 consists of eight items: handwash, sanitizer, wet wipes, as well as five different types of vitamins. As the nation transits into a Covid-19 resilient community, the health and hygiene care pack distribution aims to promote good health and hygiene habits. All items in the care packs were fully sponsored by the CDC’s two corporate partners, Guardian Health & Beauty and Thunderquote. </p>
         <p class="text-center py-4">
           <img src="images/bagpack.gif" class="w-100 img-responsive img-fluid mx-auto" style="max-width: 750px;"></p>
         <p>To manage the scale of preparing 7,000 care packs, North West CDC rallied various corporate and community volunteers to step forward and support the cause. The care packs were first packed at two schools, Wellington Primary and Woodlands Secondary Schools, and then distributed by the local North West Divisions to their residents in June, through house visits and distribution drives.</p>
-				<div class="pt-4 pb-5 px-md-4 px-3 my-5" style="border-top: thin solid #e02b2b; border-bottom: thin solid #e02b2b;">
+	<div class="pt-4 pb-5 px-md-4 px-3 my-5" style="border-top: thin solid #e02b2b; border-bottom: thin solid #e02b2b;">
           <div id="carouselExampleControls" class="carousel slide m-auto" data-ride="carousel" data-touch="true"  style="max-width: 87%;">
             <h4 class="py-4" style="font-weight: bold;">Learning through giving</h4>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <div>
-                  <p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p></div>
+                <div><p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p></div>
                   <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p>
                 </div>
-						</div></div>
+						</div>
+		</div>
 						<div class="carousel-item">
                 <div><p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p></div>
                   <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
