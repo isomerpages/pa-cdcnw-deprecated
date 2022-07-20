@@ -23,7 +23,7 @@ third_nav_title: July 2022
             <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
             <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-        </div>
+							</div></div>
     </header>
     <main>
       <div class="row w-100 m-0 p-0">
@@ -45,11 +45,9 @@ third_nav_title: July 2022
                   <p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p></div>
                   <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p>
                 </div>
-              </div>
-					</div
+						</div></div>
 						<div class="carousel-item">
-                <div>
-                  <p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p>
+                <div><p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p></div>
                   <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
                   <p><em>“Service Weeks give our students the opportunity to get out of their comfort zone to interact with the community and help others who are in need. From the activity, they learn to appreciate what they have and develop a giving mindset to give back to the community.<br/><br/>   
                   The school hopes to plant the seed of volunteerism through exposing them to positive experiences and inspire them to take the lead as an active citizen and community youth leader in the future to continue to serve the community.”</em></p>
