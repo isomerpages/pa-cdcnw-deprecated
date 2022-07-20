@@ -18,20 +18,19 @@ third_nav_title: July 2022
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
           </div>
         </div>
-</div>
         <div class="col-12 d-md-none d-sm-none d-block mx-auto text-center">
             <p class="p-0 m-0" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
             <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
             <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
         </div>
+				</div>
     </header>
     <main>
       <div class="row w-100 m-0 p-0">
       <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
       </div>
-     <article class="mx-auto px-md-4 px-3 py-5" style="max-width: 1000px;">  
-        <h1 class="gotham text-center pb-4 red">Giving is always rewarding!</h1>
+     <article class="mx-auto px-md-4 px-3 py-5" style="max-width: 1000px;">          <h1 class="gotham text-center pb-4 red">Giving is always rewarding!</h1>
         <p>The North West CDC is constantly exploring ways to connect our partners to the needs in the community. An expansion from the <strong>WeCare @ North West Service Weeks</strong> programme’s usual food distribution at the start of the year, the CDC distributed health and hygiene products to 7,000 needy residents for the first time.</p>  
         <p>Each care pack worth around $200 consists of eight items: handwash, sanitizer, wet wipes, as well as five different types of vitamins. As the nation transits into a Covid-19 resilient community, the health and hygiene care pack distribution aims to promote good health and hygiene habits. All items in the care packs were fully sponsored by the CDC’s two corporate partners, Guardian Health & Beauty and Thunderquote. </p>
         <p class="text-center py-4">
