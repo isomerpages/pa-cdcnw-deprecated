@@ -35,42 +35,31 @@ third_nav_title: July 2022
         <p>Each care pack worth around $200 consists of eight items: handwash, sanitizer, wet wipes, as well as five different types of vitamins. As the nation transits into a Covid-19 resilient community, the health and hygiene care pack distribution aims to promote good health and hygiene habits. All items in the care packs were fully sponsored by the CDC’s two corporate partners, Guardian Health & Beauty and Thunderquote. </p>
         <p class="text-center py-4">
           <img src="images/bagpack.gif" class="w-100 img-responsive img-fluid mx-auto" style="max-width: 750px;"></p>
-        <p>To manage the scale of preparing 7,000 care packs, North West CDC rallied various corporate and community volunteers to step forward and support the cause. The care packs were first packed at two schools, Wellington Primary and Woodlands Secondary Schools, and then distributed by the local North West Divisions to their residents in June, through house visits and distribution drives.</p>
-	<div class="pt-4 pb-5 px-md-4 px-3 my-5" style="border-top: thin solid #e02b2b; border-bottom: thin solid #e02b2b;">
+        <p>To manage the scale of preparing 7,000 care packs, North West CDC rallied various corporate and community volunteers to step forward and support the cause. The care packs were first packed at two schools, Wellington Primary and Woodlands Secondary Schools, and then distributed by the local North West Divisions to their residents in June, through house visits and distribution drives.</p> <div class="pt-4 pb-5 px-md-4 px-3 my-5" style="border-top: thin solid #e02b2b; border-bottom: thin solid #e02b2b;">
           <div id="carouselExampleControls" class="carousel slide m-auto" data-ride="carousel" data-touch="true"  style="max-width: 87%;">
             <h4 class="py-4" style="font-weight: bold;">Learning through giving</h4>
-            <div class="carousel-inner">
+						<div class="carousel-inner">
               <div class="carousel-item active">
                 <div><p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p></div>
-                  <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p>
-                </div>
-						</div>
-		</div>
+                  <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p></div></div></div></div
 						<div class="carousel-item">
                 <div><p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p></div>
-                  <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
-                  <p><em>“Service Weeks give our students the opportunity to get out of their comfort zone to interact with the community and help others who are in need. From the activity, they learn to appreciate what they have and develop a giving mindset to give back to the community.<br/><br/>   
+			 <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
+			 <p><em>“Service Weeks give our students the opportunity to get out of their comfort zone to interact with the community and help others who are in need. From the activity, they learn to appreciate what they have and develop a giving mindset to give back to the community.<br/><br/>   
                   The school hopes to plant the seed of volunteerism through exposing them to positive experiences and inspire them to take the lead as an active citizen and community youth leader in the future to continue to serve the community.”</em></p>
                 </div>
-              </div>
-
-              <div class="carousel-item">
+			 </div></div
+			              <div class="carousel-item">
                 <div>
-                  <p style="font-size: medium; font-weight: bold;">Muhd Dharmizi Alif, 26, Volunteer of North West Youth Assembly</p>
+                  <p style="font-size: medium; font-weight: bold;">Muhd Dharmizi Alif, 26, Volunteer of North West Youth Assembly</p></div>
                   <img src="images/muhd.jpg" class="d-block w-100 pb-4" alt="...">
                   <p><em>“When I started volunteering, I got to interact with different people and many of those who are not as privileged as me. I learned the issues they were facing and from there, I can bring their problems to my network to see how we can provide more support for them.</em></p> 
-
                   <p><em>Being involved in such community events gives me the opportunity to help these people, give them what I have and share with them the happiness I receive.”</em></p>
-
                   <p style="font-size: medium; font-weight: bold;">Nur Emilya Idora (12), Wellington Primary School and Karuvadiyil Parvathi (16), Woodlands Secondary School</p>
-
                   <p><em>Nur Emilya Idora: “When I came to this event, I felt joy as I was able to help people in need, and hope that we can do more of such events in future.”</em></p>
-
-                  <p><em>Karuvadiyil Parvathi: “Volunteering makes me happy. I can volunteer as a group, share my experiences with friends and at the same time, make new friends. Since it is also holiday period, I can invest my time to do good deeds.”
-                  </em></p>
+                  <p><em>Karuvadiyil Parvathi: “Volunteering makes me happy. I can volunteer as a group, share my experiences with friends and at the same time, make new friends. Since it is also holiday period, I can invest my time to do good deeds.”</em></p>
                 </div>
-              </div>
-
+              </div></div
               <div class="carousel-item">
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Ben Chen, 37, Operations Manager, Guardian</p>
