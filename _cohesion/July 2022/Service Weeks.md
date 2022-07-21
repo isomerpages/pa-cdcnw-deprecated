@@ -41,7 +41,7 @@ third_nav_title: July 2022
 						<div class="carousel-inner">
               <div class="carousel-item active">
                 <div><p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p></div>
-                  <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p></div></div></div></div
+                  <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="..."><p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p></div></div>
 						<div class="carousel-item">
                 <div><p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p></div>
 			 <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
