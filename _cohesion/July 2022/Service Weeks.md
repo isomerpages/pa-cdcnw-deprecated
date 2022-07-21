@@ -23,8 +23,7 @@ third_nav_title: July 2022
             <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
             <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
             <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-        </div>
-				</div>
+							</div>
     </header>
     <main>
       <div class="row w-100 m-0 p-0">
