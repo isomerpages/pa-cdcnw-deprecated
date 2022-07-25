@@ -7,17 +7,6 @@ third_nav_title: July 2022
 <html>
 <body>
     <header>
-      <div class="row w-100 my-0 mx-auto py-3 px-2" style="max-width: 1920px;">
-        <div class="col-md-6 text-left"><a href="cohesion-main.html"><img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"></a></div>
-        <div class="col-md-6 text-right">
-          <div class="w-100 float-right ml-n4" style="position: absolute; bottom: 0;">
-          <p class="gotham mb-0" style="color: #fb5c1f; font-size: x-large; text-transform: uppercase;">JULY 2022</p>
-          <p class="p-0 m-0 d-md-block d-sm-block d-none" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
-            <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
-            <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
-            <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-          </div>
-        </div>
         <div class="col-12 d-md-none d-sm-none d-block mx-auto text-center">
             <p class="p-0 m-0" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
             <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
