@@ -6,14 +6,6 @@ third_nav_title: July 2022
 ---
 <html>
 <body>
-    <header>
-        <div class="col-12 d-md-none d-sm-none d-block mx-auto text-center">
-            <p class="p-0 m-0" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
-            <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
-            <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
-            <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-        </div>
-    </div></header>
     <main>
       <div class="row w-100 m-0 p-0">
         <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
