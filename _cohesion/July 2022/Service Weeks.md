@@ -6,14 +6,6 @@ third_nav_title: July 2022
 ---
 <html>
     <body>
-			<header>
-				<div class="row w-100 my-0 mx-auto py-3 px-2" style="max-width: 1920px;"> 
-					<div class="col-md-6 text-left"><a href="cohesion-main.html"><img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"></a></div>
-				<div class="col-md-6 text-right">
-            <div class="w-100 float-right ml-n4" style="position: absolute; bottom: 0;"><p class="gotham mb-0" style="color: #fb5c1f; font-size: x-large; text-transform: uppercase;">JULY 2022</p>
-          <p class="p-0 m-0 d-md-block d-sm-block d-none" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> </div></div>
-				</div>
-			</header>
 			<main>
 			<div class="row w-100 m-0 p-0">
         <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
