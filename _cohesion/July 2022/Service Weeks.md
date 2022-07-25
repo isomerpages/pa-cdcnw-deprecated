@@ -7,10 +7,10 @@ third_nav_title: July 2022
 <html>
     <body>
 			<main>
-			<div class="row w-100 m-0 p-0">
-        <img src="images/service-weeks_kv.jpg" class="w-100 img-responsive img-fluid mx-auto">
+			<div >
+        <img src="images/service-weeks_kv.jpg">
       </div>
-      <article class="mx-auto px-md-4 px-3 py-5" style="max-width: 1000px;">
+      <article style="max-width: 1000px;">
     <h1 class="gotham text-center pb-4 red">Giving is always rewarding!</h1>
         <p>The North West CDC is constantly exploring ways to connect our partners to the needs in the community. An expansion from the <strong>WeCare @ North West Service Weeks</strong> programme’s usual food distribution at the start of the year, the CDC distributed health and hygiene products to 7,000 needy residents for the first time.</p>  
         <p>Each care pack worth around $200 consists of eight items: handwash, sanitizer, wet wipes, as well as five different types of vitamins. As the nation transits into a Covid-19 resilient community, the health and hygiene care pack distribution aims to promote good health and hygiene habits. All items in the care packs were fully sponsored by the CDC’s two corporate partners, Guardian Health &amp; Beauty and Thunderquote. </p>
