@@ -128,7 +128,7 @@ third_nav_title: July 2022
             <p><i>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.</i></p>
             <p><i>Reproduction in whole or in part is prohibited without prior permission from North West CDC.</i></p>
           </div>
-        </div>
+				</div></div>
     </footer>
     </body>
 	</html>
