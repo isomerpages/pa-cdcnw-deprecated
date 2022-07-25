@@ -129,14 +129,6 @@ third_nav_title: July 2022
             <p><i>Reproduction in whole or in part is prohibited without prior permission from North West CDC.</i></p>
           </div>
         </div>
-        <!--Form Desktop-->
-        <div class="col-md-8 d-md-block d-none">
-          <div class="pr-3" style="position: absolute; z-index: 10; right: 0;">
-            <div><h2 class="gotham red pb-0">Subscribe</h2>
-            <p>
-              <span class="gotham" style="font-size: medium;">to Cohesion Magazine</span><br>
-              <span>To find out the latest happenings in North West District!</span>
-            </p>
     </footer>
     </body>
 	</html>
