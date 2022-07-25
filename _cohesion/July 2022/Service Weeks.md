@@ -19,10 +19,10 @@ third_nav_title: July 2022
         </p>
         <p>To manage the scale of preparing 7,000 care packs, North West CDC rallied various corporate and community volunteers to step forward and support the cause. The care packs were first packed at two schools, Wellington Primary and Woodlands Secondary Schools, and then distributed by the local North West Divisions to their residents in June, through house visits and distribution drives.</p>
        <div class="pt-4 pb-5 px-md-4 px-3 my-5" style="border-top: thin solid #e02b2b; border-bottom: thin solid #e02b2b;">
-          <div id="carouselExampleControls" class="carousel slide m-auto" data-ride="carousel" data-touch="true" style="max-width: 87%;">
-            <h4 class="py-4" style="font-weight: bold;">Learning through giving</h4>
-            <div class="carousel-inner">
-              <div class="carousel-item active">
+          <div style="max-width: 87%;">
+            <h4 style="font-weight: bold;">Learning through giving</h4>
+            <div >
+              <div >
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p>
                   <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="...">
