@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Advocating Green Living/Example Title.md
       - Advocating Green Living/.keep
       - Advocating Green Living/Green Homes at  North West.md
       - Advocating Green Living/Recycle at  North West.md
