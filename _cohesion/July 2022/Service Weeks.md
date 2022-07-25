@@ -116,12 +116,7 @@ third_nav_title: July 2022
           <p class="mb-0" style="word-break: break-word;">Let’s continue to make a difference in other people’s lives. There are various projects by North West CDC, so if you’re keen to join as a partner or a volunteer, let us know, contact us at <a href="mailto:northwestcdc_partnerships@pa.gov.sg" class="red" target="_new">northwestcdc_partnerships@pa.gov.sg</a> </p>
         </div>
       </article>
-    </main>
-    <div class="row w-100 my-5 mx-auto pt-4 pb-5" style="max-width: 1000px; border-top: thin solid #c6dfd4;">
-      <div class="col-4 text-left px-1"><a href="green-movement.html" class="red"><i class="fas fa-chevron-left"></i> Previous Article</a></div>
-      <div class="col-4 text-center px-1"><a href="cohesion-main.html" class="red"><i class="fas fa-home"></i> Back To Home</a></div>
-      <div class="col-4 text-right px-1"><a href="buddies-on-the-run.html" class="red">Next Article <i class="fas fa-chevron-right"></i></a></div>
-    </div>
+	</main>
     <footer class="w-100 pt-5 red-bg-15">
       <div class="row w-100 m-auto px-2 pt-4 pb-0" style="max-width: 1400px;">
         <div class="col-md-4 pb-5">
