@@ -25,22 +25,22 @@ third_nav_title: July 2022
               <div >
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p>
-                  <img src="images/service-weeks_05.jpg" class="d-block w-100 pb-4" alt="...">
+                  <img src="images/service-weeks_05.jpg" alt="...">
                   <p><em>“Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school’s vicinity. Seeing the joy in the children in distributing the care packs makes our school’s efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students’ learning outside of the classroom.”</em></p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div>
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p>
-                  <img src="images/service-weeks_lee.jpg" class="d-block w-100 pb-4" alt="...">
+                  <img src="images/service-weeks_lee.jpg"  alt="...">
                   <p><em>“Service Weeks give our students the opportunity to get out of their comfort zone to interact with the community and help others who are in need. From the activity, they learn to appreciate what they have and develop a giving mindset to give back to the community.<br><br>   
                   The school hopes to plant the seed of volunteerism through exposing them to positive experiences and inspire them to take the lead as an active citizen and community youth leader in the future to continue to serve the community.”</em></p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div >
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Muhd Dharmizi Alif, 26, Volunteer of North West Youth Assembly</p>
-                  <img src="images/muhd.jpg" class="d-block w-100 pb-4" alt="...">
+                  <img src="images/muhd.jpg"  alt="...">
                   <p><em>“When I started volunteering, I got to interact with different people and many of those who are not as privileged as me. I learned the issues they were facing and from there, I can bring their problems to my network to see how we can provide more support for them.</em></p> 
 
                   <p><em>Being involved in such community events gives me the opportunity to help these people, give them what I have and share with them the happiness I receive.”</em></p>
@@ -50,49 +50,49 @@ third_nav_title: July 2022
                   </em></p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div >
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Ben Chen, 37, Operations Manager, Guardian</p>
-                  <img src="images/benjessly.jpg" class="d-block w-100 pb-4" alt="...">
+                  <img src="images/benjessly.jpg" alt="...">
                   <p><em>“For Guardian, we benefit from having our different business teams come together to work towards a common outcome. We also get to interact with the young student volunteers to not only pack the care packs, but also listen to their motivations for serving the community, and perspectives on the future of Singapore. The children are very organised and work well as a team. I think it’s an enriching experience for them over the holiday period.”</em></p>
                   <p style="font-size: medium; font-weight: bold;">Jesslylene Kho, 46, Senior Store Manager, Guardian</p>
                   <p><em>“It is my fourth year doing community service as a Guardian volunteer, where I have been mostly supporting seniors through food distributions, and by giving them a listening ear. Volunteering as a staff is in line with Guardian’s calling to get involved in serving the community, as we see ourselves as a part of the community, rather than just existing as a retail establishment.”</em></p>
                 </div>
               </div>
-              <div class="carousel-item">
+              <div>
                 <div>
                   <p style="font-size: medium; font-weight: bold;">Christopher Wang, Chairman, Sembawang Zone B RN</p>
-                  <img src="images/cwang.jpg" class="d-block w-100 pb-4" alt="...">
+                  <img src="images/cwang.jpg"  alt="...">
                   <p><em>“The RN tries to work closely with different organisations to better provide support for their residents. With North West CDC, there are definitely areas where we can work hand in hand to engage and offer support for our residents. For example, the yearly Service Weeks distribution provides more food necessities to residents, as well as the current one, which allows us to give residents an additional care pack filled with health and hygiene products.”</em></p>
                 </div>
               </div>
             </div>
-            <div class="d-md-block d-none">
+            <div >
             </div>
-            <div class="d-md-none d-block">
+            <div >
             </div>
           </div>
         </div>
         <p>Under Sembawang Central Division, the Sembawang Central Zone B Residents’ Network (RN) &amp; East Canberra Zone 1 Residents' Network (RN) leveraged their weekly food distribution with local charity, Food From The Heart (FFTH), to distribute North West CDC’s additional health and hygiene care packs to their residents. </p>
-        <img src="images/alimaton.jpg" class="d-block w-100 pt-3 pb-5" alt="...">
+        <img src="images/alimaton.jpg"  alt="...">
         <p><strong>Mdm Tan (72) and Mdm Meenachi (69), Sembawang Residents</strong></p>
         <p>Mdm Tan: <em>“This is the first time we receive the hand santizer and vitamins. I think it is very good for us as it can be expensive to purchase these items and it is useful as I can give the vitamins to my daughter to boost her immunity against Covid-19.”</em></p> 
         <p>Mdm Meenachi: <em>“I live alone so receiving the care packs is very good for me. I don’t need to worry about my daily meals and now with the additional vitamins, I can take the nutrients to keep myself healthy.”</em></p>
         <p><br></p>
-        <div class="red-bg-15 py-4 px-md-5 px-4" style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+        <div  style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
           <h4 class="red">You too can help!</h4>
-          <p class="mb-0" style="word-break: break-word;">Let’s continue to make a difference in other people’s lives. There are various projects by North West CDC, so if you’re keen to join as a partner or a volunteer, let us know, contact us at <a href="mailto:northwestcdc_partnerships@pa.gov.sg" class="red" target="_new">northwestcdc_partnerships@pa.gov.sg</a> </p>
+          <p  style="word-break: break-word;">Let’s continue to make a difference in other people’s lives. There are various projects by North West CDC, so if you’re keen to join as a partner or a volunteer, let us know, contact us at <a href="mailto:northwestcdc_partnerships@pa.gov.sg" target="_new">northwestcdc_partnerships@pa.gov.sg</a> </p>
         </div>
       </article>
 	</main>
-    <footer class="w-100 pt-5 red-bg-15">
-      <div class="row w-100 m-auto px-2 pt-4 pb-0" style="max-width: 1400px;">
-        <div class="col-md-4 pb-5">
+    <footer>
+      <div  style="max-width: 1400px;">
+        <div>
 					<div><div></div>						
-            <h2 class="gotham red pb-4">Our Team</h2>
+            <h2>Our Team</h2>
             <p><b>Adviser:</b> Mayor Alex Yam</p>
             <p><b>Editorial Team:</b> Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
-            <p>Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" class="red" style="text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
+            <p>Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
             <p><i>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.</i></p>
             <p><i>Reproduction in whole or in part is prohibited without prior permission from North West CDC.</i></p>
           </div>
