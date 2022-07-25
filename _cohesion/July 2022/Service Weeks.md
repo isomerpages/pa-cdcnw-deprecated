@@ -87,12 +87,6 @@ third_nav_title: July 2022
               </div>
             </div>
             <div class="d-md-block d-none">
-             <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" style="width: auto; margin-left: -50px;">
-                <i class="fas fa-chevron-left font-xxl" style="color: #000000"></i>
-              </button>
-              <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" style="width: auto; margin-right: -50px;">
-                <i class="fas fa-chevron-right font-xxl" style="color: #000000"></i>
-              </button>
             </div>
             <div class="d-md-none d-block">
             </div>
