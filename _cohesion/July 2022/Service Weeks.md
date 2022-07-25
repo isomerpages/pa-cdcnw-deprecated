@@ -95,18 +95,11 @@ third_nav_title: July 2022
               </button>
             </div>
             <div class="d-md-none d-block">
-             <button class="carousel-control-prev" type="button" data-target="#carouselExampleControls" data-slide="prev" style="width: auto; margin-left: -30px;">
-                <i class="fas fa-chevron-left font-xxl" style="color: #000000"></i>
-              </button>
-              <button class="carousel-control-next" type="button" data-target="#carouselExampleControls" data-slide="next" style="width: auto; margin-right: -30px;">
-                <i class="fas fa-chevron-right font-xxl" style="color: #000000"></i>
-              </button>
             </div>
           </div>
         </div>
         <p>Under Sembawang Central Division, the Sembawang Central Zone B Residents’ Network (RN) &amp; East Canberra Zone 1 Residents' Network (RN) leveraged their weekly food distribution with local charity, Food From The Heart (FFTH), to distribute North West CDC’s additional health and hygiene care packs to their residents. </p>
         <img src="images/alimaton.jpg" class="d-block w-100 pt-3 pb-5" alt="...">
-        <p><strong>Mdm Alimaton, 49, a resident of Sembawang Central,</strong> has been benefitting from the weekly food distribution for over a year. Her family receives about twelve food items monthly, which provide immediate help in preparing her family’s daily meals. This time around, she also received the additional health and hygiene products. She said: <em>“Health supplements can be expensive, and it is not something of priority in our shopping list. These products are very useful to us to stay healthy, especially for my children who tend to be caught up studying and have little time for self-care. We’re very thankful to receive this extra help.”</em></p>
         <p><strong>Mdm Tan (72) and Mdm Meenachi (69), Sembawang Residents</strong></p>
         <p>Mdm Tan: <em>“This is the first time we receive the hand santizer and vitamins. I think it is very good for us as it can be expensive to purchase these items and it is useful as I can give the vitamins to my daughter to boost her immunity against Covid-19.”</em></p> 
         <p>Mdm Meenachi: <em>“I live alone so receiving the care packs is very good for me. I don’t need to worry about my daily meals and now with the additional vitamins, I can take the nutrients to keep myself healthy.”</em></p>
