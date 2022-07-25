@@ -108,6 +108,7 @@ third_nav_title: July 2022
       <div class="row w-100 m-auto px-2 pt-4 pb-0" style="max-width: 1400px;">
         <div class="col-md-4 pb-5">
           <div>
+						
             <h2 class="gotham red pb-4">Our Team</h2>
             <p><b>Adviser:</b> Mayor Alex Yam</p>
             <p><b>Editorial Team:</b> Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
