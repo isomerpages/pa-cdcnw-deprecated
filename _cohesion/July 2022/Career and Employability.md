@@ -4,7 +4,6 @@ permalink: /cohesion/July-2022/nw-jobfair
 description: ""
 third_nav_title: July 2022
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <body style="width: 100%; margin: 0px 0px; padding: 0px 0px;">
