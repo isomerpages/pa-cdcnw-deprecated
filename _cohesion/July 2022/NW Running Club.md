@@ -4,243 +4,86 @@ permalink: /cohesion/July-2022/running-club
 description: ""
 third_nav_title: July 2022
 ---
-<!doctype html>
-<html lang="en">
-  <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous">
-    </script>
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
-
-    <title>Cohesion Magazine</title>
-
-    <link rel="stylesheet" type="text/css" href="style.css" />
-    <script src="https://kit.fontawesome.com/91ec0ca8ca.js" crossorigin="anonymous"></script>
-
-    <style type="text/css" scoped>
-        .mauticform_wrapper { max-width: 600px; margin: 10px auto; color: #6f6f6f; font-weight: 400; font-family: 'Source Sans Pro', 'Helvetica Neue', 'Arial', 'sans-serif';font-size: 18px;}
-        .mauticform-innerform {}
-        .mauticform-post-success {}
-        .mauticform-name { font-weight: bold; font-size: 1.5em; margin-bottom: 3px; }
-        .mauticform-description { margin-top: 2px; margin-bottom: 10px; }
-        .mauticform-error { margin-bottom: 10px; color: red; }
-        .mauticform-message { margin-bottom: 10px;color: green; }
-        .mauticform-row { display: block; margin-bottom: 20px; }
-        .mauticform-label { font-size: 1.1em; display: block; font-weight: bold; margin-bottom: 5px; }
-        .mauticform-row.mauticform-required .mauticform-label:after { color: #e32; content: " *"; display: inline; }
-        .mauticform-helpmessage { display: block; font-size: 0.9em; margin-bottom: 3px; }
-        .mauticform-errormsg { display: block; color: red; margin-top: 2px; }
-        .mauticform-selectbox, .mauticform-input, .mauticform-textarea { width: 100%; padding: 0.5em 0.5em; border:  none; border-bottom: 1px solid #c592bc; background: transparent; box-shadow: 0px 0px 0px #fff inset; box-sizing: border-box; font-size: medium;}
-        .mauticform-checkboxgrp-row {}
-        .mauticform-checkboxgrp-label { font-weight: normal; }
-        .mauticform-checkboxgrp-checkbox {}
-        .mauticform-radiogrp-row {}
-        .mauticform-radiogrp-label { font-weight: normal; }
-        .mauticform-radiogrp-radio {}
-        .mauticform-button-wrapper .mauticform-button.btn-default { color: #FFFFFF;background-color: #c592bc; border-color: #c592bc; -webkit-border-radius: 50px;
--moz-border-radius: 50px;
-border-radius: 50px; padding: 5px 15px;}
-        .mauticform-button-wrapper .mauticform-button { display: inline-block;margin-bottom: 0;font-weight: 600;text-align: center;vertical-align: middle;cursor: pointer;background-image: none;border: 1px solid transparent;white-space: nowrap;padding: 6px 12px;font-size: 13px;line-height: 1.3856;border-radius: 3px;-webkit-user-select: none;-moz-user-select: none;-ms-user-select: none;user-select: none;}
-        .mauticform-button-wrapper .mauticform-button.btn-default[disabled] { background-color: #ffffff; border-color: #dddddd;}
-    </style>
-
-  </head>
-  <body>
-    <header>
-      <div class="row w-100 my-0 mx-auto py-3 px-2" style="max-width: 1920px;">
-        <div class="col-md-6 text-left"><a href="cohesion-main.html"><img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"></a></div>
-        <div class="col-md-6 text-right">
-          <div class="w-100 float-right ml-n4" style="position: absolute; bottom: 0;">
-          <p class="gotham mb-0" style="color: #fb5c1f; font-size: x-large; text-transform: uppercase;">JULY 2022</p>
-          <p class="p-0 m-0 d-md-block d-sm-block d-none" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
-            <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
-            <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
-            <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
-          </div>
+<!DOCTYPE html>
+<html>
+<head>
+<body style="width: 100%; margin: 0px 0px; padding: 0px 0px;">
+    <header style="width: 100%;">
+        <div style="width: 33.3%; float: left; padding: 10px 5px 10px 10px;">
+            <img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;">
         </div>
-        <div class="col-12 d-md-none d-sm-none d-block mx-auto text-center">
-            <p class="p-0 m-0" style="font-size: xx-large; color: #fb5c1f;"><span style="font-size: large;">Connect With Us</span> 
-            <a href="https://www.facebook.com/nwcdc/" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-facebook-square px-1"></i></a>
-            <a href="https://www.instagram.com/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-instagram-square px-1"></i></a>
-            <a href="https://t.me/northwestcdc" target="_new" style="font-size: xx-large; color: #fb5c1f;"><i class="fab fa-telegram pl-1"></i></a></p>
+        <div style="width: 33.3%; float: right; padding: 10px 5px; text-align: right;">
+            <p style="font-family: Arial, serif; font-size: x-large; font-weight: bold; color: #fb5c1f;">July 2022</p>
+            <p style="font-family: Arial, serif; font-size: large; color: #fb5c1f;">Connect With Us &nbsp;<a href="https://www.facebook.com/nwcdc/" target="_new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="max-width: 25px; fill: #fb5c1f;"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M400 32H48A48 48 0 0 0 0 80v352a48 48 0 0 0 48 48h137.25V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.27c-30.81 0-40.42 19.12-40.42 38.73V256h68.78l-11 71.69h-57.78V480H400a48 48 0 0 0 48-48V80a48 48 0 0 0-48-48z"/></svg></a>&nbsp; 
+
+                <a href="https://www.instagram.com/northwestcdc" target="_new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" style="max-width: 25px; fill: #fb5c1f;"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224,202.66A53.34,53.34,0,1,0,277.36,256,53.38,53.38,0,0,0,224,202.66Zm124.71-41a54,54,0,0,0-30.41-30.41c-21-8.29-71-6.43-94.3-6.43s-73.25-1.93-94.31,6.43a54,54,0,0,0-30.41,30.41c-8.28,21-6.43,71.05-6.43,94.33S91,329.26,99.32,350.33a54,54,0,0,0,30.41,30.41c21,8.29,71,6.43,94.31,6.43s73.24,1.93,94.3-6.43a54,54,0,0,0,30.41-30.41c8.35-21,6.43-71.05,6.43-94.33S357.1,182.74,348.75,161.67ZM224,338a82,82,0,1,1,82-82A81.9,81.9,0,0,1,224,338Zm85.38-148.3a19.14,19.14,0,1,1,19.13-19.14A19.1,19.1,0,0,1,309.42,189.74ZM400,32H48A48,48,0,0,0,0,80V432a48,48,0,0,0,48,48H400a48,48,0,0,0,48-48V80A48,48,0,0,0,400,32ZM382.88,322c-1.29,25.63-7.14,48.34-25.85,67s-41.4,24.63-67,25.85c-26.41,1.49-105.59,1.49-132,0-25.63-1.29-48.26-7.15-67-25.85s-24.63-41.42-25.85-67c-1.49-26.42-1.49-105.61,0-132,1.29-25.63,7.07-48.34,25.85-67s41.47-24.56,67-25.78c26.41-1.49,105.59-1.49,132,0,25.63,1.29,48.33,7.15,67,25.85s24.63,41.42,25.85,67.05C384.37,216.44,384.37,295.56,382.88,322Z"/></svg></a>&nbsp; 
+
+                <a href="https://t.me/northwestcdc" target="_new"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" style="max-width: 28px; fill: #fb5c1f;"><!--! Font Awesome Pro 6.1.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg></a>
+            </p>
         </div>
     </header>
-
-    <main>
-        <div class="w-100 text-center mx-auto py-4">
-          <video class="mx-auto w-100" autoplay loop controls muted>
-            <source src="images/NWrunning club_HD.mp4" type="video/mp4">
+	<main style="max-width: 1600px; padding: 0px 0px; margin: 0px auto;">
+    <div style="width: 100%; margin: 0px 0px; padding: 0px 0px;">
+        <video style="width: 100%;" autoplay="" loop="" controls="" muted="">
+        <source src="images/NWrunning club_HD.mp4" type="video/mp4">
             Your browser does not support the video tag.
-          </video>
-
-        </div>
-    </main>
-
-    <div class="row w-100 my-5 mx-auto pt-4 pb-5" style="max-width: 1000px; border-top: thin solid #c6dfd4;">
-      <div class="col-4 text-left px-1"><a href="service-weeks.html" class="pink"><i class="fas fa-chevron-left"></i> Previous Article</div></a>
-      <div class="col-4 text-center px-1"><a href="cohesion-main.html" class="pink"><i class="fas fa-home"></i> Back To Home</a></div>
-      <div class="col-4 text-right px-1"><a href="cdc-vouchers.html" class="pink">Next Article <i class="fas fa-chevron-right"></i></a></div>
+        </video>
     </div>
 
-
-    <footer class="w-100 pt-5" style="background: #f9e0e0;">
-      <div class="row w-100 m-auto px-2 pt-4 pb-0" style="max-width: 1400px;">
-        <div class="col-md-4 pb-5">
-          <div>
-            <h2 class="gotham pink pb-4">Our Team</h2>
-            <p><b>Adviser:</b> Mayor Alex Yam</p>
-            <p><b>Editorial Team:</b> Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
-            <p>Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" class="pink" style="text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
-            <p><i>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.</i></p>
-            <p><i>Reproduction in whole or in part is prohibited without prior permission from North West CDC.</i></p>
-          </div>
+    <div style="max-width: 1000px; border-top: thin solid #c592bc; margin: 0px auto; padding: 15px 15px; margin-top: 50px; font-family: Arial, serif;">
+        <div style="width: 33.3%; float: left; text-align: left;">
+            <a href="https://northwest.cdc.gov.sg/cohesion/July-2022/service-weeks" style="text-decoration: none; color: #c592bc;">< Previous Article</a>
         </div>
+        <div style="width: 33.3%; float: left; text-align: center;">
+            <a href="https://northwest.cdc.gov.sg/cohesion/July-2022/main-page" style="text-decoration: none; color: #c592bc;">Back To Home</a>
+        </div>
+        <div style="width: 33.3%; float: left; text-align: right;">
+            <a href="https://northwest.cdc.gov.sg/cohesion/July-2022/cdc-vouchers" style="text-decoration: none; color: #c592bc;">Next Article ></a>
+        </div>
+    </div>
 
-        <!--Form Desktop-->
-        <div class="col-md-8 d-md-block d-none">
-          <div class="pr-3" style="position: absolute; z-index: 10; right: 0;">
-            <div>
-                          <h2 class="gotham pink pb-0">Subscribe</h2>
-            <p>
-              <span class="gotham" style="font-size: medium;">to Cohesion Magazine</span><br/>
-              <span>To find out the latest happenings in North West District!</span>
-            </p>
-              <div id="mauticform_wrapper_subscribetocohesion" class="mauticform_wrapper">
-                  <form autocomplete="false" role="form" method="post" action="https://northwestcdc.imail-host.com/form/submit?formId=2" id="mauticform_subscribetocohesion" data-mautic-form="subscribetocohesion" enctype="multipart/form-data">
-                      <div class="mauticform-error" id="mauticform_subscribetocohesion_error"></div>
-                      <div class="mauticform-message" id="mauticform_subscribetocohesion_message"></div>
-                      <div class="mauticform-innerform">
+    </main>
+<div style="background: #f9e0e0; font-family: Arial, serif;display: block; width: 100%; margin-top: 50px;">
+            <div style="padding: 20px 20px; width: 33.3%; float: left;">
+                <h1 style="color: #c592bc; font-weight: bold;">Our Team</h1>
+                <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px;"><strong>Adviser:</strong> Mayor Alex Yam<br/><br/>
 
-                          
-                        <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
+<strong>Editorial Team:</strong> Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh<br><br/>
 
-                          <!--<div id="mauticform_subscribetocohesion_subscribe_to_cohesion" class="mauticform-row mauticform-freehtml mauticform-field-1">
-                              <h3 id="mauticform_label_subscribetocohesion_subscribe_to_cohesion" for="mauticform_input_subscribetocohesion_subscribe_to_cohesion" class="mauticform-label">
-                                  Subscribe To Cohesion!
-                              </h3>
-                              <div id="mauticform_input_subscribetocohesion_subscribe_to_cohesion" name="mauticform[subscribe_to_cohesion]" value="" class="mauticform-freehtml">
-                                  Subscribe to Cohesion Newsletter to find out the latest happenings in North West District!
-                              </div>
-                          </div>-->
+Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="color: #c592bc;">northwest_cdc@pa.gov.sg</a><br/><br/>
 
-                          <div id="mauticform_subscribetocohesion_full_name" data-validate="full_name" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
-                              <!--<label id="mauticform_label_subscribetocohesion_full_name" for="mauticform_input_subscribetocohesion_full_name" class="mauticform-label">Full name</label>-->
-                              <input id="mauticform_input_subscribetocohesion_full_name" name="mauticform[full_name]" value="Full name" class="mauticform-input" type="text">
-                              <span class="mauticform-errormsg" style="display: none;">Please fill in Full name</span>
-                          </div>
+<em>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.<br/><br/>
 
-                          <div id="mauticform_subscribetocohesion_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
-                              <!--<label id="mauticform_label_subscribetocohesion_email" for="mauticform_input_subscribetocohesion_email" class="mauticform-label">Email</label>-->
-                              <input id="mauticform_input_subscribetocohesion_email" name="mauticform[email]" value="Email" class="mauticform-input" type="text">
-                              <span class="mauticform-errormsg" style="display: none;">Please fill in email</span>
-                          </div>
-
-                          <div id="mauticform_subscribetocohesion_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                              <button type="submit" name="mauticform[submit]" id="mauticform_input_subscribetocohesion_submit" value="" class="mauticform-button btn btn-default">Submit</button>
-                          </div>
-                          </div>
-                      </div>
-
-                      <input type="hidden" name="mauticform[formId]" id="mauticform_subscribetocohesion_id" value="2">
-                      <input type="hidden" name="mauticform[return]" id="mauticform_subscribetocohesion_return" value="">
-                      <input type="hidden" name="mauticform[formName]" id="mauticform_subscribetocohesion_name" value="subscribetocohesion">
-
-                      </form>
-              </div>
+Reproduction in whole or in part is prohibited without prior permission from North West CDC.</em></p>
             </div>
-          </div>
-          <div style="position: absolute; bottom: 0; left: 0; z-index: 1;"><img src="images/subscribe-laptop.png" class="w-100"></div>
-        </div>
-        <!--Form Desktop-->
 
-        <!--Form Mobile-->
-        <div class="col-md-8 d-md-none d-block">
-          <div>
-            <div>
-                          <h2 class="gotham pink pb-0">Subscribe</h2>
-            <p>
-              <span class="gotham" style="font-size: medium;">to Cohesion Magazine</span><br/>
-              <span>To find out the latest happenings in North West District!</span>
-            </p>
-              <div id="mauticform_wrapper_subscribetocohesion" class="mauticform_wrapper">
-                  <form autocomplete="false" role="form" method="post" action="https://northwestcdc.imail-host.com/form/submit?formId=2" id="mauticform_subscribetocohesion" data-mautic-form="subscribetocohesion" enctype="multipart/form-data">
-                      <div class="mauticform-error" id="mauticform_subscribetocohesion_error"></div>
-                      <div class="mauticform-message" id="mauticform_subscribetocohesion_message"></div>
-                      <div class="mauticform-innerform">
-
-                          
-                        <div class="mauticform-page-wrapper mauticform-page-1" data-mautic-form-page="1">
-
-                          <!--<div id="mauticform_subscribetocohesion_subscribe_to_cohesion" class="mauticform-row mauticform-freehtml mauticform-field-1">
-                              <h3 id="mauticform_label_subscribetocohesion_subscribe_to_cohesion" for="mauticform_input_subscribetocohesion_subscribe_to_cohesion" class="mauticform-label">
-                                  Subscribe To Cohesion!
-                              </h3>
-                              <div id="mauticform_input_subscribetocohesion_subscribe_to_cohesion" name="mauticform[subscribe_to_cohesion]" value="" class="mauticform-freehtml">
-                                  Subscribe to Cohesion Newsletter to find out the latest happenings in North West District!
-                              </div>
-                          </div>-->
-
-                          <div id="mauticform_subscribetocohesion_full_name" data-validate="full_name" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-2 mauticform-required">
-                              <!--<label id="mauticform_label_subscribetocohesion_full_name" for="mauticform_input_subscribetocohesion_full_name" class="mauticform-label">Full name</label>-->
-                              <input id="mauticform_input_subscribetocohesion_full_name" name="mauticform[full_name]" value="Full name" class="mauticform-input" type="text">
-                              <span class="mauticform-errormsg" style="display: none;">Please fill in Full name</span>
-                          </div>
-
-                          <div id="mauticform_subscribetocohesion_email" data-validate="email" data-validation-type="text" class="mauticform-row mauticform-text mauticform-field-3 mauticform-required">
-                              <!--<label id="mauticform_label_subscribetocohesion_email" for="mauticform_input_subscribetocohesion_email" class="mauticform-label">Email</label>-->
-                              <input id="mauticform_input_subscribetocohesion_email" name="mauticform[email]" value="Email" class="mauticform-input" type="text">
-                              <span class="mauticform-errormsg" style="display: none;">Please fill in email</span>
-                          </div>
-
-                          <div id="mauticform_subscribetocohesion_submit" class="mauticform-row mauticform-button-wrapper mauticform-field-4">
-                              <button type="submit" name="mauticform[submit]" id="mauticform_input_subscribetocohesion_submit" value="" class="mauticform-button btn btn-default">Submit</button>
-                          </div>
-                          </div>
-                      </div>
-
-                      <input type="hidden" name="mauticform[formId]" id="mauticform_subscribetocohesion_id" value="2">
-                      <input type="hidden" name="mauticform[return]" id="mauticform_subscribetocohesion_return" value="">
-                      <input type="hidden" name="mauticform[formName]" id="mauticform_subscribetocohesion_name" value="subscribetocohesion">
-
-                      </form>
-              </div>
+            <div style="padding: 20px 20px; width: 33.3%; float: left;">
+                <h1 style="color: #c592bc; font-weight: bold; margin-bottom: 0px;">Subscribe</h1>
+                <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; margin-top: 0px;">
+                  <strong style="font-size: medium;">to Cohesion Magazine</strong><br><br/>
+                  <span>To find out the latest happenings in North West District!</span>
+                </p>
+                <div style="text-align: left; width: 100%; padding-top: 10px;">
+                  <a href="https://www.cdc.gov.sg/northwest/contact-us/subscribe-to-e-cohesion" style="background: #c592bc;
+    color: #FFFFFF;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    font-weight: bold;
+    text-transform: uppercase; padding: 10px 15px; text-decoration: none; font-size: small;">Subscribe</a>
+                </div>
             </div>
-          </div>
-          <div><img src="images/subscribe-laptop.png" class="w-100"></div>
-        </div>
-        <!--Form Desktop-->
 
-      </div>
-      <div class="row w-100 m-auto px-2 py-3" style="background: #c592bc;">
-        <div class="row w-100 mx-auto" style="max-width: 1400px;">
-          <div class="col-md-6 text-md-left text-center" style="color: #FFFFFF; font-size: small;">
-            © 2022 North West CDC All rights reserved
+            <div style="background: #c592bc; font-family: Arial, serif; display: inline-block; width: 100%;">
+        <div style="max-width: 100%;     margin: 15px 20px 15px; min-height: 15px;">
+          <div style="color: #FFFFFF; font-size: small; width: 50%; float: left;">
+            &copy; 2022 North West CDC All rights reserved
           </div>
-          <div class="col-md-6 text-md-right text-center" style="color: #FFFFFF;">
+          <div style="color: #FFFFFF; width: 50%; float: left; text-align: right;">
             <a href="https://www.cdc.gov.sg/northwest/terms-of-use" style="text-decoration: underline; color: #FFFFFF; font-size: small;">Terms of Use</a> | <a href="https://www.cdc.gov.sg/northwest/privacy-statement" style="text-decoration: underline; color: #FFFFFF; font-size: small;">Privacy Statement</a>
           </div>
         </div>
-      </div>
-    </footer>
-
-    <!-- Optional JavaScript; choose one of the two! -->
-
-    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF" crossorigin="anonymous"></script>
-
-    <!-- Option 2: Separate Popper and Bootstrap JS -->
-    <!--
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js" integrity="sha384-VHvPCCyXqtD5DqJeNxl2dtTyhF78xXNXdkwX1CZeRusQfRKp+tA7hAShOK/B/fQ2" crossorigin="anonymous"></script>
-    -->
-  </body>
-</html>
+</div>
+</div>
+</body>
+</head>
