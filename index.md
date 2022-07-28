@@ -9,7 +9,6 @@ sections:
   - hero:
       title: North West CDC
       subtitle: Building a Caring and Healthy North West Community
-      background: /images/Nurturing Youths.jpg
   - infopic:
       title: Advocating Green Living
       description: Working towards a sustainable future, we aim to imbue a green
