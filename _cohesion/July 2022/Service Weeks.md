@@ -23,7 +23,7 @@ third_nav_title: July 2022
     </header>
 			<main style="max-width: 1600px; padding: 0px 0px; margin: 0px auto;">
 			<div >
-        <img src="/images/DCIM_0154.jpg" style="max-width: 100%;">
+        <img src="![](/images/DCIM_0154.jpg)" style="max-width: 100%;">
       </div>
       <article style="max-width: 960px; padding: 50px 30px; margin: 0px auto;">
       <h1 style="font-family: Arial, serif;
