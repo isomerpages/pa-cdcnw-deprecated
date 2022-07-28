@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Banner.jpg
       title: North West CDC
       subtitle: Building a Caring and Healthy North West Community
   - infopic:
