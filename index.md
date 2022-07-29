@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: North West CDC
-      subtitle: Building a Caring and Healthy North West Community
       background: /images/Artboard 1.png
   - infopic:
       title: Advocating Green Living
@@ -16,11 +14,13 @@ sections:
         mindset and spark behavioral change among residents through various
         green initiatives.
       alt: Image alt text
+      image: /images/Programmes/Green Living/Kayak 1.jpg
   - infopic:
       alt: Image alt text
       title: Enabling Partnerships and Volunteerism
       description: We play an enabler role in connecting our corporate partners'
         resources to serve the various needs in the community.
+      image: /images/DCIM_0184.jpg
   - infopic:
       title: Uplifting The Community
       subtitle: Infopic Subtitle
@@ -28,12 +28,14 @@ sections:
         assistance schemes, and empower residents to improve their lives and
         employability.
       alt: Image alt text
+      image: /images/Nurturing Youths.jpg
   - infopic:
       title: Promoting Health and Wellness
       subtitle: Infopic Subtitle
       description: "Through a range of healthy living programmes, we hope for our
         North West residents to maintain an active and healthy lifestyle. "
       alt: Image alt text
+      image: /images/Launch 2 (2).jpg
   - resources:
       title: Resources
 ---

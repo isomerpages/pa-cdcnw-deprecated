@@ -1,9 +1,10 @@
 ---
-title: WeCare Fund
+title: North West WeCare Fund
 permalink: /programmes/Partnerships-and-Volunteerism/wecare-fund
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+
 [Image]
 
 North West CDC encourages individuals, organisations and schools to create ground-up initiatives to support the community. The CDC connects the relevant community network, provides monetary support and extend project management advice to support ground-up initiatives through the North West WeCare Fund. 

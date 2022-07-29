@@ -2,9 +2,5 @@ collections:
   giving-back:
     output: true
     order:
+      - Volunteer with us.md
       - Corporate Social Responsibility.md
-      - Donate To NWCDC/.keep
-      - Donate To NWCDC/Club 100 @ North West.md
-      - Donate To NWCDC/North West Heart For Students Scheme.md
-      - Volunteer/.keep
-      - Volunteer/North West Youth Assembly.md
