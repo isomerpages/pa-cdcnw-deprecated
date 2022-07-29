@@ -258,7 +258,7 @@ third_nav_title: July 2022
 
 <strong>Editorial Team:</strong> Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh<br><br/>  
 
-Please send feedback, suggestions and comments to <a href="mailto:northwest\_cdc@pa.gov.sg" target="\_new" style="color: #e02b2b;">northwest\_cdc@pa.gov.sg</a><br/><br/\>  
+Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="\_new" style="color: #e02b2b;">northwest_cdc@pa.gov.sg</a><br/><br/\>  
 
 <em>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.<br/>
 
