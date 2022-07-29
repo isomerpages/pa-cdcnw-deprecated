@@ -120,10 +120,8 @@ third_nav_title: July 2022
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; "><em>"When I started volunteering, I got to interact with different people and many of those who are not as privileged as me. I learned the issues they were facing and from there, I can bring their problems to my network to see how we can provide more support for them.</em></p>  
 
- 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>Being involved in such community events gives me the opportunity to help these people, give them what I have and share with them the happiness I receive."</em></p> 
-
                 </div> 
 
               </div> 
