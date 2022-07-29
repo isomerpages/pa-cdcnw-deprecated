@@ -37,6 +37,7 @@ sections:
       description: "Through a range of healthy living programmes, we hope for our
         North West residents to maintain an active and healthy lifestyle. "
       alt: Image alt text
+      image: /images/Launch 2 (2).jpg
   - resources:
       title: Resources
 ---
