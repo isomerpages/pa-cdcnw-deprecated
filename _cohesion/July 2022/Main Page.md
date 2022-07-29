@@ -32,7 +32,7 @@ third_nav_title: July 2022
 
         <div style="width: 100%; float: left; padding: 0px; margin-top: -100px;">  
 
-            <img src\="images/ndp\_header.gif" class="w-100 img\-responsive img\-fluid" style="max-width: 600px; width: 100%;" />  
+            <img src\="/images/Cohesion/July%202022/ndp_header2.gif" class="w-100 img\-responsive img\-fluid" style="max-width: 600px; width: 100%;" />  
 
         </div>  
 
@@ -44,7 +44,7 @@ third_nav_title: July 2022
 
           <div class="col-lg-6 m-0 p-0" style="-webkit-border-top-left-radius: 30px; -webkit-border-top-right-radius: 30px; -moz-border-radius-topleft: 30px; -moz-border-radius-topright: 30px; border-top-left-radius: 30px; border-top-right-radius: 30px;">  
 
-            <img src\="images/KV\_13.png"  style\="-webkit\-border-top-left-radius: 30px; -webkit\-border-top-right-radius: 30px; -moz\-border-radius-topleft: 30px; -moz\-border-radius-topright: 30px; border-top-left-radius: 30px; border-top-right-radius: 30px; width: 100%;" />  
+            <img src\="/images/Cohesion/July%202022/KV_13.png"  style\="-webkit\-border-top-left-radius: 30px; -webkit\-border-top-right-radius: 30px; -moz\-border-radius-topleft: 30px; -moz\-border-radius-topright: 30px; border-top-left-radius: 30px; border-top-right-radius: 30px; width: 100%;" />  
 
           </div>  
 
@@ -72,7 +72,7 @@ third_nav_title: July 2022
 
               <div style="text-align: center; width: 100%;"> 
 
-                <img src\="images/pillars1.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
+                <img src\="/images/Cohesion/July%202022/pillars1.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
 
               </div>  
 
@@ -96,7 +96,7 @@ third_nav_title: July 2022
 
               <div style="text-align: center; width: 100%;"> 
 
-                <img src\="images/pillars2.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
+                <img src\="/images/Cohesion/July%202022/pillars2.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
 
               </div>  
 
@@ -118,7 +118,7 @@ third_nav_title: July 2022
 
               <div style="text-align: center; width: 100%; "> 
 
-                <img src\="images/pillars3.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
+                <img src\="/images/Cohesion/July%202022/pillars3.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
 
               </div>  
 
@@ -142,7 +142,7 @@ third_nav_title: July 2022
 
               <div style="text-align: center; width: 100%;"> 
 
-                <img src\="images/pillars4.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
+                <img src\="/images/Cohesion/July%202022/pillars4.jpg" class="w-100 img\-responsive img\-fluid mx-auto" style="max-width: 242px;" /> 
 
               </div>  
 
@@ -170,7 +170,7 @@ third_nav_title: July 2022
 
                 <div style="margin: 0px 40px;"> 
 
-                  <img src\="images/cohesion\_16.gif" style="width: 100%;" /> 
+                  <img src\="/images/Cohesion/July%202022/cohesion_16.gif" style="width: 100%;" /> 
 
                 </div>  
 
@@ -224,7 +224,7 @@ third_nav_title: July 2022
 
         <div style="text-align: center; width: 100%;">  
 
-          <img src\="images/story.jpg" style="max-width: 300px; width: 100%;" />  
+          <img src\="/images/Cohesion/July%202022/cohesion_17.jpg" style="max-width: 300px; width: 100%;" />  
 
         </div>  
 
