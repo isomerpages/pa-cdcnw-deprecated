@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: North West CDC
-      subtitle: Building a Caring and Healthy North West Community
       background: /images/Artboard 1.png
   - infopic:
       title: Advocating Green Living
