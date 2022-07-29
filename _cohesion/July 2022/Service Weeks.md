@@ -14,7 +14,7 @@ third_nav_title: July 2022
 
         <div style="width: 33.3%; float: left; padding: 10px 5px 10px 10px;"> 
 
-            <img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
+            <img src="/images/Cohesion/July%202022/we-care-logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
 
         </div> 
 
@@ -42,7 +42,7 @@ third_nav_title: July 2022
 
 <div > 
 
-        <img src="images/service-weeks_kv.jpg" style="max-width: 100%;"> 
+        <img src="/images/Cohesion/July%202022/service-weeks_kv%20(1).jpg" style="max-width: 100%;"> 
 
       </div> 
 
@@ -66,7 +66,7 @@ third_nav_title: July 2022
 
         <p style="text-align: center; padding: 15px 0px;"> 
 
-          <img src="images/bagpack.gif" style="width: 100%; max-width: 750px; margin: 10px auto;" /> 
+          <img src="/images/Cohesion/July%202022/bagpack.gif" style="width: 100%; max-width: 750px; margin: 10px auto;" /> 
 
         </p> 
 
@@ -86,7 +86,7 @@ third_nav_title: July 2022
 
                   <p style="font-size: medium; font-weight: bold;">Daniel Lim, 67, Subject Head Partnerships, Wellington Primary School</p> 
 
-                  <img src="images/service-weeks_05.jpg" alt="..." style="width: 100%; margin: 10px auto;" /> 
+                  <img src="/images/Cohesion/July%202022/service-weeks_05.jpg" alt="..." style="width: 100%; margin: 10px auto;" /> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"Prior to the pandemic, we partnered North West CDC in the WeCare @ North West – Service Weeks programme, where our students were actively involved in the packing and distribution of food packs to needy residents in the school's vicinity. Seeing the joy in the children in distributing the care packs makes our school's efforts worthwhile. I hope to be able to work the CDC on more programmes which enrich our students' learning outside of the classroom."</em></p> 
 
@@ -100,7 +100,7 @@ third_nav_title: July 2022
 
                   <p style="font-size: medium; font-weight: bold;">Ms April Lee, 36, HOD Character and Citizenship Education, Woodlands Secondary School</p> 
 
-                  <img src="images/service-weeks_lee.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
+                  <img src="/images/Cohesion/July%202022/service-weeks_lee.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"Service Weeks give our students the opportunity to get out of their comfort zone to interact with the community and help others who are in need. From the activity, they learn to appreciate what they have and develop a giving mindset to give back to the community.<br><br>    
 
@@ -116,7 +116,7 @@ third_nav_title: July 2022
 
                   <p style="font-size: medium; font-weight: bold;">Muhd Dharmizi Alif, 26, Volunteer of North West Youth Assembly</p> 
 
-                  <img src="images/muhd.jpg"  alt="..." style="width: 100%; margin: 10px auto;"> 
+                  <img src="/images/Cohesion/July%202022/muhd.jpg"  alt="..." style="width: 100%; margin: 10px auto;"> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; "><em>"When I started volunteering, I got to interact with different people and many of those who are not as privileged as me. I learned the issues they were facing and from there, I can bring their problems to my network to see how we can provide more support for them.</em></p>  
 
