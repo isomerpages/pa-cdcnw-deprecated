@@ -22,6 +22,7 @@ sections:
       title: Enabling Partnerships and Volunteerism
       description: We play an enabler role in connecting our corporate partners'
         resources to serve the various needs in the community.
+      image: /images/DCIM_0184.jpg
   - infopic:
       title: Uplifting The Community
       subtitle: Infopic Subtitle
