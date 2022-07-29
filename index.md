@@ -16,6 +16,7 @@ sections:
         mindset and spark behavioral change among residents through various
         green initiatives.
       alt: Image alt text
+      image: /images/Programmes/Green Living/Kayak 1.jpg
   - infopic:
       alt: Image alt text
       title: Enabling Partnerships and Volunteerism
@@ -28,6 +29,7 @@ sections:
         assistance schemes, and empower residents to improve their lives and
         employability.
       alt: Image alt text
+      image: /images/Nurturing Youths.jpg
   - infopic:
       title: Promoting Health and Wellness
       subtitle: Infopic Subtitle
