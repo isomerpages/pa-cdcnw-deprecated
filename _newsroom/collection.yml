@@ -1,0 +1,7 @@
+collections:
+  newsroom:
+    output: true
+    order:
+      - Annual Report.md
+      - Media Materials.md
+      - Sustainability Report.md

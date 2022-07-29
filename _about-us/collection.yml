@@ -1,0 +1,8 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Vision And Mission.md
+      - Mayor's Message.md
+      - Our Council.md
+      - Our District.md

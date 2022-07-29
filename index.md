@@ -1,36 +1,39 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: North West Community Development Council
+description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Media
-        subtitle: Learn more
-        button: View More
+  - hero:
+      title: North West CDC
+      subtitle: Building a Caring and Healthy North West Community
+      background: /images/Artboard 1.png
+  - infopic:
+      title: Advocating Green Living
+      description: Working towards a sustainable future, we aim to imbue a green
+        mindset and spark behavioral change among residents through various
+        green initiatives.
+      alt: Image alt text
+  - infopic:
+      alt: Image alt text
+      title: Enabling Partnerships and Volunteerism
+      description: We play an enabler role in connecting our corporate partners'
+        resources to serve the various needs in the community.
+  - infopic:
+      title: Uplifting The Community
+      subtitle: Infopic Subtitle
+      description: We aim to provide short-term support for residents through local
+        assistance schemes, and empower residents to improve their lives and
+        employability.
+      alt: Image alt text
+  - infopic:
+      title: Promoting Health and Wellness
+      subtitle: Infopic Subtitle
+      description: "Through a range of healthy living programmes, we hope for our
+        North West residents to maintain an active and healthy lifestyle. "
+      alt: Image alt text
+  - resources:
+      title: Resources
 ---
-

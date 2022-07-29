@@ -1,17 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/nwcdclogo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resource
-    resource_room: true
+  - title: About Us
+    collection: about-us
+  - title: Programmes
+    collection: programmes
+  - title: Cohesion
+    collection: cohesion
+  - title: NEWSROOM
+    collection: newsroom
+  - title: Giving Back
+    collection: giving-back
