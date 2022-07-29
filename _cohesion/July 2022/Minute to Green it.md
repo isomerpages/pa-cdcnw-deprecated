@@ -96,7 +96,7 @@ third_nav_title: July 2022
 
  
 
-        <div style="text-align: center; padding: 0px 0px;"><img src="images/green-it_05.jpg" style="max-width: 547px; width: 100%; margin: 0px auto;" alt="..." /> 
+        <div style="text-align: center; padding: 0px 0px;"><img src="/images/Cohesion/July%202022/green-it_05.jpg" style="max-width: 547px; width: 100%; margin: 0px auto;" alt="..." /> 
 
         <figcaption style="font-size: 14px; text-align: center;"><em>From left: Nova and Milli, the characters our team introduced for Minute To Green It</em></figcaption> 
 
@@ -120,13 +120,6 @@ third_nav_title: July 2022
 
  
 
- 
-
-        <div style="width: 100%; margin: 20px auto; text-align: center;"> 
-
-          <a href="https://www.instagram.com/northwestcdc/" target="_new"> 
-
-
         <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Our team took part in the recent Recycle @ Northwest to better understand the event and clear up some misconceptions about recycling.</p> 
 
  
@@ -141,11 +134,11 @@ third_nav_title: July 2022
 
           <p> 
 
-              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="images/square-instagram-brands.svg" style="max-width: 20px; padding-right: 10px;" align="left"><a href="https://www.instagram.com/northwestcdc" target="_new" style="color: #008500; font-weight: bold;">@northwestcdc</a></div> 
+              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="/images/Cohesion/square-instagram-brands%20(1).png" style="max-width: 20px; padding-right: 10px;" align="left"><a href="https://www.instagram.com/northwestcdc" target="_new" style="color: #008500; font-weight: bold;">@northwestcdc</a></div> 
 
-              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="images/facebook-f-brands.svg" style="max-width: 15px; padding-right: 10px;" align="left"><a href="https://www.facebook.com/nwcdc/" target="_new" style="color: #008500; font-weight: bold;">@nwcdc</a></div> 
+              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="/images/Cohesion/July%202022/facebook-f-brands.png" style="max-width: 15px; padding-right: 10px;" align="left"><a href="https://www.facebook.com/nwcdc/" target="_new" style="color: #008500; font-weight: bold;">@nwcdc</a></div> 
 
-              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="images/tiktok-brands.svg" style="max-width: 18px; padding-right: 10px;" align="left"><a href="https://www.tiktok.com/@minutetogreenit" target="_new" style="color: #008500; font-weight: bold;">@minutetogreenit</a></div> 
+              <div style="float: left; min-width: 200px; padding: 5px 0px;"><img src="/images/Cohesion/July%202022/tiktok-brands.png" style="max-width: 18px; padding-right: 10px;" align="left"><a href="https://www.tiktok.com/@minutetogreenit" target="_new" style="color: #008500; font-weight: bold;">@minutetogreenit</a></div> 
 
           </p> 
 
@@ -275,4 +268,4 @@ Reproduction in whole or in part is prohibited without prior permission from Nor
 
 </body> 
 
-</html>
+</html> 
