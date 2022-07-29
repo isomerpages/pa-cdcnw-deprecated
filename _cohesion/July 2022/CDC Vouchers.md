@@ -72,9 +72,9 @@ third_nav_title: July 2022
 
         line-height: inherit; 
 
-        color: #509b84; margin-top: 0px; letter-spacing: -1px;">Meet Mr Leong, Mr Chua and Mdm Michelle, three seniors who have embraced the digital scheme</h1> 
+        color: #509b84; margin-top: 0px; letter-spacing: -1px;">Meet Mr Leong, Mr Chua and Mdm Michelle, three seniors who have embraced going digital</h1> 
 
-        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">They share how easy it is to claim and start spending the digital vouchers with just a click of a button.</p> 
+        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">They share how easy it is to claim and start spending the CDC vouchers with just a click of a button.</p> 
 
  
 
@@ -82,11 +82,11 @@ third_nav_title: July 2022
 
  
 
-        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;"><strong>Mr Leong Kum Tong, 74,</strong> feels that the vouchers not only act as a bonus to help Singaporeans, it also provides additional support to local merchants who have been struggling during pandemic.</p> 
+        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;"><strong>Mr Leong Kum Tong, 74,</strong> feels that the vouchers not only act as a bonus to help Singaporeans, it also provides additional support to local merchants who have been struggling during the pandemic.</p> 
 
  
 
-        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">As the voucher scheme goes digital, it reduces the need to print physical vouchers and contributes greatly to protecting the environment. Seniors and those who are less tech-savvy can take this opportunity to pick up skills and familiarise themselves with digital platforms. He feels that this is a huge step towards better digital knowledge for the nation.</p> 
+        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">As the vouchers are claimed and spent digitally, it reduces the need to print physical vouchers and contributes greatly to protecting the environment. Seniors and those who are less tech-savvy can take this opportunity to pick up skills and familiarise themselves with digital platforms. He feels that this is a huge step towards better digital knowledge for the nation.</p> 
 
  
 
@@ -94,11 +94,11 @@ third_nav_title: July 2022
 
  
 
-        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Food stall owner, <strong>Mr Chua Lay Sing, 56,</strong> who have been a participating merchant since the start, has no doubts that the digital system would bring greater convenience for him and other business owners. He doesn't need to count the physical vouchers or worry about counterfeit vouchers. Just a press of a button and a simple scan of QR code, the system collects the right amount, and he receives the payout directly to his bank account within 24 hours.</p> 
+        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Food stall owner, <strong>Mr Chua Lay Sing, 56,</strong> who have been a participating merchant since the start of the scheme, has no doubts that transacting with customers digitally would bring greater convenience for him and other business owners. He doesn't need to count the physical vouchers or worry about misplacing vouchers. Just a press of a button and a simple scan of QR code, he receives the correct payout directly to his bank account within 24 hours.</p> 
 
  
 
-        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Initially uncomfortable with the use of technology, pastry store owner, <strong>Mdm Michelle</strong> overcame the challenges and started using digital platforms for the convenience of her customers. She even came up with a promotion deal for residents who uses the digital CDC vouchers at her store.</p> 
+        <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Initially uncomfortable with the use of technology, pastry store owner, <strong>Mdm Michelle</strong> overcame the challenges and started using digital platforms for the convenience of her customers. She even came up with a promotion for residents who used the CDC vouchers at her store.</p> 
 
  
 
@@ -278,4 +278,4 @@ Reproduction in whole or in part is prohibited without prior permission from Nor
 
 </head> 
 
-</html> 
+</html>
