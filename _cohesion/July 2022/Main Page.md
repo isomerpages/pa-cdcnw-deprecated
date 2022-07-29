@@ -196,7 +196,7 @@ third_nav_title: July 2022
 
               <div style="text-align: center; width: 100%;">  
 
-                <div style="margin: 0px 40px;"><img src="images/cohesion\_17.jpg" style="width: 100%;" /></div>  
+                <div style="margin: 0px 40px;"><img src="/images/Cohesion/July%202022/cohesion_17.jpg" style="width: 100%;" /></div>  
 
               </div>  
 
@@ -224,7 +224,7 @@ third_nav_title: July 2022
 
         <div style="text-align: center; width: 100%;">  
 
-          <img src="/images/Cohesion/July%202022/cohesion_17.jpg" style="max-width: 300px; width: 100%;" />  
+          <img src="/images/Cohesion/July%202022/story.jpg" style="max-width: 300px; width: 100%;" />  
 
         </div>  
 
