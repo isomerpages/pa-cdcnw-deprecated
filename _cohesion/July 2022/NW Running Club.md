@@ -80,7 +80,7 @@ third_nav_title: July 2022
 
 <div style="background: #f9e0e0; font-family: Arial, serif;display: block; width: 100%; margin-top: 50px;"> 
 
-            <div style="padding: 20px 20px; width: 33.3%; float: left;"> 
+            <div style="padding: 20px 20px; width: 100%; float: left;"> 
 
                 <h1 style="color: #c592bc; font-weight: bold;">Our Team</h1> 
 
@@ -106,7 +106,7 @@ Reproduction in whole or in part is prohibited without prior permission from Nor
 
  
 
-            <div style="padding: 20px 20px; width: 33.3%; float: left;"> 
+            <div style="padding: 20px 20px; width: 100%; float: left;"> 
 
                 <h1 style="color: #c592bc; font-weight: bold; margin-bottom: 0px;">Subscribe</h1> 
 
@@ -164,4 +164,4 @@ Reproduction in whole or in part is prohibited without prior permission from Nor
 
 </body> 
 
-</head>
+</head> 
