@@ -260,7 +260,7 @@ third_nav_title: July 2022
 
 Please send feedback, suggestions and comments to <a href="mailto:northwest\_cdc@pa.gov.sg" target="\_new" style="color: #e02b2b;">northwest\_cdc@pa.gov.sg</a><br/><br/\>  
 
-<em>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.<br/><br/>  
+<em>Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.<br/>
 
 Reproduction in whole or in part is prohibited without prior permission from North West CDC.</em></p>  
 
