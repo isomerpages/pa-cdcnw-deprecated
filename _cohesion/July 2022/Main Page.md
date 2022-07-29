@@ -170,7 +170,7 @@ third_nav_title: July 2022
 
                 <div style="margin: 0px 40px;"> 
 
-                  <img src="/images/Cohesion/July%202022/cohesion_16.gif" style="width: 100%;" /> 
+                  <img src="/images/Cohesion/July%202022/cohesion_16.gif)" style="width: 100%;" /> 
 
                 </div>  
 
