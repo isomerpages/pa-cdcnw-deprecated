@@ -182,7 +182,7 @@ third_nav_title: July 2022
               <div style="text-align: left; padding: 0px 40px;"> 
                 <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;">This National Day, join us in celebrating Singapore's 57th birthday in the Heartlands! </p> 
                 <div style="text-align: center; width: 100%;"> 
-                  <a href="https://www.ndp.gov.sg/heartlandshttps://www.ndp.gov.sg/heartlands" style="background: #db322d; color: #FFFFFF; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; font-weight: bold; text-transform: uppercase; padding: 13px 20px; text-decoration: none; font-size: medium;">Join Us Here</a> 
+                  <a href="https://www.ndp.gov.sg/heartlands" style="background: #db322d; color: #FFFFFF; -webkit-border-radius: 50px; -moz-border-radius: 50px; border-radius: 50px; font-weight: bold; text-transform: uppercase; padding: 13px 20px; text-decoration: none; font-size: medium;">Join Us Here</a> 
                 </div> 
               </div> 
         </div> 
