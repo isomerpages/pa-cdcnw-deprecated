@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Corporate Social Responsibility.md
-      - Donate To NWCDC/.keep
       - Volunteer/.keep
       - Volunteer/North West Youth Assembly.md
