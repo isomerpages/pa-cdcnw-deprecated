@@ -124,16 +124,6 @@ third_nav_title: July 2022
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>Being involved in such community events gives me the opportunity to help these people, give them what I have and share with them the happiness I receive."</em></p> 
 
- 
-
-                  <p style="font-size: medium; font-weight: bold;">Nur Emilya Idora (12), Wellington Primary School and Karuvadiyil Parvathi (16), Woodlands Secondary School</p> 
-
-                  <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify;">Nur Emilya Idora: <em>"When I came to this event, I felt joy as I was able to help people in need, and hope that we can do more of such events in future."</em></p> 
-
-                  <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;">Karuvadiyil Parvathi: <em>"Volunteering makes me happy. I can volunteer as a group, share my experiences with friends and at the same time, make new fr iends. Since it is also holiday period, I can invest my time to do good deeds." 
-
-                  </em></p> 
-
                 </div> 
 
               </div> 
@@ -144,7 +134,7 @@ third_nav_title: July 2022
 
                   <p style="font-size: medium; font-weight: bold;">Ben Chen, 37, Operations Manager, Guardian</p> 
 
-                  <img src="images/benjessly.jpg" alt="..." style="width: 100%; margin: 10px auto;" /> 
+                  <img src="/images/Cohesion/July%202022/ben%20solo.jpg" alt="..." style="width: 100%; margin: 10px auto;" /> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"For Guardian, we benefit from having our different business teams come together to work towards a common outcome. We also get to interact with the young student volunteers to not only pack the care packs, but also listen to their motivations for serving the community, and perspectives on the future of Singapore. The children are very organised and work well as a team. I think it’s an enriching experience for them over the holiday period."</em></p> 
 
@@ -159,7 +149,7 @@ third_nav_title: July 2022
 
                   <p style="font-size: medium; font-weight: bold;">Christopher Wang, Chairman, Sembawang Zone B RN</p> 
 
-                  <img src="/images/Cohesion/July%202022/cwang.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
+                 <img src="/images/Cohesion/July%202022/cwang.jpg" alt="..." style="width: 100%; margin: 10px auto;" /> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"The RN tries to work closely with different organisations to better provide support for their residents. With North West CDC, there are definitely areas where we can work hand in hand to engage and offer support for our residents. For example, the yearly Service Weeks distribution provides more food necessities to residents, as well as the current one, which allows us to give residents an additional care pack filled with health and hygiene products."</em></p> 
 
