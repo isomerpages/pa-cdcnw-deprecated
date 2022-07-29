@@ -14,7 +14,7 @@ third_nav_title: July 2022
 
         <div style="width: 33.3%; float: left; padding: 10px 5px 10px 10px;"> 
 
-            <img src="images/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
+            <img src="/images/Cohesion/July%202022/logo.png" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
 
         </div> 
 
@@ -42,7 +42,7 @@ third_nav_title: July 2022
 
 <div> 
 
-        <img src="images/green-it_02.jpg" style="max-width: 100%;"> 
+        <img src="/images/Cohesion/July%202022/green-it_02.jpg" style="max-width: 100%;"> 
 
     </div> 
 
@@ -126,19 +126,6 @@ third_nav_title: July 2022
 
           <a href="https://www.instagram.com/northwestcdc/" target="_new"> 
 
-          <video class="mx-auto w-100" autoplay="" loop="" controls="" muted="" style="max-width: 393px;"> 
-
-            <source src="images/MTGI_INSTA_STORY.mp4" type="video/mp4"> 
-
-            Your browser does not support the video tag. 
-
-          </video> 
-
-          </a> 
-
-        </div> 
-
- 
 
         <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Our team took part in the recent Recycle @ Northwest to better understand the event and clear up some misconceptions about recycling.</p> 
 
