@@ -148,21 +148,18 @@ third_nav_title: July 2022
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"For Guardian, we benefit from having our different business teams come together to work towards a common outcome. We also get to interact with the young student volunteers to not only pack the care packs, but also listen to their motivations for serving the community, and perspectives on the future of Singapore. The children are very organised and work well as a team. I think it’s an enriching experience for them over the holiday period."</em></p> 
 
-                  <p style="font-size: medium; font-weight: bold;">Jesslylene Kho, 46, Senior Store Manager, Guardian</p> 
-
-                  <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"It is my fourth year doing community service as a Guardian volunteer, where I have been mostly supporting seniors through food distributions, and by giving them a listening ear. Volunteering as a staff is in line with Guardian's calling to get involved in serving the community, as we see ourselves as a part of the community, rather than just existing as a retail establishment."</em></p> 
-
-                </div> 
+                  </div> 
 
               </div> 
 
-              <div> 
+              <div > 
 
                 <div> 
 
+
                   <p style="font-size: medium; font-weight: bold;">Christopher Wang, Chairman, Sembawang Zone B RN</p> 
 
-                  <img src="images/cwang.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
+                  <img src="/images/Cohesion/July%202022/cwang.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
 
                   <p style="font-family: Arial, serif; font-size: 16px; line-height: 22px; text-align: justify; padding-bottom: 20px;"><em>"The RN tries to work closely with different organisations to better provide support for their residents. With North West CDC, there are definitely areas where we can work hand in hand to engage and offer support for our residents. For example, the yearly Service Weeks distribution provides more food necessities to residents, as well as the current one, which allows us to give residents an additional care pack filled with health and hygiene products."</em></p> 
 
@@ -186,7 +183,7 @@ third_nav_title: July 2022
 
         <p style="font-family: Arial, serif; font-size: 16px; line-height: 26px; text-align: justify;">Under Sembawang Central Division, the Sembawang Central Zone B Residents' Network (RN) &amp; East Canberra Zone 1 Residents' Network (RN) leveraged their weekly food distribution with local charity, Food From The Heart (FFTH), to distribute North West CDC's additional health and hygiene care packs to their residents. </p> 
 
-        <img src="images/alimaton.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
+        <img src="/images/Cohesion/July%202022/alimaton.jpg"  alt="..." style="width: 100%; margin: 10px auto;" /> 
 
         <p style="font-family: Arial, serif; font-size: medium; font-weight: bold;"><strong>Mdm Tan (72) and Mdm Meenachi (69), Sembawang Residents</strong></p> 
 
