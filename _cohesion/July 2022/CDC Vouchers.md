@@ -14,7 +14,7 @@ third_nav_title: July 2022
 
         <div style="width: 33.3%; float: left; padding: 10px 5px 10px 10px;"> 
 
-            <img src="![](/images/voucher_02.jpg)" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
+            <img src="/images/voucher_02.jpg" class="w-100 img-responsive img-fluid" style="max-width: 120px;"> 
 
         </div> 
 
