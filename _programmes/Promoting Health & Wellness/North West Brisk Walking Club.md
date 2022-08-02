@@ -4,6 +4,8 @@ permalink: /programmes/Promoting-Health-and-Wellness/nw-brisk-walking
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---
+<meta name="description" content="North West Brisk Walking Club">
+
 ![](/images/IMG013.jpg)
 
 Officially launched in 2002, the **North West Brisk Walking Club** has grown to become the largest brisk walking club in Singapore.
