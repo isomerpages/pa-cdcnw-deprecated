@@ -3,6 +3,8 @@ title: Corporate Social Responsibility
 permalink: /giving-back/Corporate-Social-Responsibility
 description: ""
 ---
+<meta name="description" content="Corporate Social Responsibility">
+
 Everyone has a part to play in making a difference to the community that we work and live in. North West CDC supports coroporate and community organisations by connecting our partners' resources to the needs in the community.
 
 Find out more about the various areas that your organisation can do with North West CDC.
