@@ -4,6 +4,8 @@ permalink: /programmes/ASSISTING-THE-NEEDY/DigiReady-NorthWest
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="DigiReady @ North West">
+
 
 **DigiReady @ North West** is an initiative to provide holistic support to vulnerable residents in the following aspects of digital readiness: refurbished devices and accessories, subsidised broadband, and troubleshooting faulty digital devices.
 
