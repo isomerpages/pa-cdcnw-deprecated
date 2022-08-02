@@ -3,7 +3,7 @@ title: Vision And Mission
 permalink: /about-us/Vision-And-Mission
 description: ""
 ---
-<meta name="description" content="Vision And Mission"\>
+<meta name="description" content="Vision And Mission">
 [IMAGE]
 
 The Community Development Councils (CDCs) were established to build a tightly-knit, compassionate and self-reliant community. 
