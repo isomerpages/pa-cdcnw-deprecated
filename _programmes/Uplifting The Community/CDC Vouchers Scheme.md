@@ -4,6 +4,7 @@ permalink: /programmes/ASSISTING-THE-NEEDY/CDC-Vouchers-Scheme
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="CDC Vouchers scheme">
 
 [Image]
 
