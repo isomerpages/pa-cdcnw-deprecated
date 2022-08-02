@@ -4,6 +4,8 @@ permalink: /programmes/CONNECTING-THE-COMMUNITY/NorthWest-YouthConcert
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+<meta name="description" content="North West Youth Concert">
+
 ![](/images/294589131_417984893700218_9057742615743499029_n.jpg)
 
 The **North West Youth Concert** creates a platform for corporate donors to give back to the community and raise funds for the [North West Student Support Fund], as well as enables youths to showcase their artistic talents for a good cause.
