@@ -4,6 +4,9 @@ permalink: /programmes/CONNECTING-THE-COMMUNITY/WeCare-NorthWest-ServiceWeeks
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+<meta name="description" content="We Care @ North West">
+
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XREMEFfXjBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **WeCare @ North West – Service Weeks** aim to bring our community and corporate partners together, and provide festive cheers to the needy residents residing in public rental units in the North West District through the distribution of WeCare Festive Packs.
