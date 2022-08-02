@@ -4,6 +4,8 @@ permalink: /programmes/Assisting-The-Needy/IFAS
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="North West Interim Financial Assistance Scheme">
+
 
 The **North West Interim Financial Assistance Scheme (IFAS)** was set up in April 2022 to provide temporary assistance to vulnerable residents in the North West District to tide them through their financial difficulties. Each approved household will receive up to $500 monetary assistance per financial year.   
   

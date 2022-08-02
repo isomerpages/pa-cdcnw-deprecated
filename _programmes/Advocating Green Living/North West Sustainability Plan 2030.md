@@ -4,6 +4,8 @@ permalink: /programmes/BONDING-THE-PEOPLE/NorthWest-Sustainability-Plan2030
 description: ""
 third_nav_title: Advocating Green Living
 ---
+<meta name="description" content="North West Sustainability Plan 2030">
+
 Building on the positive momentum of the Green Living @ North West 10-Year Eco Plan (2009) in cultivating a green culture among residents, increasing green ownership and achieving environmental sustainability, SP2030 will holistically promote sustainability in all its forms throughout the North West District. To achieve this, the North West CDC adopted eight United Nations Sustainable Development Goals (SDG): 
 
 Goal 1: 

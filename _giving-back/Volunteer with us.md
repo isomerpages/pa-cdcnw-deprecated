@@ -3,6 +3,8 @@ title: Volunteer with us
 permalink: /giving-back/volunteer-with-us
 description: ""
 ---
+<meta name="description" content="Volunteer with us">
+
 Volunteering is not just about giving or helping the less fortunate. In many ways, volunteers experience plenty of benefits by just devoting their time and effort in helping the community.
 
 The North West Community Development Council works closely with the various voluntary welfare organisations, government agencies and grassroots organisations so as to provide volunteering opportunities.

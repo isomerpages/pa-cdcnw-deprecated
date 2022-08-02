@@ -3,6 +3,8 @@ title: Mayor's Message
 permalink: /about-us/Mayors-Message
 description: ""
 ---
+<meta name="description" content="Mayor's Message">
+
 [Mayor Image]
 
 The CDC sits in a unique position to play the role of the enabler in the district, through forming meaningful networks and connecting our partners to the needs in the community.

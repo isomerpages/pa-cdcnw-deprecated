@@ -4,6 +4,8 @@ permalink: /programmes/Partnerships-and-Volunteerism/wecare-fund
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+<meta name="description" content="North West WeCare Fund">
+
 
 [Image]
 
@@ -13,4 +15,4 @@ North West CDC encourages individuals, organisations and schools to create groun
 
 For SSAs, please contact Mr Brandon Oh at Brandon_Oh@pa.gov.sg
 
-For voluntary groups and schools, please contact Ms Jasmine Qiu at Jasmine_QIU@pa.gov.sg. 
+For voluntary groups and schools, please contact Ms Jasmine Qiu at Jasmine_QIU@pa.gov.sg.

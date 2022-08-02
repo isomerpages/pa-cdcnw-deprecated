@@ -4,7 +4,9 @@ permalink: /programmes/Promoting-Health-and-Wellness/mental-wellness
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---
-[Image]  
+<meta name="description" content="Mental Wellness @ North West">
+
+![](/images/IMG026.jpg)
 
 Mental Wellness @ North West is part of the CDC's Healthy Living @ North West programmes in promoting holistic wellness. It aims to raise awareness of mental wellness in the community.  
   

@@ -4,6 +4,8 @@ permalink: /programmes/Assisting-The-Needy/huggiesdiaperbank
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="Huggies Singapore Diaper Bank @ North West">
+
 
 [Image]
 

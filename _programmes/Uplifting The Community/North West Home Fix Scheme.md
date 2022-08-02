@@ -4,6 +4,8 @@ permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Home-FixScheme
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="North West Home Fix Scheme">
+
 
 The **North West Home Fix Scheme** aims to provide safe and functional homes for low income families by repairing any faulty items in the household that are essential to the basic living and safety environment.
 
