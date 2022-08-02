@@ -4,6 +4,8 @@ permalink: /programmes/BONDING-THE-PEOPLE/Recycle-at-NorthWest
 description: ""
 third_nav_title: Advocating Green Living
 ---
+<meta name="description" content="Recycle at North West">
+
 ![](/images/Recycle%201.jpg)
 
 **Recycle @ North West** aims to encourage active recycling among residents in the North West District and create bonding among residents through a common platform at the recycling points. This programme is organised by North West CDC together with Tzu Chi Foundation (Singapore), Singapore Environment Council (SEC) and National Environment Agency (NEA).
