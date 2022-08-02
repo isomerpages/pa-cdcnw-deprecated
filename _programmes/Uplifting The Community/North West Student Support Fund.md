@@ -4,6 +4,7 @@ permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Student-SupportFund
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="North West Student Support Fund">
 
 The **North West Student Support Fund (SSF)** provides financial assistance to defray educational expenses, and the opportunities to attend developmental programmes for students from less-privileged backgrounds.  
 
