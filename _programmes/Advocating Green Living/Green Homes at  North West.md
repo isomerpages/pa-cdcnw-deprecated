@@ -6,7 +6,7 @@ third_nav_title: Advocating Green Living
 ---
 <meta name="description" content="Green Homes at North west">
 
-![](/images/IMG-2327.jpg) 
+![](/images/Programmes/Green%20Living/IMG-2327.jpg)
 
 The **Green Homes @ North West** programme aims to encourage households in the North West District to adopt Green Living practices at home through the use of energy and water efficient appliances. To qualify as a Green Home, you will need to fulfil the following criteria:  
 
@@ -46,6 +46,9 @@ Residents who meet the following criteria can apply at the following link, with 
 
 For more information, you may contact David Lee at [David\_Lee@pa.gov.sg](mailto:David_Lee@pa.gov.sg)
 
+![](/images/Programmes/Green%20Living/GH%20Posters-1.jpg)
+
+![](/images/Programmes/Green%20Living/GH%20Posters-2.jpg)
 
 ![](/images/GH%20Posters-1.jpg)
 ![](/images/GH%20Posters-2.jpg)
