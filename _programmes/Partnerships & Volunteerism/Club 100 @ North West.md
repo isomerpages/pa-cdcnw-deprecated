@@ -4,6 +4,8 @@ permalink: /programmes/CONNECTING-THE-COMMUNITY/Club100-NorthWest
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
+<meta name="description" content="Club 100 @ North West">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbKC8nvxS2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Club-100 @ North West** is the North West CDC’s flagship philanthropic club, which was formed by a community of passionate
