@@ -4,6 +4,8 @@ permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Food-Aid-Fund
 description: ""
 third_nav_title: Uplifting The Community
 ---
+<meta name="description" content="North West Food Aid Fund">
+
 
 [Image]
 
