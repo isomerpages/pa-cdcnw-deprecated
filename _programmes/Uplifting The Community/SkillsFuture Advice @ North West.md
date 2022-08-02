@@ -17,4 +17,3 @@ Check out the [My CareersFuture Portal](https://www.mycareersfuture.gov.sg/) to 
 The portal was developed by Workforce Singapore, in partnership with Government Technology Agency. The portal enables jobseekers to be more aware of the skills they possess and connects them to relevant jobs based on their current skills and competencies. It also highlights jobs which are eligible for Government support through WSG’s Adapt and Grow Initiative. Jobseekers can also find career-related content on MyCareersFuture through the Career Toolkit, including career insights and career guidance to help facilitate their career planning process.
 
 For physical job recruitment events, check out this [link](https://e2i.com.sg/events/) to find the one near to you.
-
