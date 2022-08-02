@@ -4,6 +4,9 @@ permalink: /programmes/Promoting-Health-and-Wellness/nw-running-club
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---
+<meta name="description" content="North West running club">
+
+
 [Image]
 
 **North West Running Club** promotes healthy lifestyle and community bonding among residents in the North West District, and provides a platform for residents to keep fit through group running activities.
