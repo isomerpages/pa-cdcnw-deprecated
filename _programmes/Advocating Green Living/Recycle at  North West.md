@@ -14,4 +14,4 @@ Active Recycling breaks away from the current recycling practices. Green volunt
   
 Follow our [Facebook page](http://www.facebook.com/nwcdc) for upcoming Recycle sessions and sign up [here](https://form.gov.sg/62b57183ff209e0012a1ee3d?utm_source=Google&utm_medium=SEM&utm_campaign=Recycle%40NW&utm_content=Leads)!  
 
-For more information, please contact David Lee at [David\_Lee@pa.gov.sg](mailto:David_Lee@pa.gov.sg)[@pa.gov.sg](mailto:Willian_LIM@pa.gov.sg).
+For more information, please contact David Lee at [David\_Lee@pa.gov.sg](mailto:David_Lee@pa.gov.sg).
