@@ -4,6 +4,7 @@ permalink: /programmes/Promoting-Health-and-Wellness/mental-wellness
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---
+<meta name="description" content="Mental Wellness @ North West">
 
 ![](/images/Mental%20Wellness%20Photo2.png)
 
