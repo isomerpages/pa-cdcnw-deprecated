@@ -3,7 +3,7 @@ title: SkillsFuture Festival
 permalink: /newsroom/skillsfuture-festival
 description: ""
 ---
-![](/images/NewsRoom/NWC206_CDC%20site%20Web%20Banner_2048x2048px_FA.png)
+![[undefined](https://www.facebook.com/nwcdc)](/images/NewsRoom/NWC206_CDC%20site%20Web%20Banner_2048x2048px_FA.png)
 
 **SkillsFuture Festival @ North West** will be happening at Northpoint City South Atrium from 12 - 14 August 2022! Join us in the learning journey by going through a series of interactive activities and immerse in the endless possibilities of three emerging job sectors: the Green, Digital and Care economies.    
 
