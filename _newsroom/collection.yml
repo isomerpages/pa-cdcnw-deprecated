@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - SkillsFuture Festival.md
+      - SkillsFuture Festival @ North West.md
       - Annual Report.md
       - Media Materials.md
       - Sustainability Report.md
