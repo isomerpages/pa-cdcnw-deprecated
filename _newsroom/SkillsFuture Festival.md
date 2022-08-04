@@ -3,6 +3,16 @@ title: SkillsFuture Festival
 permalink: /newsroom/skillsfuture-festival
 description: ""
 ---
+**SkillsFuture Festival @ North West **
+
 ![](/images/NewsRoom/NWC206_CDC%20site%20Web%20Banner_2048x2048px_FA.png)
 
-         <!-- /\* Font Definitions \*/ @font-face {font-family:SimSun; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:宋体; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@SimSun"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:3 680460288 22 0 262145 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; mso-pagination:widow-orphan; font-size:13.0pt; mso-bidi-font-size:10.0pt; font-family:"Times New Roman",serif; mso-fareast-font-family:SimSun; mso-ansi-language:EN-GB; mso-fareast-language:EN-US;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:SimSun; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:"Times New Roman"; mso-bidi-theme-font:minor-bidi; mso-fareast-language:ZH-CN;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> For some 8,000 residents expected to attend the **SkillsFuture Festival @ North West** (SFF @ North West), they can expect to immerse themselves in the endless possibilities of three emerging job sectors: the Green, Digital and Care economies. Over three days from 12 Aug 2022 to 14 Aug 2022 of the SFF @ North West, which is free-to-enter, residents will experience a quickfire introduction to the three sectors, where they will be able to gain access to job opportunities and courses, have hands-on tryouts of various technologies and tools, and sign-up for the relevant skills upgrading to increase their employability in these three sectors.
+**SkillsFuture Festival @ North West** will be happening at Northpoint City South Atrium from 12 - 14 August 2022! Join us in the learning journey by going through a series of interactive activities and immerse in the endless possibilities of three emerging job sectors: the Green, Digital and Care economies.    
+
+Residents looking for immediate job opportunities can also attend on-site job interviews with companies from the hospitality and healthcare sectors, among other evergreen industries.
+
+**Register here:**
+
+Workshops: https://go.gov.sg/nwskillup
+
+Career Fair: https://go.gov.sg/sff-e2i-northwest
