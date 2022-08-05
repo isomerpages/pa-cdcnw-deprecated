@@ -14,3 +14,4 @@ Residents looking for immediate job opportunities can also attend on-site job in
 Workshops: https://go.gov.sg/nwskillup
 
 Career Fair: https://go.gov.sg/sff-e2i-northwest
+
