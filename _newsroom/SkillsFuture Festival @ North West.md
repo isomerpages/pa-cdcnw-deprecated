@@ -16,3 +16,11 @@ Residents looking for immediate job opportunities can also attend on-site job in
 Workshops: https://go.gov.sg/nwskillup
 
 Career Fair: https://go.gov.sg/sff-e2i-northwest
+
+Download the skills demand for the future economy report to find out more on the exciting opportunities for Singapore's [Digital](https://go.gov.sg/digital-economy), [Green](https://go.gov.sg/green-economy) and [Care](https://go.gov.sg/care-economy) economic pillars of growth.
+
+
+
+
+
+
