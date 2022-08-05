@@ -8,12 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Artboard 1.png
-      button: SkillsFuture Festival @ North West
-      url: https://northwest.cdc.gov.sg/newsroom/skillsfuture-festival-nw
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: SkillsFuture Festival @ North West
+          description: 12 to 14 August 2022
+          url: https://northwest.cdc.gov.sg/newsroom/skillsfuture-festival-nw
   - infopic:
       title: Advocating Green Living
       description: Working towards a sustainable future, we aim to imbue a green
