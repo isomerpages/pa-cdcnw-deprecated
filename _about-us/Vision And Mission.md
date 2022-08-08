@@ -3,9 +3,6 @@ title: Vision And Mission
 permalink: /about-us/Vision-And-Mission
 description: ""
 ---
-<meta name="description" content="Vision And Mission">
-[IMAGE]
-
 The Community Development Councils (CDCs) were established to build a tightly-knit, compassionate and self-reliant community. 
 
 The **North West Community Development Council (CDC)** initiates, plans and manages community programmes to promote community bonding and social cohesion. Our location in the community makes us more attuned and responsive to the specific needs of our residents.
