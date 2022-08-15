@@ -19,7 +19,7 @@ Staying healthy is important to all regardless of your age. Participate in our H
 
  **Green Living**  
 
-Protecting the environment is everyone’s responsibility. At North West CDC, sustainability has been a big part of our daily work. We focused on ground-up initiatives, working with schools and various partners to promote and bring the idea of sustainability closer to our community. If yonisa
+Protecting the environment is everyone’s responsibility. At North West CDC, sustainability has been a big part of our daily work. We focused on ground-up initiatives, working with schools and various partners to promote and bring the idea of sustainability closer to our community. f yonisa
 
 **Education**
 
