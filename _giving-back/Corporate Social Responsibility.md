@@ -19,10 +19,9 @@ Staying healthy is important to all regardless of your age. Participate in our H
 
  **Green Living**  
 
-Protecting the environment is everyone’s responsibility. At North West CDC, sustainability has been a big part of our daily work. We focused on ground-up initiatives, working with schools and various partners to promote and bring the idea of sustainability closer to our community. f yonisa
+Protecting the environment is everyone’s responsibility. At North West CDC, sustainbility has been a big part of our daily work. We focused on ground-up initiatives, working with schools and various partners to promote the idea and bring the idea of sustainability closer to our community. If your organisation 
+has a green idea or project to implement, email northwest_cdc@pa.gov.sg for more information.
 
 **Education**
 
-The learning process should begin when one is young. Children of needy families should not be placed at a disadvantage because of their financial background.  defray their schooling expenses. 
-
-If your organisation wishes to carry out projects in the above mentioned areas, or you have a new idea that you wish to explore, please email northwestcdc_partnerships@pa.gov.sg.
+Every child deserves an education. Children should not be placed at a disadvantage because of their financial background.  If your organisation wishes to carry out projects in the above mentioned areas, or you have a new idea that you wish to explore, please email northwestcdc_partnerships@pa.gov.sg.
