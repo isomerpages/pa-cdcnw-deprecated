@@ -9,6 +9,6 @@ Volunteering is not just about giving or helping the less fortunate. In many way
 
 The North West CDC works closely with our strong network of partners, Social Service Agencies, Government Agencies and Grassroots Organisations to provide opportunities for volunteering.
 
-Interested parties can take up funding to create Ground-Up Initiatives (GUI) to benefit the community through the **North West WeCare Fund** for community projects, or **North West GIRAFFE Fund** for sustainability projects.
+Interested parties can take up funding to create Ground-Up Initiatives (GUI) to benefit the community through the **North West WeCare Fund** for community projects, or **North West GIRAFFE Fund** for green projects.
 
 Be a part of us to make North West District a Caring and Healthy community. For more information, email us at northwestcdc_partnerships@pa.gov.sg.
