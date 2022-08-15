@@ -7,8 +7,8 @@ description: ""
 
 Volunteering is not just about giving or helping the less fortunate. In many ways, volunteers experience plenty of benefits by just devoting their time and effort in helping the community.
 
-The North West Community Development Council works closely with the various voluntary welfare organisations, government agencies and grassroots organisations so as to provide volunteering opportunities.
+The North West CDC works closely with our strong network of partners, Social Service Agencies, Government Agencies and Grassroots Organisations to provide opportunities for volunteering.
 
-Interested parties can take up funding through the North West WeCare Fund or North West GIRAFFE Fund to create ground-up initiatives to benefit the community. 
+Interested parties can take up funding to create Ground-Up Initiatives (GUI) to benefit the community through the **North West WeCare Fund** for community projects, or **North West GIRAFFE Fund** for sustainability projects.
 
-Be a part of us to make North West District a better place to work and live in. Drop us a note at northwestcdc_partnerships@pa.gov.sg.
+Be a part of us to make North West District a Caring and Healthy community. For more information, email us at northwestcdc_partnerships@pa.gov.sg.
