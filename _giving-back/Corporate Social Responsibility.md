@@ -5,21 +5,21 @@ description: ""
 ---
 <meta name="description" content="Corporate Social Responsibility">
 
-Everyone has a part to play in making a difference to the community that we work and live in. North West CDC supports coroporate and community organisations by connecting our partners' resources to the needs in the community.
+Everyone has a part to play in making a difference to the community that we work and live in. North West CDC supports corporates and community organisations by connecting our partners' resources to the needs in the community.
 
 Find out more about the various areas that your organisation can do with North West CDC.
 
 **Community Engagement** 
 
-Your organisation can uplift the lives of the needy residents by providing home improvement services / essentials to them, making their home a better and safer place to live in.   
+Through our flagship programme [WeCare @ North West - Service Weeks](https://northwest.cdc.gov.sg/programmes/connecting-the-community/wecare-northwest-serviceweeks), your organisation can be a part of a meaningful cause to uplift the lives of needy residents, by providing home improvement services and essentials to them, making their home a better and safer place to live in.   
 
   **Healthy Living**  
- 
- Staying healthy is important to all regardless of your age. Contact North West CDC today if your organisation has a meaningful project meant for the promotion of a healthy lifestyle. 
+	
+Staying healthy is important to all regardless of your age. Participate in our Healthy Living programmes, or email us at northwest_cdc@pa.gov.sg if your organisation has a meaningful project meant for the promotion of a healthy lifestyle. 
 
  **Green Living**  
 
-Saving the environment is everyone’s responsibility. If your organisation wishes to take action to protect the Earth, North West CDC has a range of green projects for your consideration.
+Protecting the environment is everyone’s responsibility. At North West CDC, sustainability has been a big part of our daily work. We focused on ground-up initiatives, working with schools and various partners to promote and bring the idea of sustainability closer to our community. If yonisa
 
 **Education**
 
