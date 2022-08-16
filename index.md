@@ -23,7 +23,6 @@ sections:
       image: /images/DCIM_0184.jpg
   - infopic:
       title: Uplifting The Community
-      subtitle: Infopic Subtitle
       description: We aim to provide short-term support for residents through local
         assistance schemes, and empower residents to improve their lives and
         employability.
@@ -31,7 +30,6 @@ sections:
       image: /images/Nurturing Youths.jpg
   - infopic:
       title: Promoting Health and Wellness
-      subtitle: Infopic Subtitle
       description: "Through a range of healthy living programmes, we hope for our
         North West residents to maintain an active and healthy lifestyle. "
       alt: Image alt text
