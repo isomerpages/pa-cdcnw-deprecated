@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Sustainability Reports/.keep
       - Speeches/2022.md
       - Speeches/.keep
       - Media Releases/2022.md
