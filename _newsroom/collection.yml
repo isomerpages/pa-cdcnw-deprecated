@@ -2,7 +2,6 @@ collections:
   newsroom:
     output: true
     order:
-      - Media Release/Speeches.md
       - Media Release/Media Release.md
       - Media Release/.keep
       - SkillsFuture Festival @ North West.md
