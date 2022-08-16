@@ -2,15 +2,15 @@ collections:
   cohesion:
     output: true
     order:
-      - March 2022.md
-      - May 2022.md
       - September 2022/.keep
-      - July 2022/Main Page.md
       - July 2022/.keep
+      - July 2022/Main Page.md
       - July 2022/Service Weeks.md
       - July 2022/NW Running Club.md
       - July 2022/CDC Vouchers.md
       - July 2022/Career and Employability.md
       - July 2022/Minute to Green it.md
-      - Archive/2021.md
+      - May 2022.md
+      - March 2022.md
       - Archive/.keep
+      - Archive/2021.md
