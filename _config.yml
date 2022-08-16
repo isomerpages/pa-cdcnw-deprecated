@@ -16,7 +16,7 @@ colors:
     - title: media-color-five
       color: "#000000"
 resources_name: Resource
-description: An Isomer site of the Singapore Government
+description: North West Community Development Council's Official Website
 permalink: none
 baseurl: ""
 exclude:
