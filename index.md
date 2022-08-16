@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: North West Community Development Council
-description: An Isomer site of the Singapore Government
+description: North West Community Development Council's Official Website
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -37,3 +37,4 @@ sections:
   - resources:
       title: Resources
 ---
+
