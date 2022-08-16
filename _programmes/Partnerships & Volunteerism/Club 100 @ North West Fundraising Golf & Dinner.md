@@ -9,3 +9,7 @@ The **Club-100 @ North West Fundraising Golf & Dinner** raises funds for the [No
 The North West FAF supports needy households with Food Rations and Food Aid Vouchers to defray their daily household expenses.
 
 Your valuable contributions will make an impact to the lives of more of such families needing food assistance. 
+
+Scan the QR code below to find out more on how you can contribution to this meaningful cause, or email Darren Peng at Darren_Peng@pa.gov.sg.
+
+![](/images/Programmes/EDM_Club%20100%20Fundraising%20Golf%20and%20Dinner%202022.png)
