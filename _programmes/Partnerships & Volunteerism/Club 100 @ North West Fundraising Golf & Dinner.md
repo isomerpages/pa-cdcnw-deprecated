@@ -9,5 +9,3 @@ The **Club-100 @ North West Fundraising Golf & Dinner** raises funds for the [No
 The North West FAF supports needy households with Food Rations and Food Aid Vouchers to defray their daily household expenses.
 
 Support
-
-Join 
