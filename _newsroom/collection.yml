@@ -2,6 +2,7 @@ collections:
   newsroom:
     output: true
     order:
+      - Speeches/2022.md
       - Speeches/.keep
       - Media Release/2022.md
       - Media Release/.keep
