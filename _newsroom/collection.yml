@@ -2,9 +2,9 @@ collections:
   newsroom:
     output: true
     order:
-      - Media Materials/Speeches.md
-      - Media Materials/Media Release.md
-      - Media Materials/.keep
+      - Media Release/Speeches.md
+      - Media Release/Media Release.md
+      - Media Release/.keep
       - SkillsFuture Festival @ North West.md
       - Annual Report.md
       - Sustainability Report.md
