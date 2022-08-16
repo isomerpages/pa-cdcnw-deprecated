@@ -2,7 +2,7 @@ collections:
   newsroom:
     output: true
     order:
-      - Media Release/Media Release.md
+      - Media Release/2022.md
       - Media Release/.keep
       - SkillsFuture Festival @ North West.md
       - Annual Report.md
