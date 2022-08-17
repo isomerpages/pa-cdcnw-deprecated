@@ -2,7 +2,9 @@ collections:
   newsroom:
     output: true
     order:
-      - SkillsFuture Festival @ North West.md
-      - Annual Report.md
-      - Media Materials.md
-      - Sustainability Report.md
+      - Media Releases/.keep
+      - Media Releases/2022.md
+      - Speeches/.keep
+      - Speeches/2022.md
+      - Sustainability Reports/.keep
+      - Sustainability Reports/2021.md

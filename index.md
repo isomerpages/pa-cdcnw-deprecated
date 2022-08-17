@@ -1,17 +1,13 @@
 ---
 layout: homepage
 title: North West Community Development Council
-description: An Isomer site of the Singapore Government
+description: North West Community Development Council's Official Website
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
   - hero:
       background: /images/Artboard 1.png
-      key_highlights:
-        - title: SkillsFuture Festival @ North West
-          description: 12 to 14 August 2022
-          url: https://northwest.cdc.gov.sg/newsroom/skillsfuture-festival-nw
   - infopic:
       title: Advocating Green Living
       description: Working towards a sustainable future, we aim to imbue a green
@@ -27,7 +23,6 @@ sections:
       image: /images/DCIM_0184.jpg
   - infopic:
       title: Uplifting The Community
-      subtitle: Infopic Subtitle
       description: We aim to provide short-term support for residents through local
         assistance schemes, and empower residents to improve their lives and
         employability.
@@ -35,7 +30,6 @@ sections:
       image: /images/Nurturing Youths.jpg
   - infopic:
       title: Promoting Health and Wellness
-      subtitle: Infopic Subtitle
       description: "Through a range of healthy living programmes, we hope for our
         North West residents to maintain an active and healthy lifestyle. "
       alt: Image alt text
@@ -43,3 +37,4 @@ sections:
   - resources:
       title: Resources
 ---
+

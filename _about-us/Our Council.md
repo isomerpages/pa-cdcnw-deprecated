@@ -5,7 +5,7 @@ description: ""
 ---
 <meta name="description" content="Our Council">
 
-Our Council comprises of the Advisory Panel, Council Members and District Councillors, spearhead and align the CDC’s programmes to the key strategic directions. 
+Our Council comprises of the Advisory Panel, Council Members and District Councillors, to spearhead and align the CDC’s programmes to its key strategic directions. 
 
 There are six standing committees, each with its role and responsibilities:  
 
