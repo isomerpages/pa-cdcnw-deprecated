@@ -9,19 +9,6 @@ sections:
   - hero:
       background: /images/Artboard 1.png
   - infopic:
-      title: Advocating Green Living
-      description: Working towards a sustainable future, we aim to imbue a green
-        mindset and spark behavioral change among residents through various
-        green initiatives.
-      alt: Image alt text
-      image: /images/Programmes/Green Living/Kayak 1.jpg
-  - infopic:
-      alt: Image alt text
-      title: Enabling Partnerships and Volunteerism
-      description: We play an enabler role in connecting our corporate partners'
-        resources to serve the various needs in the community.
-      image: /images/DCIM_0184.jpg
-  - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
         assistance schemes, and empower residents to improve their lives and
@@ -34,7 +21,19 @@ sections:
         North West residents to maintain an active and healthy lifestyle. "
       alt: Image alt text
       image: /images/Launch 2 (2).jpg
+  - infopic:
+      title: Advocating Green Living
+      description: Working towards a sustainable future, we aim to imbue a green
+        mindset and spark behavioral change among residents through various
+        green initiatives.
+      alt: Image alt text
+      image: /images/Programmes/Green Living/Kayak 1.jpg
+  - infopic:
+      alt: Image alt text
+      title: Enabling Partnerships and Volunteerism
+      description: We play an enabler role in connecting our corporate partners'
+        resources to serve the various needs in the community.
+      image: /images/DCIM_0184.jpg
   - resources:
       title: Resources
 ---
-
