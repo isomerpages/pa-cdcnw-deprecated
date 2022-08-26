@@ -2,19 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Advocating Green Living/.keep
-      - Advocating Green Living/Green Homes at  North West.md
-      - Advocating Green Living/Recycle at  North West.md
-      - Advocating Green Living/Reduce at North West.md
-      - Advocating Green Living/We Care, We Recycle at North West.md
-      - Advocating Green Living/North West GIRAFFE Fund.md
-      - Advocating Green Living/Waterways Clean Up at North West.md
-      - Advocating Green Living/Keep Clean @ North West.md
-      - Advocating Green Living/North West Sustainability Forum.md
-      - Advocating Green Living/Budding Greenies @ North West.md
-      - Advocating Green Living/North West Sustainability Plan 2030.md
-      - Uplifting The Community/SkillsFuture Advice @ North West.md
       - Uplifting The Community/.keep
+      - Uplifting The Community/SkillsFuture Advice @ North West.md
       - Uplifting The Community/CDC Vouchers Scheme.md
       - Uplifting The Community/DigiReady @ North West.md
       - Uplifting The Community/Huggies Singapore Diaper Bank @ North West.md
@@ -26,6 +15,25 @@ collections:
       - Uplifting The Community/North West Student Support Fund.md
       - Uplifting The Community/North West Utilities Assistance Scheme.md
       - Uplifting The Community/WeCare Arts @ North West.md
+      - Promoting Health & Wellness/.keep
+      - Promoting Health & Wellness/Mental Wellness @ North West.md
+      - Promoting Health & Wellness/North West Brisk Walking Club.md
+      - Promoting Health & Wellness/North West Dance Fit Club.md
+      - Promoting Health & Wellness/North West FitnessX Club.md
+      - Promoting Health & Wellness/North West Health Qigong Club.md
+      - Promoting Health & Wellness/North West Running Club.md
+      - Promoting Health & Wellness/North West Tai Chi Club.md
+      - Advocating Green Living/.keep
+      - Advocating Green Living/Green Homes at  North West.md
+      - Advocating Green Living/Recycle at  North West.md
+      - Advocating Green Living/Reduce at North West.md
+      - Advocating Green Living/We Care, We Recycle at North West.md
+      - Advocating Green Living/North West GIRAFFE Fund.md
+      - Advocating Green Living/Waterways Clean Up at North West.md
+      - Advocating Green Living/Keep Clean @ North West.md
+      - Advocating Green Living/North West Sustainability Forum.md
+      - Advocating Green Living/Budding Greenies @ North West.md
+      - Advocating Green Living/North West Sustainability Plan 2030.md
       - Partnerships & Volunteerism/.keep
       - Partnerships & Volunteerism/Club 100 @ North West.md
       - Partnerships & Volunteerism/Club 100 @ North West Fundraising Golf &
@@ -39,11 +47,3 @@ collections:
       - Partnerships & Volunteerism/Temasek Trust CDC Lifelong Learning Enabling
         Fund.md
       - Partnerships & Volunteerism/WeCare @ North West – Service Weeks.md
-      - Promoting Health & Wellness/.keep
-      - Promoting Health & Wellness/Mental Wellness @ North West.md
-      - Promoting Health & Wellness/North West Brisk Walking Club.md
-      - Promoting Health & Wellness/North West Dance Fit Club.md
-      - Promoting Health & Wellness/North West FitnessX Club.md
-      - Promoting Health & Wellness/North West Health Qigong Club.md
-      - Promoting Health & Wellness/North West Running Club.md
-      - Promoting Health & Wellness/North West Tai Chi Club.md
