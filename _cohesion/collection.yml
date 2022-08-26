@@ -2,6 +2,7 @@ collections:
   cohesion:
     output: true
     order:
+      - January 2022.md
       - February 2022.md
       - September 2022/.keep
       - September 2022/September at a Glance.md
