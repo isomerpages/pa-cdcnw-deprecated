@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/Artboard 1.png
+      button: Video
+      url: www.youtube.com
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
