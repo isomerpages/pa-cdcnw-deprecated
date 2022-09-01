@@ -1,12 +1,10 @@
 ---
 title: Interfaith @ North West
-permalink: /programmes/Partnerships-and-Volunteerism/interfaith-northwest
+permalink: /programmes/Partnerships-and-Volunteerism/interfaith-northwest/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
-<meta name="description" content="Interfaith @ North West">
-
-[video]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rke2StZwfHs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Interfaith Network @ North West** encourages faith institutions to host open houses for diverse religious communities to learn about one another's faith and build meaningful relationships. The envisaged outcomes are to foster deeper collaborations and ultimately strengthen the racial and religious harmony in our community.
 
