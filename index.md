@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       background: /images/Artboard 1.png
+      button: Video
+      url: www.youtube.com
+      key_highlights:
+        - title: Key Highlight Title
+          description: Key Highlight description
+          url: ""
   - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
@@ -42,6 +48,11 @@ sections:
       image: /images/DCIM_0184.jpg
       button: Get Connected
       url: https://northwest.cdc.gov.sg/programmes/connecting-the-community/club100-northwest
+  - infobar:
+      title: Subscribe to Cohesion e-newsletter
+      description: Be updated with the latest North West happenings!
+      button: Subscribe now
+      url: https://form.gov.sg/630866290405b700128d6e53
   - resources:
       title: Resources
 ---
