@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/Artboard 1.png
       key_highlights:
-        - title: Watch now
-          description: Find out what we do!
-          url: https://youtu.be/ME1m9REoi54
+        - title: Corporate Video
+          description: Watch to find out what we do!
+          url: https://northwest.cdc.gov.sg/about-us/vision-and-mission/
         - title: Upcoming Event
           description: Club-100 Fundraising Golf
           url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/nw-fundraising-golf
