@@ -8,12 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/Artboard 1.png
-      button: Video
-      url: www.youtube.com
       key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Watch now
+          description: Find out what we do!
+          url: https://youtu.be/ME1m9REoi54
+        - title: Upcoming Event
+          description: Club-100 Fundraising Golf
+          url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/nw-fundraising-golf
   - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
