@@ -56,7 +56,7 @@ h1, h2, h3, h4, h5, h6, li {
   list-style: none;
   text-align: left;
   font-weight: 100;
-  max-width: 70%;
+
 }
 .timeline h1,
 .timeline h2,
@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5, h6, li {
   padding-bottom: 25px;
   margin-bottom: 50px;
   position: relative;
+  list-style: none;
 }
 .timeline .event:last-of-type {
   padding-bottom: 0;
@@ -229,7 +230,6 @@ h1, h2, h3, h4, h5, h6, li {
 }
 .slider--cover {
   width: 100vw;
-  height: 100vh;
 }
 .slider--fixed {
   width: 600px;
@@ -389,15 +389,15 @@ h1, h2, h3, h4, h5, h6, li {
 
 
   <ul class="timeline">
-    <li class="event" >
+    <li class="event" style="font-size: 16px; line-height: 26px; margin-top: 0px;">
       <h3 style="color: #0c6c37; font-size: large;"><b>18 to 22 July</b></h3>
-      <p>Participants were given access to recorded talks and workshops to equip themselves with useful knowledge and skills, such as critical thinking, details of green initiatives and programmes, and presentation skills, to prepare their proposals. </p>
+      <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Participants were given access to recorded talks and workshops to equip themselves with useful knowledge and skills, such as critical thinking, details of green initiatives and programmes, and presentation skills, to prepare their proposals. </p>
     </li>
-    <li class="event" >
+    <li class="event" style="font-size: 16px; line-height: 26px; margin-top: 0px;">
       <h3 style="color: #0c6c37; font-size: large;"><b>23 July</b></h3>
-      <p>The participants gathered at NTU for physical activities and more workshops that introduced them to the green community in Singapore. Subject experts inspired the participants to think of solutions that could influence the community to take action towards climate change.</p>    
+      <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">The participants gathered at NTU for physical activities and more workshops that introduced them to the green community in Singapore. Subject experts inspired the participants to think of solutions that could influence the community to take action towards climate change.</p>    
     </li>
-    <li class="event" >
+    <li class="event" style="font-size: 16px; line-height: 26px; margin-top: 0px;">
       <h3 style="color: #0c6c37; font-size: large;"><b>30 July</b></h3>
       <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">20 proposals were whittled down to the final 10, which were pitted against each other during the final pitching.</p>
 
@@ -418,7 +418,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">The top three teams were selected based on their proposal's creativity and feasibility. To help not only the top three teams but all participants bring their ideas to life, the CDC would be providing various avenues of support, such as funding the projects and connecting with partners who are subject matter experts. </p>
 
-<h2>Team Igloo - 1st Prize Winner</h2>
+<h2 style="font-weight: bold; font-size: xx-large;">Team Igloo - 1st Prize Winner</h2>
 
 
 <div class="carousel">
@@ -457,8 +457,8 @@ h1, h2, h3, h4, h5, h6, li {
 
 
 
-<p style="font-weight: bold; font-size: 16px; line-height: 26px; margin-top: 0px;">Project Summary</p>
-<p>The winning team of the Green Bootcamp @ North West, Team Igloo, which comprised a mix of budding doctors and engineers, shared their aspiration of eradicating inefficient energy usage. The team developed a product that uses a thermoelectrical device to simultaneously cool and circulate water through a mattress pad, keeping the surface cool for users to sleep on.   </p>
+<p style="font-weight: bold; font-size: 16px; line-height: 26px; ">Project Summary</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">The winning team of the Green Bootcamp @ North West, Team Igloo, which comprised a mix of budding doctors and engineers, shared their aspiration of eradicating inefficient energy usage. The team developed a product that uses a thermoelectrical device to simultaneously cool and circulate water through a mattress pad, keeping the surface cool for users to sleep on.   </p>
 
 
 
@@ -476,13 +476,13 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 30px 65px 0px;"><em>The excessive use of air-conditioning has become a norm in Singapore. Why do we need the whole room to be cooled if we are only sleeping on our beds? This triggered us to come up with the idea of Igloo. Participating in the Green Bootcamp was an excellent platform for us to network and meet other like-minded individuals. The feedback we received from the judges was also very valuable for us to continue improving our product.</em></p>
+        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 30px 65px 0px; line-height: initial;"><em>The excessive use of air-conditioning has become a norm in Singapore. Why do we need the whole room to be cooled if we are only sleeping on our beds? This triggered us to come up with the idea of Igloo. Participating in the Green Bootcamp was an excellent platform for us to network and meet other like-minded individuals. The feedback we received from the judges was also very valuable for us to continue improving our product.</em></p>
           <p style="font-size: 16px; line-height: 26px; margin-top: 0px; color: #FFFFFF; padding-bottom: 30px;"><em><span style="font-size: 18px;">-Matthew Chew, Co-lead</span><br/>
 <span style="font-size: 16px;">Team Igloo - 1st Prize Winner</span></em></p>
         </div>
       </div>
       <div class="slider__slide slider__slide--2">
-        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px;"><em>The opportunity to meet the other teams, who came from various backgrounds, was very eye-opening for us. It was interesting to see the different approaches taken, some from an environment engineering perspective, some from a marketing point-of-view, or from a software angle.</em></p>
+        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; line-height: initial;"><em>The opportunity to meet the other teams, who came from various backgrounds, was very eye-opening for us. It was interesting to see the different approaches taken, some from an environment engineering perspective, some from a marketing point-of-view, or from a software angle.</em></p>
           <p style=" font-size: 16px; line-height: 26px; margin-top: 0px; color: #FFFFFF;"><em><span style="font-size: 18px;">-Victoria, Co-lead</span><br/>
 <span style="font-size: 16px;">Team Igloo - 1st Prize Winner</span></em></p>
         </div>
@@ -493,7 +493,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 
-<h2>Team Dispose & Compose - 2nd Prize Winner</h2>
+<h2 style="font-weight: bold; font-size: xx-large;">Team Dispose & Compose - 2nd Prize Winner</h2>
 
 
 
@@ -532,7 +532,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 
-<p style="font-weight: bold; font-size: 16px; line-height: 26px; margin-top: 0px; ">Project Summary</p>
+<p style="font-weight: bold; font-size: 16px; line-height: 26px;">Project Summary</p>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Food waste is a growing problem in Singapore, and in hopes to educate their peers on the harmful consequences of food wastage, the team came up with the idea of composting food waste into viable bio-materials that can be used to grow more food. Incorporating education and the cultivation of a habit, the DIY Home Composting Kits would be readily available in schools for youths to take home.  </p>
 
 <div class="slider slider--cover" style="height: auto; padding: 20px 0px;">
@@ -541,8 +541,8 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px;"><em>It's never too late, and it's never too small, to start making changes to live a greener life. Sustainability and a green lifestyle are journeys, not destinations. Setbacks are normal, but for the sake of those that come after us, we must not give up our efforts.</em></p>
-                <p style="color: #FFFFFF;"><em><span style="font-size: 18px; line-height: 26px; margin-top: 0px;">-Derrick, Team Leader</span><br/>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; line-height: initial;"><em>It's never too late, and it's never too small, to start making changes to live a greener life. Sustainability and a green lifestyle are journeys, not destinations. Setbacks are normal, but for the sake of those that come after us, we must not give up our efforts.</em></p>
+                <p style="color: #FFFFFF; line-height: initial;"><em><span style="font-size: 18px; line-height: 26px; margin-top: 0px;">-Derrick, Team Leader</span><br/>
 <span style="font-size: 16px;">Team Dispose and Compose - 2nd Prize Winner </span></em></p>
                 </div>
       </div>
@@ -552,7 +552,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 
 
-<h2>Team BYOC Buddy - 3rd Prize Winner</h2>
+<h2 style="font-weight: bold; font-size: xx-large;">Team BYOC Buddy - 3rd Prize Winner</h2>
 
 <div class="carousel">
     <div class="carousel-inner">
@@ -588,7 +588,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
 </div>
 
-<p style="font-weight: bold; font-size: 16px; line-height: 26px; margin-top: 0px;">Project Summary</p>
+<p style="font-weight: bold; font-size: 16px; line-height: 26px;">Project Summary</p>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">To tackle the issue of increased use of disposable food packaging, the team proposed a national strategy to infuse sustainability into our local hawker culture. Their proposal outlines a multi-phased approach, starting with the introduction of a standard set of reusable containers for customers to take-away food from their favourite hawker stalls, creating new social and behavioural habits within the community. The second phase will set up an infrastructure that encourages and incentivises the use of reusable containers and utensils, followed by establishing a legislation for a nationwide ban on disposables.</p>
 
 <div class="slider slider--cover" style="height: auto; padding: 20px 0px;">
@@ -597,9 +597,9 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px;"><em>Our idea comes from our core belief that big changes start with small ones. I don't think any of us can be considered truly environmentally-friendly, but we do try our best. Taking big steps can be very challenging, but small actions can add up, such as using reusable utensils!</em></p>
-                <p style="color: #FFFFFF; line-height: 26px; margin-top: 0px;"><em><span style="font-size: 18px;">-James, Team Leader</span><br/>
-<span style="font-size: 16px; line-height: 26px; margin-top: 0px;">Team BYOC Buddy - 3rd Prize Winner</span></em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial;"><em>Our idea comes from our core belief that big changes start with small ones. I don't think any of us can be considered truly environmentally-friendly, but we do try our best. Taking big steps can be very challenging, but small actions can add up, such as using reusable utensils!</em></p>
+                <p style="color: #FFFFFF; line-height: initial; margin-top: 0px;"><em><span style="font-size: 18px;">-James, Team Leader</span><br/>
+<span style="font-size: 16px; line-height: initial; margin-top: 0px;">Team BYOC Buddy - 3rd Prize Winner</span></em></p>
                 </div>
       </div>
     </div>
