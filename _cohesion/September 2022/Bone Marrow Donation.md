@@ -275,7 +275,7 @@ The fear of the unknown (of both the patient's identity and the procedure) did n
 
 <div style="width: 100%; background: #fef2fd; border-radius: 30px; padding: 20px 0px;">
 	<div style="padding: 10px 30px;">
-	<h2 style="color: #ce8ebe; font-weight: bold; font-size: x-large;"><strong>Joining the BMDP register is easier than you think.</strong></h1>
+	<h2 style="color: #ce8ebe; font-weight: bold; font-size: x-large;"><strong>Joining the BMDP register is easier than you think.</strong></h2>
 	<img src="/images/Cohesion/Sept%202022/bonemarrow-qr.png" style="width: 100%; max-width: 178px;" align="right" />
 	<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">If you are aged between 18 to 49 and are in good health, you can register to be a potential marrow donor by scanning the QR code or visiting <a href="https://bmdp.org" target="_new" style="color: #ce8ebe; text-decoration: underline;">www.bmdp.org</a> and following the simple steps below:</p>
 	<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">1.	Scan the QR Code and register<br/>
