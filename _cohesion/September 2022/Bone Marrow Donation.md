@@ -15,6 +15,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
+  line-height: initial;
 }
 
 .col-1 {width: 8.33%;}
@@ -30,10 +31,14 @@ h1, h2, h3, h4, h5, h6, li {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-@media only screen and (max-width: 768px) {
+.slide-txt {font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial;}
+
+@media only screen and (max-width: 767px) {
   [class*="col-"] {
     width: 100%;
   }
+
+  .slide-txt {font-size:  16px; color: #FFFFFF; font-weight: 600; padding: 10px 30px; margin-top: 0px; line-height: initial;}
 }
 
 .slider {
@@ -199,11 +204,11 @@ h1, h2, h3, h4, h5, h6, li {
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="/images/Cohesion/Sept%202022/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; margin-left: -22px;">
 </div>
 
 <div>
-	<img src="/images/Cohesion/Sept%202022/bonemarrow_03.jpg" style="width: 100%; margin-top: -50px;">
+	<img src="/images/Cohesion/Sept%202022/bonemarrow_03.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 30px;">More than 20 years after putting his details into Singapore's only marrow donor register, Mr Raphael Chong received the call of a lifetime - he was a match for a stranger waiting for a bone marrow transplant!
@@ -240,16 +245,16 @@ The fear of the unknown (of both the patient's identity and the procedure) did n
 		<div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
 		<div class="slider__slides">
 			<div class="slider__slide slider__slide--1" >
-				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; margin-top: 0px; font-weight: 600; padding: 10px 65px;"><em>I think it's only natural to have some fear unless you are medically knowledgeable. I just went ahead as I knew BMDP had my interest at heart. Besides, how often can you do something as powerful as saving someone's life!</em></p></div>
+				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>I think it's only natural to have some fear unless you are medically knowledgeable. I just went ahead as I knew BMDP had my interest at heart. Besides, how often can you do something as powerful as saving someone's life!</em></p></div>
 			</div>
 			<div class="slider__slide slider__slide--2">
-				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; margin-top: 0px; font-weight: 600; padding: 10px 65px;"><em>Everything was back to normal!</em></p></div>
+				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>Everything was back to normal!</em></p></div>
 			</div>
 			<div class="slider__slide slider__slide--3">
-				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; margin-top: 0px; font-weight: 600; padding: 10px 65px;"><em>While it may sound scary, there are many people who will support you along the way in the donation process.</em></p></div>
+				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>While it may sound scary, there are many people who will support you along the way in the donation process.</em></p></div>
 			</div>
 			<div class="slider__slide slider__slide--4">
-				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; margin-top: 0px; font-weight: 600; padding: 10px 65px;"><em>If I were asked to do it all over again, I'd say - 100% YES!</em></p></div>
+				<div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>If I were asked to do it all over again, I'd say - 100% YES!</em></p></div>
 			</div>
 		</div>
 	</div>
@@ -276,7 +281,7 @@ The fear of the unknown (of both the patient's identity and the procedure) did n
 <div style="width: 100%; background: #fef2fd; border-radius: 30px; padding: 20px 0px;">
 	<div style="padding: 10px 30px;">
 	<h2 style="color: #ce8ebe; font-weight: bold; font-size: x-large;"><strong>Joining the BMDP register is easier than you think.</strong></h2>
-	<img src="/images/Cohesion/Sept%202022/bonemarrow-qr.png" style="width: 100%; max-width: 178px;" align="right" />
+	<img src="/images/Cohesion/Sept%202022/bonemarrow-qr.png" style="width: 100%; max-width: 178px; padding: 0px 20px;" align="right" />
 	<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">If you are aged between 18 to 49 and are in good health, you can register to be a potential marrow donor by scanning the QR code or visiting <a href="https://bmdp.org" target="_new" style="color: #ce8ebe; text-decoration: underline;">www.bmdp.org</a> and following the simple steps below:</p>
 	<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">1.	Scan the QR Code and register<br/>
 2.	Receive your swab kit<br/>
