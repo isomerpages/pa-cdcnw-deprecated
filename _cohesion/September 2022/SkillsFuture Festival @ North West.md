@@ -15,6 +15,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
+  line-height: initial;
 }
 
 .col-1 {width: 8.33%;}
@@ -30,7 +31,7 @@ h1, h2, h3, h4, h5, h6, li {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 767px) {
   [class*="col-"] {
     width: 100%;
   }
@@ -42,12 +43,12 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="/images/Cohesion/Sept%202022/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; margin-left: -22px;">
 </div>
 
 
 <div>
-	<img src="/images/Cohesion/Sept%202022/skillsfuture_03.jpg" style="width: 100%; margin-top: -30px;">
+	<img src="/images/Cohesion/Sept%202022/skillsfuture_03.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 30px;">The journey to self-discovery is personal. We all have our individual paths to take, and career development to embark on. At the recently concluded SkillsFuture Festival @ North West, the last of the 5 CDCs' combined effort for SkillsFuture, we celebrated lifelong learning - empowering residents to take ownership of their career and personal growth, to be future ready as Singapore transits into a post-Covid world.</p>     
@@ -127,4 +128,3 @@ h1, h2, h3, h4, h5, h6, li {
 </article>
 </body>
 </html>
-
