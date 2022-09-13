@@ -15,6 +15,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
+  line-height: initial;
 }
 
 .col-1 {width: 8.33%;}
@@ -30,6 +31,8 @@ h1, h2, h3, h4, h5, h6, li {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
+.slide-txt {font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial;}
+
 @media only screen and (max-width: 767px) {
   [class*="col-"] {
     width: 100%;
@@ -38,6 +41,8 @@ h1, h2, h3, h4, h5, h6, li {
   .slider--cover .slider__inner {
     height: 600px !important;
   }
+
+.slide-txt {font-size:  16px; color: #FFFFFF; font-weight: 600; padding: 10px 25px; margin-top: 0px; line-height: initial;}  
 }
 
 
@@ -375,12 +380,12 @@ h1, h2, h3, h4, h5, h6, li {
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; margin-left: -22px;">
 </div>
 
 
 <div>
-  <img src="/images/bootcamp_03.jpg" style="width: 100%; margin-top: -30px;">
+  <img src="/images/bootcamp_03.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 30px;"><img src="/images/bootcamp_07.jpg" style="width: 100%; max-width: 124px;" align="right" />
@@ -476,15 +481,15 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 30px 65px 0px; line-height: initial;"><em>The excessive use of air-conditioning has become a norm in Singapore. Why do we need the whole room to be cooled if we are only sleeping on our beds? This triggered us to come up with the idea of Igloo. Participating in the Green Bootcamp was an excellent platform for us to network and meet other like-minded individuals. The feedback we received from the judges was also very valuable for us to continue improving our product.</em></p>
-          <p style="font-size: 16px; line-height: initial; margin-top: 0px; color: #FFFFFF; padding-bottom: 30px;"><em><span style="font-size: 18px;">-Matthew Chew, Co-lead</span><br/>
-<span style="font-size: 16px;">Team Igloo - 1st Prize Winner</span></em></p>
+        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>The excessive use of air-conditioning has become a norm in Singapore. Why do we need the whole room to be cooled if we are only sleeping on our beds? This triggered us to come up with the idea of Igloo. Participating in the Green Bootcamp was an excellent platform for us to network and meet other like-minded individuals. The feedback we received from the judges was also very valuable for us to continue improving our product.</em></p>
+          <p style="font-size: 16px; line-height: initial; margin-top: 0px; color: #FFFFFF; padding-bottom: 30px;"><em><span style="font-size: 16px;">-Matthew Chew, Co-lead</span><br/>
+<span style="font-size: 15px;">Team Igloo - 1st Prize Winner</span></em></p>
         </div>
       </div>
       <div class="slider__slide slider__slide--2">
-        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; line-height: initial;"><em>The opportunity to meet the other teams, who came from various backgrounds, was very eye-opening for us. It was interesting to see the different approaches taken, some from an environment engineering perspective, some from a marketing point-of-view, or from a software angle.</em></p>
-          <p style=" font-size: 16px; line-height: initial; margin-top: 0px; color: #FFFFFF;"><em><span style="font-size: 18px;">-Victoria, Co-lead</span><br/>
-<span style="font-size: 16px;">Team Igloo - 1st Prize Winner</span></em></p>
+        <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>The opportunity to meet the other teams, who came from various backgrounds, was very eye-opening for us. It was interesting to see the different approaches taken, some from an environment engineering perspective, some from a marketing point-of-view, or from a software angle.</em></p>
+          <p style=" font-size: 16px; line-height: initial; margin-top: 0px; color: #FFFFFF;"><em><span style="font-size: 16px;">-Victoria, Co-lead</span><br/>
+<span style="font-size: 15px;">Team Igloo - 1st Prize Winner</span></em></p>
         </div>
       </div>
 
@@ -541,9 +546,9 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; line-height: initial;"><em>It's never too late, and it's never too small, to start making changes to live a greener life. Sustainability and a green lifestyle are journeys, not destinations. Setbacks are normal, but for the sake of those that come after us, we must not give up our efforts.</em></p>
-                <p style="color: #FFFFFF; line-height: initial;"><em><span style="font-size: 18px; line-height: 26px; margin-top: 0px;">-Derrick, Team Leader</span><br/>
-<span style="font-size: 16px;">Team Dispose and Compose - 2nd Prize Winner </span></em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>It's never too late, and it's never too small, to start making changes to live a greener life. Sustainability and a green lifestyle are journeys, not destinations. Setbacks are normal, but for the sake of those that come after us, we must not give up our efforts.</em></p>
+                <p style="color: #FFFFFF; line-height: initial;"><em><span style="font-size: 16px; line-height: initial; margin-top: 0px;">-Derrick, Team Leader</span><br/>
+<span style="font-size: 15px;">Team Dispose and Compose - 2nd Prize Winner </span></em></p>
                 </div>
       </div>
     </div>
@@ -597,9 +602,9 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial;"><em>Our idea comes from our core belief that big changes start with small ones. I don't think any of us can be considered truly environmentally-friendly, but we do try our best. Taking big steps can be very challenging, but small actions can add up, such as using reusable utensils!</em></p>
-                <p style="color: #FFFFFF; line-height: initial; margin-top: 0px;"><em><span style="font-size: 18px;">-James, Team Leader</span><br/>
-<span style="font-size: 16px; line-height: initial; margin-top: 0px;">Team BYOC Buddy - 3rd Prize Winner</span></em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>Our idea comes from our core belief that big changes start with small ones. I don't think any of us can be considered truly environmentally-friendly, but we do try our best. Taking big steps can be very challenging, but small actions can add up, such as using reusable utensils!</em></p>
+                <p style="color: #FFFFFF; line-height: initial; margin-top: 0px;"><em><span style="font-size: 15px;">-James, Team Leader</span><br/>
+<span style="font-size: 15px; line-height: initial; margin-top: 0px;">Team BYOC Buddy - 3rd Prize Winner</span></em></p>
                 </div>
       </div>
     </div>
@@ -659,4 +664,3 @@ h1, h2, h3, h4, h5, h6, li {
 </article>
 </body>
 </html>
-
