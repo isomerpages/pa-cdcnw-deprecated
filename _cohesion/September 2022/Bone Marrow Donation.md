@@ -31,14 +31,14 @@ h1, h2, h3, h4, h5, h6, li {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-.slide-txt {font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial;}
+.slide-txt {font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial !important;}
 
 @media only screen and (max-width: 767px) {
   [class*="col-"] {
     width: 100%;
   }
 
-  .slide-txt {font-size:  16px; color: #FFFFFF; font-weight: 600; padding: 10px 30px; margin-top: 0px; line-height: initial;}
+  .slide-txt {font-size:  16px; color: #FFFFFF; font-weight: 600; padding: 10px 30px; margin-top: 0px; line-height: initial !important;}
 }
 
 .slider {
@@ -345,4 +345,3 @@ The fear of the unknown (of both the patient's identity and the procedure) did n
 </article>
 </body>
 </html>
-
