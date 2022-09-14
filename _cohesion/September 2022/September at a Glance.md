@@ -15,6 +15,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
+  line-height: initial;
 }
 
 .col-1 {width: 8.33%;}
@@ -40,7 +41,7 @@ h1, h2, h3, h4, h5, h6, li {
 <body>
 <article style="max-width: 650px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; margin-left: -22px;">
 </div>
 
 <div style="width: 100%; max-width: 650px; margin: 20px auto;">

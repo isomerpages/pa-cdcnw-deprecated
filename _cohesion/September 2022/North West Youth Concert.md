@@ -15,6 +15,7 @@ p {
 
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
+  line-height: initial;
 }
 
 .video-container {position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
@@ -34,9 +35,18 @@ h1, h2, h3, h4, h5, h6, li {
 .col-11 {width: 91.66%;}
 .col-12 {width: 100%;}
 
-@media only screen and (max-width: 768px) {
+.slide-txt {font-size:  20px; color: #FFFFFF; font-weight: 600; padding: 10px 65px; margin-top: 0px; line-height: initial !important;}
+
+@media only screen and (max-width: 767px) {
   [class*="col-"] {
     width: 100%;
+  }
+
+  .slide-txt {font-size:  16px; color: #FFFFFF; font-weight: 600; padding: 10px 25px; margin-top: 0px; line-height: initial !important;}
+
+  .slider--cover .slider__inner {
+    width: 100%;
+    height: 400px !important;
   }
 }
 
@@ -205,12 +215,12 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="/images/Cohesion/Sept%202022/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; margin-left: -22px;">
 </div>
 
 
 <div>
-	<img src="/images/Cohesion/Sept%202022/concert_03.jpg" style="width: 100%; margin-top: -80px;">
+	<img src="/images/Cohesion/Sept%202022/concert_03.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 30px;">It took months of hard work and planning for the organising committee, volunteers, and youth performers to put up such an amazing show, dedicated to celebrate the generous donors, as well as pay tribute to the strength of the beneficiaries of our North West Student Support Fund (SSF) campaign.   
@@ -228,8 +238,8 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; line-height: initial; margin-top: 0px; color: #FFFFFF; font-weight: 600; padding: 10px 65px;"><em>I am glad that as of 22 July 2022, we have already surpassed the $500,000 target, raising $763,862 in total. During difficult times, it is important for fellow Singaporeans to step forward and provide support for vulnerable residents, especially our children, who will shape Singapore's future in the years to come.</em></p>
-                <p style="font-size: 18px; line-height: 26px; margin-top: 0px; color: #FFFFFF;"><em>-President Halimah Yacob</em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>I am glad that as of 22 July 2022, we have already surpassed the $500,000 target, raising $763,862 in total. During difficult times, it is important for fellow Singaporeans to step forward and provide support for vulnerable residents, especially our children, who will shape Singapore's future in the years to come.</em></p>
+                <p style="font-size: 15px; line-height: initial; margin-top: 0px; color: #FFFFFF;"><em>-President Halimah Yacob</em></p>
                 </div>
       </div>
     </div>
@@ -260,8 +270,8 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; font-weight: 600; padding: 10px 65px;"><em>Although I was very nervous to perform in front of a large crowd, I want to support the community through my music. We may be the youngest performers here, but we can still do our part for the community by performing for a good cause.</em></p>
-                <p style="font-size: 18px; color: #FFFFFF; line-height: initial; margin-top: 0px;"><em>-Riley, 10, Handbell performer from Woodlands Primary School</em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>Although I was very nervous to perform in front of a large crowd, I want to support the community through my music. We may be the youngest performers here, but we can still do our part for the community by performing for a good cause.</em></p>
+                <p style="font-size: 15px; color: #FFFFFF; line-height: initial; margin-top: 0px;"><em>-Riley, 10, Handbell performer from Woodlands Primary School</em></p>
                 </div>
       </div>
     </div>
@@ -276,8 +286,8 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="position: absolute; bottom: 0; right: 0;"><img src="/images/Cohesion/Sept%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1" >
-                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p style="font-size:  20px; color: #FFFFFF; line-height: initial; font-weight: 600; padding: 10px 65px;"><em>Green represents sustainability, while Drumming is all about cohesion, because music transcends all ages, all races, all religions bringing people together. Our finale item, along with the North West Youth Assembly volunteers, showcases North West CDC's mission and the entire community coming together to support this meaningful cause.</em></p>
-                <p style="font-size: 18px; line-height: initial; margin-top: 0px; color: #FFFFFF;"><em>-Arthur, Leader of Beat A 'Box</em></p>
+                <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);"><p class="slide-txt"><em>Green represents sustainability, while Drumming is all about cohesion, because music transcends all ages, all races, all religions bringing people together. Our finale item, along with the North West Youth Assembly volunteers, showcases North West CDC's mission and the entire community coming together to support this meaningful cause.</em></p>
+                <p style="font-size: 15px; line-height: initial; margin-top: 0px; color: #FFFFFF;"><em>-Arthur, Leader of Beat A 'Box</em></p>
                 </div>
       </div>
     </div>
