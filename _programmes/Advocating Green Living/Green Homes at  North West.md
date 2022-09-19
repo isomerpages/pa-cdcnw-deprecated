@@ -1,6 +1,6 @@
 ---
 title: Green Homes at  North West
-permalink: /programmes/BONDING-THE-PEOPLE/GreenHomes-at-NorthWest
+permalink: /programmes/BONDING-THE-PEOPLE/GreenHomes-at-NorthWest/
 description: ""
 third_nav_title: Advocating Green Living
 ---
@@ -44,7 +44,7 @@ Residents who wish to sign up for this programme can apply at the following link
 
 Residents who meet the following criteria can apply at the following link, with the necessary supporting documents: https://[go.gov.sg/ghnw-123rooms](https://go.gov.sg/ghnw-123rooms).  Successful applicants for both programmes will receive up to $300 grocery e-vouchers depending on the number of criteria fulfilled. 
 
-For more information, you may contact David Lee at [David\_Lee@pa.gov.sg](mailto:David_Lee@pa.gov.sg)
+For more information, you may contact
 
 ![](/images/Programmes/Green%20Living/GH%20Posters-1.jpg)
 
