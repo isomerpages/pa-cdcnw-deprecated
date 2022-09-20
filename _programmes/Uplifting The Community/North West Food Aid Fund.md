@@ -1,14 +1,9 @@
 ---
 title: North West Food Aid Fund
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Food-Aid-Fund
+permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Food-Aid-Fund/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-<meta name="description" content="North West Food Aid Fund">
-
-
-[Image]
-
 The **North West Food Aid Fund (FAF)** is a local assistance scheme administered by the North West CDC. It aims to complement the National ComCare Scheme by supporting financially challenged residents who do not meet the National ComCare scheme criteria but are still in need of help to defray their household expenses.
 
 The fund supports the provision of Food Vouchers to the families and yearly festive food packs to those staying in the rental flats within the North West District.
