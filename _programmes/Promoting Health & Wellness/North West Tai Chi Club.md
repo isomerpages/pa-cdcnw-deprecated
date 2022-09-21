@@ -1,13 +1,13 @@
 ---
 title: North West Tai Chi Club
-permalink: /programmes/Promoting-Health-and-Wellness/nw-tai-chi
+permalink: /programmes/Promoting-Health-and-Wellness/nw-tai-chi/
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---
 <meta name="description" content="North West Tai Chi Club">
 
 
-![](/images/IMG_0134.jpg)
+![](/images/Programmes/Promoting%20Health%20and%20Wellness/IMG_0134.jpg)
 
 The **North West Tai Chi Club** was launched on 19 February 2017 to promote health maintenance through regular Tai Chi exercises, and allow Tai Chi practitioners to bond and forge friendships with each other.  
   
