@@ -1,13 +1,9 @@
 ---
 title: CDC Vouchers Scheme
-permalink: /programmes/ASSISTING-THE-NEEDY/CDC-Vouchers-Scheme
+permalink: /programmes/ASSISTING-THE-NEEDY/CDC-Vouchers-Scheme/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-<meta name="description" content="CDC Vouchers scheme">
-
-[Image]
-
 To thank Singaporeans for their sense of solidarity during the pandemic, and to support our hawkers and heartland merchants affected by the pandemic, the five Community Development Councils (CDCs) launched the $130 million CDC Vouchers Scheme for all Singaporean households on 13 December 2021. 
 
 The Scheme was launched by Guest-of-Honour Prime Minister Lee Hsien Loong, also Chairman of People’s Association (PA). Singaporean households will each receive $100 in CDC vouchers which can be spent at the participating hawkers and heartland merchants.  
