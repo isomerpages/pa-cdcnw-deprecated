@@ -6,7 +6,7 @@ third_nav_title: Advocating Green Living
 ---
 <meta name="description" content="We Care, We Recycle at North West">
 
-![](/images/WCWR%20Pix%201.jpg)
+![](/images/Programmes/Green%20Living/WCWR%20Pix%201.jpg)
 
 
 **We Care, We Recycle @ North West** was launched in 2014 to instill good recycling habits from young. North West CDC partner with ALBA, SembWaste, National Environment Agency (NEA), ASM International and Schools in the North West District to encourage normal & E-waste recycling by the schools in North West District. 
