@@ -6,7 +6,7 @@ third_nav_title: Advocating Green Living
 ---
 <meta name="description" content="Reduce at North West">
 
-![](/images/PHOTO-2022-07-06-12-31-38.jpg)
+![](/images/Programmes/Green%20Living/PHOTO-2022-07-06-12-31-38%20(1).jpg)
 
 **Reduce At North West**  was launched in 2011 to educate and encourage residents to do their part in fighting climate change by reducing energy consumption.  
 
