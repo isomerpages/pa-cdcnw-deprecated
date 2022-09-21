@@ -1,10 +1,10 @@
 ---
 title: Waterways Clean Up at North West
-permalink: /programmes/BONDING-THE-PEOPLE/Waterways-CleanUp-NorthWest
+permalink: /programmes/BONDING-THE-PEOPLE/Waterways-CleanUp-NorthWest/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-<meta name="description" content="Waterways Clean Up at North West">
+![](/images/Programmes/Green%20Living/Kayak%202.jpg)
 
 **Waterways Clean-up @ North West** is an initiative launched in 2013 with Waterways Watch Society (WWS) that aims to impart the importance of protection and conservation within our waterways to primary and secondary schools in the district through assembly talks and learning trails on environmental awareness and litter monitoring programmes. 
 
