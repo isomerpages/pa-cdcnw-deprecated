@@ -16,4 +16,4 @@ In 2021, the **Green Homes @ North West - Support for 1 to 3 rooms** was launc
    
 Residents who meet the following criteria can apply at the following link, with the necessary supporting documents: https://[go.gov.sg/ghnw-123rooms](https://go.gov.sg/ghnw-123rooms). 
 
-For more information, you may contact Nazariah Hasmi at Nazariah_Hasmi@pa.gov.sg. 
+For more information, you may contact Siti Nazariah at Nazariah_Hasmi@pa.gov.sg.
