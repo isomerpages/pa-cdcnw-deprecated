@@ -4,10 +4,6 @@ permalink: /programmes/BONDING-THE-PEOPLE/Reduce-at-NorthWest/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-<meta name="description" content="Reduce at North West">
-
-![](/images/Programmes/Green%20Living/PHOTO-2022-07-06-12-31-38%20(1).jpg)
-
 **Reduce At North West**  was launched in 2011 to educate and encourage residents to do their part in fighting climate change by reducing energy consumption.  
 
 In 2017, the scope of the programme was expanded to include messages of reducing water consumption and food wastage. 
@@ -16,4 +12,4 @@ Trained students will conduct house visits to promote energy and water conservat
 
 Residents who are keen to participate in the pledge can fill up the application form [here](https://go.gov.sg/reduce-sign-up). 5 lucky residents in the North West district who pledge will win a $20 grocery e-voucher each month. Winners will be announced quarterly.   
 
-For more information, please contact Goh Shan Jin at [GOH\_Shan\_Jin@pa.gov.sg](mailto:GOH_Shan_Jin@pa.gov.sg?subject=Reduce%20@%20North%20West).
+For more information, please contact Goh Shan Jin at [GOH_Shan_Jin@pa.gov.sg].
