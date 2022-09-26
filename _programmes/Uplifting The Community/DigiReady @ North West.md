@@ -1,12 +1,9 @@
 ---
 title: DigiReady @ North West
-permalink: /programmes/ASSISTING-THE-NEEDY/DigiReady-NorthWest
+permalink: /programmes/ASSISTING-THE-NEEDY/DigiReady-NorthWest/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-<meta name="description" content="DigiReady @ North West">
-
-
 **DigiReady @ North West** is an initiative to provide holistic support to vulnerable residents in the following aspects of digital readiness: refurbished devices and accessories, subsidised broadband, and troubleshooting faulty digital devices.
 
 **1. Support on Digital Devices**
@@ -17,7 +14,7 @@ Students, seniors and families from low-income backgrounds may request for free 
 
 The scheme further subsidises broadband access for beneficiaries under IMDA's Home Access Scheme, by providing additional subsidies of up to $10 per month, for a period of two years. 
 
- [Download the poster](https://www-cdc-gov-sg-admin.cwp.sg/images/librariesprovider4/images-nwcdc/programmes/assisting_the_needy/digiready_poster.jpg?sfvrsn=3be35dd4_2) for more information on eligibility criteria and application process for the subsidised broadband.
+[Download the poster](https://www-cdc-gov-sg-admin.cwp.sg/images/librariesprovider4/images-nwcdc/programmes/assisting_the_needy/digiready_poster.jpg?sfvrsn=3be35dd4_2) for more information on eligibility criteria and application process for the subsidised broadband.
 
 **Contribute to the programme**
 
