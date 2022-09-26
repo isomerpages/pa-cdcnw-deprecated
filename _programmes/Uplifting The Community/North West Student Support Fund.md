@@ -1,11 +1,9 @@
 ---
 title: North West Student Support Fund
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Student-SupportFund
+permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Student-SupportFund/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-<meta name="description" content="North West Student Support Fund">
-
 The **North West Student Support Fund (SSF)** provides financial assistance to defray educational expenses, and the opportunities to attend developmental programmes for students from less-privileged backgrounds.  
 
 Through its two social mobility pillars – **Student Assist** and **Student Wise** programmes, the SSF has benefitted over 130,000 needy students since 2011. 
