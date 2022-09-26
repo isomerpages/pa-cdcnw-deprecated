@@ -24,13 +24,13 @@ North West CDC identifies the beneficiaries jointly with the Grassroots Organisa
 
 North West CDC sustains the North West Food Aid Fund through the following approaches:
 
-* GIRO donations
-The CDC gathers support from the Community through GIRO donations from the public to contribute to the North West FAF specifically.
+* **GIRO donations**
+The CDC gathers support from the community through GIRO donations from the public to contribute to the North West FAF specifically.
 
-* Club-100 @ North West
+* **Club-100 @ North West**
 The Club-100 @ North West was set up in May 2008 to promote the culture of giving back and serve as a network for corporate and individual members to pledge a monthly donation of $100 (or more) of their net profit or income to worthy causes for the benefit of the community.
 
-* Corporate Social Responsibility (CSR) projects
+* **Corporate Social Responsibility (CSR) projects**
 North West CDC gathers support from corporate organisations and community partners by tapping on their expertise and resources for collaborations as part of their CSR efforts.
 
 For more information on the various scheme provided in North West Food Aid Fund, please contact North West CDC at northwest_cdc@pa.gov.sg.
