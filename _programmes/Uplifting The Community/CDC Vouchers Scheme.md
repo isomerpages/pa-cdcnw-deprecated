@@ -14,4 +14,4 @@ To claim the vouchers, one member of the household can go to [**go.gov.sg/cdcv*
   
 If you do not have a smartphone or Singpass, please visit your nearest Community Centre/Club (CC) for assistance.  
   
-For more information on the CDC Vouchers Scheme, please visit [**CDC Vouchers website**] or call the PA Contact Centre at 6225 5322 for enquiries.
+For more information or enquiries on the CDC Vouchers Scheme, please visit **https://vouchers.cdc.gov.sg** or call the PA Contact Centre at 6225 5322.
