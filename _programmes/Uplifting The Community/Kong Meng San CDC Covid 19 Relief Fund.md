@@ -4,9 +4,6 @@ permalink: /programmes/Uplifting-The-Community/kms-cdc-relief-fund/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-<meta name="description" content="Kong Meng San">
-
-
 Complementing the Government’s efforts in supporting individuals who are affected by the pandemic, Kong Meng San (KMS) collaborated with the five Community Development Councils (CDCs) to roll out **Kong Meng San-CDC Covid-19 Relief Fund**. 
 
 The fund aims to help Singaporean households affected by the Covid-19 pandemic through loss of jobs, retrenchment, or significant loss of income. Each approved applicant will receive a one-time relief assistance of $800.
