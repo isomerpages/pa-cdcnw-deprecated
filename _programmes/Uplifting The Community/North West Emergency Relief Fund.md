@@ -8,4 +8,4 @@ The **North West Emergency Relief Fund** was set up in January 2014 to provide i
 
 North West CDC identifies the beneficiaries jointly with the Grassroots Organisations in the North West District.  
   
-For enquiries, please contact the North West CDC via email: [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
+For enquiries, please contact the North West CDC at northwest_cdc@pa.gov.sg.
