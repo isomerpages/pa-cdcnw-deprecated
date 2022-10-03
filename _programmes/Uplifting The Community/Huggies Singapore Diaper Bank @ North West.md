@@ -12,4 +12,4 @@ third_nav_title: Uplifting The Community
 *   Resident of the North West District 
 *   Monthly household income of ≤ $1,900 or monthly Per Capita Income of ≤ $750
 
-Application is now closed. Please follow North West CDC [Facebook](https://www.facebook.com/nwcdc/) and [Instagram](https://www.instagram.com/northwestcdc/) for updates.
+Application is open from 3 to 17 October. Eligible residents may apply through this [link](go.gov.sg/nwdiapers). 
