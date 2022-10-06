@@ -22,7 +22,7 @@ sections:
         employability.
       alt: Image alt text
       image: /images/Nurturing Youths.jpg
-      url: https://pa-cdcnw-staging.netlify.app/programmes/uplifting-the-community/sfa-northwest
+      url: https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest
       button: Get Empowered
   - infopic:
       title: Promoting Health and Wellness
