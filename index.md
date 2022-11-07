@@ -12,9 +12,6 @@ sections:
         - title: Corporate Video
           description: Watch to find out what we do!
           url: https://northwest.cdc.gov.sg/about-us/vision-and-mission/
-        - title: Upcoming Event
-          description: Club-100 Fundraising Golf
-          url: https://northwest.cdc.gov.sg/programmes/partnerships-and-volunteerism/nw-fundraising-golf
   - infopic:
       title: Uplifting The Community
       description: We aim to provide short-term support for residents through local
