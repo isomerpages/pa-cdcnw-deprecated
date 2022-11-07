@@ -14,7 +14,7 @@ Students, seniors and families from low-income backgrounds may request for free 
 
 The scheme further subsidises broadband access for beneficiaries under IMDA's Home Access Scheme, by providing additional subsidies of up to $10 per month, for a period of two years. 
 
-[Download the poster](https://www-cdc-gov-sg-admin.cwp.sg/images/librariesprovider4/images-nwcdc/programmes/assisting_the_needy/digiready_poster.jpg?sfvrsn=3be35dd4_2) for more information on eligibility criteria and application process for the subsidised broadband.
+[Download the poster](/files/DigiReady%20@%20North%20West.pdf) for more information on eligibility criteria and application process for the subsidised broadband.
 
 **Contribute to the programme**
 

@@ -2,6 +2,13 @@ collections:
   cohesion:
     output: true
     order:
+      - November 2022/.keep
+      - November 2022/November at a Glance.md
+      - November 2022/Healthy Living @ North West.md
+      - November 2022/North West GIRAFFE Fund.md
+      - November 2022/Club 100 @ North West.md
+      - November 2022/Career & Employability Series.md
+      - November 2022/Understanding Dengue.md
       - September 2022/.keep
       - September 2022/September at a Glance.md
       - September 2022/Green Bootcamp @ North West.md
