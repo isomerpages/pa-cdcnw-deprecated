@@ -18,4 +18,4 @@ i. total loss of income due to non-voluntary no-pay leave, retrenchment or termi
 
 ii. salary loss of at least 30% from all jobs prior to application (Applicants must have monthly gross income of $3,000 or less)
 
-For application, please apply through this [online form.](go.gov.sg/kms-nwcdc)
+For application, please apply through this [online form](https://form.gov.sg/6246e36d85e8da0012d208b5).
