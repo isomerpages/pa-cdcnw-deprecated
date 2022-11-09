@@ -203,7 +203,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-	<img src="images/dengue-kv.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="images/Cohesion/Nov%202022/dengue-kv.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-  <img src="images/saw2-kv.jpg" style="width: 100%; margin: 0px auto;">
+  <img src="images/Cohesion/Nov%202022/saw2-kv.jpg" style="width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -281,4 +281,3 @@ h1, h2, h3, h4, h5, h6, li {
 </article>
 </body>
 </html>
-
