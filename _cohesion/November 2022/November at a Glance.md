@@ -53,12 +53,12 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/healthy-living/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_10.jpg" style="max-width: 100%; max-height: 73px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_10.jpg" style="max-width: 100%; max-height: 73px;" />
   </a>
 </p>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
-  <img src="images/Cohesion/Nov%202022/nwc_nov_13.jpg" style="max-width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_13.jpg" style="max-width: 100%;">
 </div>
 
 <p style=" font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify;">
@@ -67,13 +67,13 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/giraffe-fund/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_16.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_16.jpg" style="max-width: 100%; max-height: 63px;" />
   </a>
 </p>
 
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
-  <img src="images/Cohesion/Nov%202022/nwc_nov_20.jpg" style="max-width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_20.jpg" style="max-width: 100%;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;  padding: 0px 25px; text-align: justify;">
@@ -82,12 +82,12 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/c-100/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_23.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_23.jpg" style="max-width: 100%; max-height: 63px;" />
   </a>
 </p>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
-  <img src="images/Cohesion/Nov%202022/nwc_nov_26.jpg" style="max-width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_26.jpg" style="max-width: 100%;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify; letter-spacing: -0.1px;">
@@ -96,12 +96,12 @@ Landing your dream job is not impossible, finding the right candidate is not dif
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/careerandemployability/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_29.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_29.jpg" style="max-width: 100%; max-height: 63px;" />
   </a>
 </p>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
-  <img src="images/Cohesion/Nov%202022/nwc_nov_32.jpg" style="max-width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_32.jpg" style="max-width: 100%;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify;">
@@ -110,7 +110,7 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/nea-dengue/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_35.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_35.jpg" style="max-width: 100%; max-height: 63px;" />
   </a>
 </p>
 
@@ -120,26 +120,26 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
 <div style="max-width: 740px; margin: 0px auto; padding: 30px 22px;">
 <div style="width: 100%; background: #fdddce; padding: 10px 0px 40px; text-align: center; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px;">
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_37.jpg" width="100%">
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_37.jpg" width="100%">
   </div>
-  <img src="images/Cohesion/Nov%202022/nwc_nov_39.jpg" style="max-width: 600px; margin: 0px auto; text-align: center; width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_39.jpg" style="max-width: 600px; margin: 0px auto; text-align: center; width: 100%;">
   <div style="padding: 5px 25px; text-align: center;">
     <p>Start recycling in your home and stand a chance to win a $20 e-voucher.</p>
   </div>
   <a href="https://www.instagram.com/p/CkpGWjdrptL/?utm_source=ig_web_copy_link" target="_new">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_43.jpg" style="max-width: 100%; max-height: 50px;">
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_43.jpg" style="max-width: 100%; max-height: 50px;">
   </a>
 
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
-    <img src="images/Cohesion/Nov%202022/nwc_line.jpg" width="100%">
+    <img src="/images/Cohesion/Nov%202022/nwc_line.jpg" width="100%">
   </div>
-  <img src="images/Cohesion/Nov%202022/nwc_nov_47.jpg" style="max-width: 600px; margin: 0px auto; text-align: center; width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/nwc_nov_47.jpg" style="max-width: 600px; margin: 0px auto; text-align: center; width: 100%;">
   <div style="padding: 5px 25px; text-align: center;">
     <p>Don’t become the next victim of scams!<br/>Spread the message to
 protect your loved ones against malicious scammers.</p>
   </div>
   <a href="https://www.facebook.com/nwcdc/posts/pfbid0Y66yUTaCs4qdnv4DgPSgQTuYkMusjrXRS9vSk9AcJM6wbe4Komfab8Fw2Z4VUdYsl" target="_new">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_51.jpg" style="max-width: 100%; max-height: 50px;">
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_51.jpg" style="max-width: 100%; max-height: 50px;">
   </a>
 
 </div>
