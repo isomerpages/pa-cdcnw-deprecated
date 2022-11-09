@@ -199,11 +199,11 @@ h1, h2, h3, h4, h5, h6, li {
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
 </div>
 
 <div>
-	<img src="images/Cohesion/Nov%202022/dengue-kv.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="images/dengue-kv.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -212,7 +212,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-  <img src="images/Cohesion/Nov%202022/saw2-kv.jpg" style="width: 100%; margin: 0px auto;">
+  <img src="images/saw2-kv.jpg" style="width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -228,33 +228,34 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div class="col-" style="padding: 20px 0px 0px; display: flex;">&nbsp;</div>
 
+<!--CTA Megaphone-->
 <div style="width: 100%; background: #fb6e36; border-radius: 30px; padding: 20px 0px; display: flex;">
   <div style="padding: 10px 10px; text-align: center; margin: auto;">
   <div class="col-5" style="float: left; text-align: center;">
-    <img src="images/megaphone.png" style="width: 100%; max-width: 270px; margin: auto;">
+    <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/megaphone.png" style="width: 100%; max-width: 270px; margin: auto;">
   </div>
   <div class="col-7" style="float: left; text-align: center;">
     <div>
-      <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="cursor: default;"><img src="images/subscribe-cta.png" style="width: 100%; max-width: 397px;"></a>
+      <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="cursor: default;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/subscribe-cta.png" style="width: 100%; max-width: 397px;"></a>
     </div>
 
 
 <div style="width: 100%; margin: 0px auto; text-align: center;">
 <div style="margin: 0px auto; display: inline-block;">
   <div style="float:left; max-width: 128px;">
-  <img src="images/follow-us.png" style="max-width: 128px;">
+  <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/follow-us.png" style="max-width: 128px;">
   </div>
   <div style="float:left; max-width: 47px;">
-  <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="images/fb.png" style="max-width: 39px;"></a>
+  <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/fb.png" style="max-width: 39px;"></a>
   </div>
   <div style="float:left; max-width: 49px;">
-  <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="images/ig.png" style="max-width: 40px;"></a>
+  <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/ig.png" style="max-width: 40px;"></a>
   </div>
   <div style="float:left; max-width: 41px;">
-  <a href="https://t.me/northwestcdc" target="_new"><img src="images/tg.png" style="max-width: 46px;"></a>
+  <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/tg.png" style="max-width: 46px;"></a>
   </div>
   <div style="float:left; max-width: 48px;">
-  <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="images/yt.png" style="max-width: 53px;"></a>
+  <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/yt.png" style="max-width: 53px;"></a>
   </div>
 </div>
 </div>
@@ -262,19 +263,22 @@ h1, h2, h3, h4, h5, h6, li {
   </div>
   </div>
 </div>
+<!--CTA Megaphone End-->
 
+<!--Footer-->
 <div style="padding: 40px 20px; text-align: center;">
   <h2 style="font-size: xx-large; font-weight: bold;"><em>Our Team</em></h2>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Adviser: Mayor Alex Yam</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Editorial Team: Michael Lau, Sim Chuan San, Steve Luo, Eric Liu, Melvin Tai, Charlene Koh</p>
-  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="color: #000000; text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
+  <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Please send feedback, suggestions and comments to <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true" style="color: #000000; text-decoration: underline;">northwest_cdc@pa.gov.sg</a></p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Some articles in Cohesion are contributed by volunteers and are not necessarily opinions/comments by North West CDC.</p>
   <p style="font-size: 14px; line-height: 24px; margin-top: 0px;">Reproduction in whole or in part is prohibited without prior permission from North West CDC.</p>
 </div>
-
+<!--Footer End-->
 
 <br/>
 <br/>
 </article>
 </body>
 </html>
+
