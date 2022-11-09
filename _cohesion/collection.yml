@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - November 2022/Images.md
       - November 2022/.keep
       - November 2022/November at a Glance.md
       - November 2022/Healthy Living @ North West.md
