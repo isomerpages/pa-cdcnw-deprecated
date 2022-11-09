@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-	<img src="images/dream-job.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="images/Cohesion/Nov%202022/dream-job.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px 10px;">
@@ -222,7 +222,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="images/timothy.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="images/Cohesion/Nov%202022/timothy.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 10px 0px 10px;">
@@ -231,8 +231,8 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div class="slider slider--cover" style="height: auto; padding: 0px; width:  auto;">
   <div class="slider__inner" style="background: #88B4A6; border-radius: 30px; padding: 30px 0px;">
-    <div style="position:absolute; left:0; top: 0;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/quote_1.png"></div>
-    <div style="position: absolute; bottom: 0; right: 0;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/quote_2.png"></div>
+    <div style="position:absolute; left:0; top: 0;"><img src="images/Cohesion/Nov%202022/quote_1.png"></div>
+    <div style="position: absolute; bottom: 0; right: 0;"><img src="images/Cohesion/Nov%202022/quote_2.png"></div>
     <div class="slider__slides">
       <div class="slider__slide slider__slide--1">
                 <div style="width:  100%; text-align: center; margin: 0; position: absolute; top: 50%; transform: translateY(-50%);">
