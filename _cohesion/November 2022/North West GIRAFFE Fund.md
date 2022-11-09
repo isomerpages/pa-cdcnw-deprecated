@@ -213,7 +213,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-	<img src="images/green-living.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="images/Cohesion/Nov%202022/green-living.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px 10px;">
@@ -234,7 +234,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="images/ecodrones.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="images/Cohesion/Nov%202022/ecodrones.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 0px;">
@@ -242,7 +242,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="images/melvin-lim.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="images/Cohesion/Nov%202022/melvin-lim.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 10px 0px 0px;">
@@ -252,7 +252,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="images/shwap.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="images/Cohesion/Nov%202022/shwap.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 0px 0px 20px;">
