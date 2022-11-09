@@ -53,7 +53,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/healthy-living/">
-    <img src="images/Cohesion/Nov%202022/nwc_nov_10.jp)" style="max-width: 100%; max-height: 73px;" />
+    <img src="images/Cohesion/Nov%202022/nwc_nov_10.jpg" style="max-width: 100%; max-height: 73px;" />
   </a>
 </p>
 
