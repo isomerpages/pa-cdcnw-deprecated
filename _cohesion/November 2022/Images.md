@@ -19,5 +19,6 @@ third_nav_title: November 2022
 ![](/images/Cohesion/Nov%202022/edm-footer_25.jpg)
 
 ![](/images/Cohesion/Nov%202022/edm-footer_29.jpg)
+![](/images/Cohesion/Nov%202022/subscribe-cta2.png)
 
 ![]()
