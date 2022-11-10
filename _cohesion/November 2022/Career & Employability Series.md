@@ -257,8 +257,7 @@ Woodlands Health’s Human Resources<br/>
 <div style="width: 100%; background: #E7F1ED; border-radius: 30px; padding: 20px 0px;">
   <div style="padding: 10px 40px;">
   <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
-    <strong>SkillsFuture Workshops and Skills Upgrading Programmes
-with North West CDC</strong>
+    <strong>SkillsFuture Workshops and Skills Upgrading Programmes</strong>
   </h2>
   <p style="font-size: 16px; line-height: 26px; word-spacing: 2px;">Discover a wide array of workshops, webinars, and skills upgrading programmes from SkillsFuture that will benefit you and your career journey, right here at North West CDC! Who knows, you might just land that dream job in no time. Find out more about what SkillsFuture offers under North West CDC through this <a href="https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest" target="_new" style="color: #0C6C37;">link</a>.</p> 
   </div>
@@ -320,4 +319,3 @@ with North West CDC</strong>
 </article>
 </body>
 </html>
-
