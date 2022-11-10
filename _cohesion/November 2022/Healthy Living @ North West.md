@@ -6,7 +6,6 @@ third_nav_title: November 2022
 ---
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 p {
 	font-family: 'Lato', sans-serif;
@@ -17,6 +16,10 @@ p {
 h1, h2, h3, h4, h5, h6, li {
   font-family: 'Lato', sans-serif;
 }
+
+.video-container {position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; }
+
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -209,7 +212,7 @@ object-fit: cover;
 </div>
 
 <div>
-	<img src="images/dance-brisk.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="/images/Cohesion/Nov%202022/dance-brisk.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px 20px;">
@@ -229,7 +232,7 @@ From the first HL Club that was launched in 2002 to the formation of new clubs o
 </div>
 
 <div style="text-align: center; padding: 0px 15px;">
-  <img src="images/clubs.jpg" style="width: 90%; max-width: 100%; margin: 0px auto;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/e9be8e8c83bb33cae3bfd55850aae5a25171bd22/84c36/images/clubs.jpg" style="width: 90%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px; word-spacing: -1px; word-break: keep-all;">
@@ -249,10 +252,9 @@ From the first HL Club that was launched in 2002 to the formation of new clubs o
 </div>
 
 <div style="text-align: center; padding: 0px 0px 20px;">
-  <video width="100%" controls preload poster="images/video1.jpg">
-    <source src="images/DanceFit-Anniversary-Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/czwZG7KzibI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 
 <div style="padding: 0px 0px 0px;">
@@ -263,7 +265,9 @@ From the first HL Club that was launched in 2002 to the formation of new clubs o
 </div>
 
 <div style="text-align: center; padding: 0px 0px;">
-  <img src="images/video2.jpg" style="width: 100%; height: auto; margin: 0px auto;">
+<div class="video-container">
+  <iframe src="https://www.youtube.com/embed/aY44_LA9brI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 </div>
 
 <div class="col-" style="padding: 20px 0px 0px; display: flex;">&nbsp;</div>
