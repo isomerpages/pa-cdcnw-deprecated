@@ -293,9 +293,8 @@ Republic Polytechnic, Diploma in Environmental and Marine Science</em></p>
 </div>
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="/images/hany-soh.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+    <img src="/images/Cohesion/Nov%202022/hany-soh.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
-
 
 <div style="padding: 20px 0px;">
 <div style="width: 100%; background: #E7F1ED; border-radius: 30px; padding: 20px 0px;">
