@@ -6,7 +6,6 @@ third_nav_title: November 2022
 ---
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 p {
 	font-family: 'Lato', sans-serif;
@@ -204,7 +203,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div>
-	<img src="images/Cohesion/Nov%202022/community.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="/images/Cohesion/Nov%202022/community.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px 10px;">
@@ -218,7 +217,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 0px 0px;">
-  <img src="images/Cohesion/Nov%202022/make-impact.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="/images/Cohesion/Nov%202022/make-impact.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -238,12 +237,12 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="images/Cohesion/Nov%202022/chandra.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="/images/Cohesion/Nov%202022/chandra.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 
 <div style="text-align: center; padding: 20px 0px;">
-  <img src="images/Cohesion/Nov%202022/danny.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
+  <img src="/images/Cohesion/Nov%202022/danny.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px;">
@@ -312,3 +311,4 @@ h1, h2, h3, h4, h5, h6, li {
 </article>
 </body>
 </html>
+
