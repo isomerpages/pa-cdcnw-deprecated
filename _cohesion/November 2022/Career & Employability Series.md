@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6, li {
 
   .slider--cover .slider__inner {
     width: 100%;
-    height: 400px !important;
+    height: 450px !important;
   }
 }
 
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6, li {
 }
 .slider--cover .slider__inner {
   width: 100%;
-  height: 300px;
+  height: 400px;
 }
 .slider--fixed .slider__inner {
   width: 100%;
@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6, li {
   <img src="/images/Cohesion/Nov%202022/timothy.jpg" style="width: 100%; max-width: 100%; margin: 0px auto;">
 </div>
 
-<div style="padding: 10px 0px 10px;">
+<div style="padding: 10px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px;">Applying for jobs in the digital world is easy and fuss-free. You could fill up an application form, submit and wait for a call in the comfort of your home. But many employers still choose to participate in job fairs. We met Woodlands Health’s Human Resources (HR) manager, Elaine Lee to learn more from the employer’s point of view. </p>   
 </div>
 
@@ -319,3 +319,4 @@ Woodlands Health’s Human Resources<br/>
 </article>
 </body>
 </html>
+
