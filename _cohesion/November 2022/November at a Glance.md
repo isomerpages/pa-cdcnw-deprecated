@@ -39,15 +39,15 @@ h1, h2, h3, h4, h5, h6, li {
 </head>
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
-<div style="width: 100%;">
+<div style="width: 100%; max-width: 740px; margin: 0px auto;">
   <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
 </div>
 
-<div style="width: 100%; max-width: 800px; margin: 20px auto;">
+<div style="width: 100%; max-width: 740px; margin: 20px auto;">
   <img src="/images/Cohesion/Nov%202022/celebrate-active.jpg" style="max-width: 100%;">
 </div>
 
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px; text-align: justify;">
+<p style="font-size: 16px; line-height: 26px; margin: 0px auto; padding: 0px 25px; text-align: justify; max-width: 735px;">
 Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming start to your morning, try Qigong and Tai Chi to ease yourself into the day, or go for a brisk walk with your family. For those who want to break out a sweat, dance to the music with Dance-Fit, or run around your neighbourhood with your friends, there is definitely something for everyone with our 6 clubs offering a range of exercises!
 </p>
 
@@ -61,7 +61,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
   <img src="/images/Cohesion/Nov%202022/nwc_nov_13.jpg" style="max-width: 100%;">
 </div>
 
-<p style=" font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify;">
+<p style=" font-size: 16px; line-height: 26px; margin: 0px auto; padding: 0px 25px; text-align: justify; max-width: 735px;">
 <strong>Get Involved, Reach Out and Act</strong>, with this <strong>Funding for the Environment</strong> = GIRAFFE. The North West GIRAFFE Fund supports schools and organisations in the North West District to embark on ground-up initiatives that contribute to saving our environment. Find out the latest innovative projects geared to promote environmental education!
 </p>
 
@@ -76,7 +76,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
   <img src="/images/Cohesion/Nov%202022/nwc_nov_20.jpg" style="max-width: 100%;">
 </div>
 
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;  padding: 0px 25px; text-align: justify;">
+<p style="font-size: 16px; line-height: 26px; margin: 0px auto; padding: 0px 25px; text-align: justify; max-width: 735px;">
   A passionate group of do-gooders coming together to help the less-privileged, is what Club-100 @ North West stands for. The Club has around 700 members with one common goal – to support the vulnerable in our North West District. Find out how you too can help these less-privileged households.
 </p>
 
@@ -90,7 +90,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
   <img src="/images/Cohesion/Nov%202022/nwc_nov_26.jpg" style="max-width: 100%;">
 </div>
 
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify; letter-spacing: -0.1px;">
+<p style="font-size: 16px; line-height: 26px; margin: 0px auto; padding: 0px 25px; text-align: justify; max-width: 735px; letter-spacing: -0.1px;">
 Landing your dream job is not impossible, finding the right candidate is not difficult, because it all happened at the North West Career & Employability Fair! Timothy James, a fresh graduate, walked into the job fair with no expectations but landed an interview to his dream job. For Elaine Lee, HR manager at Woodlands Health, it was the personal interaction with the candidates and seeing expressions up close, which she found particularly useful as a hirer. Read on as they share their experiences at the job fairs.
 </p>
 
@@ -104,7 +104,7 @@ Landing your dream job is not impossible, finding the right candidate is not dif
   <img src="/images/Cohesion/Nov%202022/nwc_nov_32.jpg" style="max-width: 100%;">
 </div>
 
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 25px; text-align: justify;">
+<p style="font-size: 16px; line-height: 26px; margin: 0px auto; padding: 0px 25px; text-align: justify; max-width: 735px;">
 Since the start of 2022, there has been a surge in dengue cases due to the high Aedes aegypti mosquito population detected in the community and the circulation of the previously uncommon Dengue virus dteriotype 3 (DENV-3). Understand how you can play a part in preventing dengue.  
 </p>
 
@@ -117,7 +117,7 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
 
 
 
-<div style="max-width: 740px; margin: 0px auto; padding: 30px 22px;">
+<div style="width: 100%; max-width: 740px; margin: 0px auto; padding: 30px 22px;">
 <div style="width: 100%; background: #fdddce; padding: 10px 0px 40px; text-align: center; -webkit-border-radius: 30px; -moz-border-radius: 30px; border-radius: 30px;">
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
     <img src="/images/Cohesion/Nov%202022/nwc_nov_37.jpg" width="100%">
@@ -147,27 +147,33 @@ protect your loved ones against malicious scammers.</p>
 
 <!--Tell Us More CTA-->
 <div style="width: 100%; max-width: 800px; margin: 0px auto;">
-  <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_30.jpg" width="100%"></a>
+  <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" rel="noopener noreferrer" data-auth="NotApplicable" data-safelink="true">
+    <img src="/images/Cohesion/Nov%202022/edm-footer_18.jpg" width="100%">
+  </a>
 </div>
 <div style="width: 100%; max-width: 650px; margin: 0px auto;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_31.jpg" width="100%">
+  <img src="/images/Cohesion/Nov%202022/edm-footer_19.jpg" width="100%">
 </div>
 <div style="width: 100%; max-width: 650px; margin: 0px auto; text-align: center;">
 <div style="margin: 0px auto; display: inline-block;">
   <div style="float:left; max-width: 205px;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_33.jpg" style="max-width: 205px;">
+  <img src="/images/Cohesion/Nov%202022/edm-footer_21.jpg" style="max-width: 205px;">
   </div>
   <div style="float:left; max-width: 47px;">
-  <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_34.jpg" style="max-width: 47px;"></a>
+  <a href="https://www.facebook.com/nwcdc/" target="_new">
+    <img src="/images/Cohesion/Nov%202022/edm-footer_22.jpg" style="max-width: 46px;"></a>
   </div>
   <div style="float:left; max-width: 49px;">
-  <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_35.jpg" style="max-width: 49px;"></a>
+  <a href="https://www.instagram.com/northwestcdc" target="_new">
+    <img src="/images/Cohesion/Nov%202022/edm-footer_23.jpg" style="max-width: 44px;"></a>
   </div>
   <div style="float:left; max-width: 46px;">
-  <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_36.jpg" style="max-width: 46px;"></a>
+  <a href="https://t.me/northwestcdc" target="_new">
+    <img src="/images/Cohesion/Nov%202022/edm-footer_24.jpg" style="max-width: 43.5px;"></a>
   </div>
   <div style="float:left; max-width: 53px;">
-  <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/cohesion_37.jpg" style="max-width: 53px;"></a>
+  <a href="https://www.youtube.com/northwestcdc" target="_new">
+    <img src="/images/Cohesion/Nov%202022/edm-footer_25.jpg" style="max-width: 49px;"></a>
   </div>
 </div>
 </div>
@@ -175,7 +181,7 @@ protect your loved ones against malicious scammers.</p>
 
 <!--Subscribe CTA-->
 <div style="width: 100%; max-width: 650px; margin: 20px auto; text-align: center;">
-  <a href="https://go.gov.sg/subscribe-cohesion" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/subscribe.png" width="100%" style="max-width: 378px;"></a>
+  <a href="https://go.gov.sg/subscribe-cohesion" target="_new"><img src="/images/Cohesion/Nov%202022/subscribe-cta2.png" width="100%" style="max-width: 378px;"></a>
 </div>
 <!--Subscribe CTA End-->
 
