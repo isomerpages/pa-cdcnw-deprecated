@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
-  <img src="images/celebrate-active.jpg" style="max-width: 100%;">
+  <img src="/images/Cohesion/Nov%202022/celebrate-active.jpg" style="max-width: 100%;">
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; text-align: justify;">
@@ -53,7 +53,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/healthy-living/">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_10.jpg" style="max-width: 100%; max-height: 73px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_10.jpg" style="width: 100%; max-width: 277px; max-height: 73px;" />
   </a>
 </p>
 
@@ -67,7 +67,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/giraffe-fund/">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_16.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_16.jpg" style="width: 100%; max-width: 247px; max-height: 63px;" />
   </a>
 </p>
 
@@ -82,7 +82,7 @@ Keep fit with North West CDC’s Healthy Living Clubs! If you prefer a calming s
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/c-100/">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_23.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_23.jpg" style="width: 100%; max-width: 230px; max-height: 63px;" />
   </a>
 </p>
 
@@ -96,7 +96,7 @@ Landing your dream job is not impossible, finding the right candidate is not dif
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/careerandemployability/">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_29.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_29.jpg" style="width: 100%; max-width: 240px; max-height: 63px;" />
   </a>
 </p>
 
@@ -110,7 +110,7 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/November-2022/nea-dengue/">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_35.jpg" style="max-width: 100%; max-height: 63px;" />
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_35.jpg" style="width: 100%; max-width: 235px; max-height: 63px;" />
   </a>
 </p>
 
@@ -127,7 +127,7 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
     <p>Start recycling in your home and stand a chance to win a $20 e-voucher.</p>
   </div>
   <a href="https://www.instagram.com/p/CkpGWjdrptL/?utm_source=ig_web_copy_link" target="_new">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_43.jpg" style="max-width: 100%; max-height: 50px;">
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_43.jpg" style="width: 100%; max-width: 240px; max-height: 50px;">
   </a>
 
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
@@ -139,7 +139,7 @@ Since the start of 2022, there has been a surge in dengue cases due to the high 
 protect your loved ones against malicious scammers.</p>
   </div>
   <a href="https://www.facebook.com/nwcdc/posts/pfbid0Y66yUTaCs4qdnv4DgPSgQTuYkMusjrXRS9vSk9AcJM6wbe4Komfab8Fw2Z4VUdYsl" target="_new">
-    <img src="/images/Cohesion/Nov%202022/nwc_nov_51.jpg" style="max-width: 100%; max-height: 50px;">
+    <img src="/images/Cohesion/Nov%202022/nwc_nov_51.jpg" style="width: 100%; max-width: 233px; max-height: 50px;">
   </a>
 
 </div>
