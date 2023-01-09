@@ -2,14 +2,14 @@ collections:
   cohesion:
     output: true
     order:
-      - January 2023/NEA's Clean Toilets.md
-      - January 2023/North West Healthy Living Clubs.md
-      - January 2023/CDC Vouchers.md
-      - January 2023/Mayor's Message.md
-      - January 2023/Bringing Green Ideas to Life.md
-      - January 2023/North West Youth Assembly.md
-      - January 2023/January at a Glance.md
       - January 2023/.keep
+      - January 2023/January at a Glance.md
+      - January 2023/Mayor's Message.md
+      - January 2023/North West Youth Assembly.md
+      - January 2023/CDC Vouchers.md
+      - January 2023/North West Healthy Living Clubs.md
+      - January 2023/Bringing Green Ideas to Life.md
+      - January 2023/NEA's Clean Toilets.md
       - November 2022/.keep
       - November 2022/November at a Glance.md
       - November 2022/Healthy Living @ North West.md
