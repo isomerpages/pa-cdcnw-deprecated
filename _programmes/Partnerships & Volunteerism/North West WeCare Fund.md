@@ -14,4 +14,4 @@ For applicants from Ngee Ann Polytechnic (NP), Republic Polytechnic (RP) and Sin
 
 For SSAs, please contact Brandon Oh at Brandon_Oh@pa.gov.sg.
 
-For voluntary groups and schools, please contact Darren Peng at Jasmine_QIU@pa.gov.sg.
+For voluntary groups and schools, please contact Darren Peng at darren_peng@pa.gov.sg.
