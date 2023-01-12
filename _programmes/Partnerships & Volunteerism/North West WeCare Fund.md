@@ -12,6 +12,6 @@ North West CDC encourages individuals, organisations and schools to create groun
 
 For applicants from Ngee Ann Polytechnic (NP), Republic Polytechnic (RP) and Singapore University of Social Sciences (SUSS), you may apply through [here](/files/Application%20Form%20-%20North%20West%20WeCare%20IHL%20Fund%20(as%20at%2027%20Sep%202021).pdf).
 
-For SSAs, please contact Brandon Oh at Brandon_Oh@pa.gov.sg
+For SSAs, please contact Brandon Oh at Brandon_Oh@pa.gov.sg.
 
-For voluntary groups and schools, please contact Jasmine Qiu at Jasmine_QIU@pa.gov.sg.
+For voluntary groups and schools, please contact Darren Peng at darren_peng@pa.gov.sg.
