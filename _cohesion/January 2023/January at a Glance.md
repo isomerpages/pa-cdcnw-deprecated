@@ -79,7 +79,7 @@ Mayor Alex Yam brings us through the CDC’s focus in 2022, and shares more on t
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;  padding: 0px 35px; text-align: justify;">
-  A passionate group of do-gooders coming together to help the less-privileged, is what Club-100 @ North West stands for. The Club has around 700 members with one common goal – to support the vulnerable in our North West District. Find out how you too can help these less-privileged households.
+  Are you ready for the New Year? With the additional $300 CDC vouchers, you can stock up on some CNY goodies and enjoy a sumptuous reunion dinner with your family. Read on for tips on how you can make use of your CDC Vouchers to prepare for CNY.
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
@@ -93,7 +93,7 @@ Mayor Alex Yam brings us through the CDC’s focus in 2022, and shares more on t
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 35px; text-align: justify; letter-spacing: -0.1px;">
-Landing your dream job is not impossible, finding the right candidate is not difficult, because it all happened at the North West Career & Employability Fair! Timothy James, a fresh graduate, walked into the job fair with no expectations but landed an interview to his dream job. For Elaine Lee, HR manager at Woodlands Health, it was the personal interaction with the candidates and seeing expressions up close, which she found particularly useful as a hirer. Read on as they share their experiences at the job fairs.
+After winning the Green Bootcamp @ North West, we find out what Team Igloo has been up to in the green-mosphere. They share how the experience showed them insights to becoming a green advocate, and their journey in bringing their idea to life these few months.
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
@@ -105,11 +105,8 @@ Landing your dream job is not impossible, finding the right candidate is not dif
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
   <img src="/images/Cohesion/Jan%202023/eDM_23.jpg" style="max-width: 100%;">
 </div>
-<h2 style="text-align: center; margin: 0px auto 20px; font-size: xx-large; font-weight: bold; color:#ce8ebe;">
-  <em>Live Active and Healthy, Your Way</em>
-</h2>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; padding: 0px 35px; text-align: justify;">
-Since the start of 2022, there has been a surge in dengue cases due to the high Aedes aegypti mosquito population detected in the community and the circulation of the previously uncommon Dengue virus dteriotype 3 (DENV-3). Understand how you can play a part in preventing dengue.  
+Is keeping fit one of your new year resolutions? It’s not too late to take the first step to leading a healthy lifestyle with our North West Healthy Living Clubs. With six clubs for different fitness levels, you can achieve your fitness goals and have fun at the same time!
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
@@ -169,11 +166,11 @@ The Clean Public Toilets Campaign 2022 aims to continue urging users to adopt th
 <div style="width: 100%; max-width: 650px; margin: 0px auto;">
   <img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/edm-footer_19.jpg" width="100%">
 </div>
+  <div style="width: 100%; text-align: center; margin: 0px auto;">
+    <img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/edm-footer_21.jpg" style="max-width: 205px;" />
+  </div>
 <div style="width: 100%; max-width: 650px; margin: 0px auto; text-align: center;">
 <div style="margin: 0px auto; display: inline-block;">
-  <div style="float:left; max-width: 205px;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/edm-footer_21.jpg" style="max-width: 205px;">
-  </div>
   <div style="float:left; max-width: 47px;">
   <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/edm-footer_22.jpg" style="max-width: 47px;"></a>
   </div>
