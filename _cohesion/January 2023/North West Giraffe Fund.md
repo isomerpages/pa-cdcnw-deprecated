@@ -405,6 +405,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 30px 0px 20px;">
+<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Empowering youths to play a part in environmental sustainability, the <a href="https://northwest.cdc.gov.sg/cohesion/september-2022/green-bootcamp-north-west/" target="_new" style="color: #0C6C37; text-decoration: underline; font-weight: bold;">Green Bootcamp @ North West</a> held in July 2022, challenges youths to develop innovative green solutions that can influence the community to adopt sustainable practices.</p>
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Many shortlisted teams have been paired up with various organisations to work on bringing their ideas to life. Team Igloo's winning proposal to tackle inefficient energy usage has received funding from the North West GIRAFFE Fund, allowing them to continue working and developing their product. Eliminating the need for air-conditioning while we sleep, the "Igloo", a prototype they have developed, aims to cool the surface through a mattress pad – allowing users to sleep on a cool surface. </p>   
 </div>
 
