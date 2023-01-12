@@ -14,3 +14,6 @@ third_nav_title: January 2023
 ![](/images/Cohesion/Jan%202023/eDM_19.jpg)
 
 ![](/images/Cohesion/Jan%202023/eDM_17.jpg)
+
+![](/images/Cohesion/Jan%202023/eDM_23.jpg)
+
