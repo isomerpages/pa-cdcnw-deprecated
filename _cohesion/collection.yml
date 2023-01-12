@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - January 2023/Images.md
       - January 2023/.keep
       - January 2023/January at a Glance.md
       - January 2023/Mayor's Message.md
