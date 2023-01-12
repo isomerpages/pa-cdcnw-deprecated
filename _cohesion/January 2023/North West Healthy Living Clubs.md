@@ -404,7 +404,7 @@ object-fit: cover;
 	<img src="https://d33wubrfki0l68.cloudfront.net/3f4a2ffdf77eb3a164ababc95c656ede30ab7aae/46499/images/healthy-kv.png" style="width: 100%; margin-top: 0px;">
 </div>
 
-<div style="padding: 0px 0px 20px;">
+<div style="padding: 30px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Meet some North West residents who have been actively participating in the different clubs. Hear how joining the clubs have benefitted and enriched their lives. </p>   
 </div>
 
