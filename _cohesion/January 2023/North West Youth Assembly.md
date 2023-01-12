@@ -404,7 +404,7 @@ object-fit: cover;
 </div>
 
 <div style="padding: 0px 0px 10px;">
-<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">North West Youth Assembly is a volunteer group comprising youth leaders between the ages of 14 and 35. Nominated by their secondary schools within the North West , YA leaders are empowered to make a difference by organising community programmes that can benefit residents. Bringing passion and commitment, these youth volunteers generously contribute their time to foster a closer community spirit. </p>   
+<p style="font-size: 16px; line-height: 26px; word-spacing: 3px; padding: 30px 0px;">North West Youth Assembly is a volunteer group comprising youth leaders between the ages of 14 and 35. Nominated by their secondary schools within the North West , YA leaders are empowered to make a difference by organising community programmes that can benefit residents. Bringing passion and commitment, these youth volunteers generously contribute their time to foster a closer community spirit. </p>   
 </div>
 
 <div style="padding: 0px 0px 0px;">
@@ -414,11 +414,11 @@ object-fit: cover;
 </div>
 
 <div style="padding: 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">One of the causes which Club-100 @ North West supports, is to provide low-income residents with food rations and vouchers through the North West Food Aid Fund (FAF), to help defray some of their household expenses.</p> 
+<p style="font-size: 16px; line-height: 26px; padding: 10px 0px 0px;">One of the causes which Club-100 @ North West supports, is to provide low-income residents with food rations and vouchers through the North West Food Aid Fund (FAF), to help defray some of their household expenses.</p> 
 
 <div style="text-align: center; padding: 0px 0px;">
 <div class="carousel">
-    <div class="carousel-inner">
+    <div class="carousel-inner" style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
             <img src="https://d33wubrfki0l68.cloudfront.net/13d76a8498f67dc50ce32fbf94fa4b10afc55cfb/d2b53/images/card-aubery.png" style="width: 100%;">
@@ -452,13 +452,13 @@ object-fit: cover;
 </div>
 </div>
 
-<div style="text-align: center; padding: 20px 0px; display: inline-block;">
+<div style="text-align: center; padding: 50px 0px 20px; display: inline-block;">
   <img src="https://d33wubrfki0l68.cloudfront.net/74c6e150189752a49ae1469f1565c4d942bcd5a5/94924/images/roles-ya.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px;
 -moz-border-radius: 20px;
 border-radius: 20px;">
 </div>
 
-<div style="padding: 20px 0px 0px;">
+<div style="padding: 20px 0px 20px;">
 <div class="rounded20" style="width: 100%; background: #FFECD6; padding: 20px 0px 0px;">
   <div style="padding: 10px 40px;">
   <h2 style="color: #D5262B; font-weight: bold; font-size: x-large;">
@@ -647,8 +647,7 @@ as&nbsp;a&nbsp;volunteer. </p>
 </div>
 
 
-<br/>
-<br/>
+
 </article>
 
 
