@@ -404,12 +404,12 @@ object-fit: cover;
 	<img src="/images/Cohesion/Jan%202023/vouchers-kv.png" style="width: 100%; margin-top: 0px;">
 </div>
 
-<div style="padding: 0px 0px 10px;">
+<div style="padding: 30px 0px 10px;">
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">The new tranche of CDC Vouchers has just been announced! All Singaporean households will receive another $300 worth of CDC Vouchers. To widen the choices and provide more convenience to Singaporeans, the scheme has been expanded to include supermarket chains. Singaporeans can now spend $150 at participating supermarkets, on top of the $150 CDC Vouchers that could be spent at participating heartland merchants and hawkers.</p> 
 
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">CDC vouchers will come in handy as you gear up for CNY festivities. On top of shopping at supermarkets, you can continue to support your favourite local businesses!</p>
 
-<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">From food items to fashion, here’s how you can spend your CDC vouchers to usher in the Year of the Rabbit: 
+<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">From food items to fashion, here’s how you can spend your CDC vouchers to usher in the Year of the Rabbit 🐇
 </p>   
 </div>
 
@@ -420,33 +420,33 @@ object-fit: cover;
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/b418db455e809024f12a7cff20a59dda28d0f83a/6d6b7/images/cdc_icon1.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong>Stock up on CNY goodies</strong>
+      <img src="https://d33wubrfki0l68.cloudfront.net/b418db455e809024f12a7cff20a59dda28d0f83a/6d6b7/images/cdc_icon1.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Stock up on CNY goodies</strong>
     </p>
   </div>
 
-  <p style="font-size: 16px; line-height: 26px; text-align: left;">
+  <p style="font-size: 16px; line-height: 26px; text-align: left; margin-top: 20px;">
     Are you looking forward to having  mouth-watering pineapple tarts during CNY? Let's not forget other popular goodies such as love letters, kueh bangkit, kueh lapis and peanut cookies too! With the CDC vouchers, you can stock up on your favourite treats and buy more for gifting. 
   </p> 
 
   <p style="font-size: 16px; line-height: 26px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Anna’s Cookies</strong><br/> 
         Blk 20 Ghim Moh Rd, #01-98/99, Singapore 270020
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">KZ Bakery</strong><br/> 
         Sembawang Crescent, #01-09, S750365 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">The Baker's Brothers </strong><br/> 
         Canberra Crescent, #01-02, S750120 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Snack & Cake Shop</strong><br/> 
         18 Marsiling Ln, #01-271, S730018 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Swee Heng Bakery (SHB09)</strong><br/> 
         Canberra Road, #01-07, S750511
       </li>
@@ -464,33 +464,33 @@ object-fit: cover;
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/c328da1e881761758731e092d3447d09f99c25c6/fbb63/images/cdc_icon2.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong>Prepare for the reunion dinner</strong>
+      <img src="https://d33wubrfki0l68.cloudfront.net/c328da1e881761758731e092d3447d09f99c25c6/fbb63/images/cdc_icon2.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Prepare for the reunion dinner</strong>
     </p>
   </div>
 
-  <p style="font-size: 16px; line-height: 26px; text-align: left;">
+  <p style="font-size: 16px; line-height: 26px; text-align: left; margin-top: 20px;">
 Planning the menu for your reunion dinner this year?  You can add more ingredients to your grocery list and make the most out of your budget with the CDC Vouchers!   
   </p> 
 
   <p style="font-size: 16px; line-height: 26px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">AWS MARKET PTE LTD</strong><br/> 
         Yishun Street 22, #01-317, S760294
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">LASHIKA SRI ENTERPRISES PTE LTD</strong><br/> 
         Yishun Street 22, #01-K1, S760274
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">CHYE THIAM MARKET PRODUCE SHOP</strong><br/> 
         Gangsa Road, #01-149, S670109
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">112 MINI MARKET</strong><br/> 
         Pending Road, #01-120, S670112
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">SB MART (THE BROOKS II)</strong><br/> 
         Springside Green, #01-19, S786015
       </li>
@@ -508,33 +508,33 @@ Planning the menu for your reunion dinner this year?  You can add more ingredien
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/9c1bf2a550606c41ae2076e2c4ba5d60c932216d/5e56f/images/cdc_icon3.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong>Update your wardrobe</strong>
+      <img src="https://d33wubrfki0l68.cloudfront.net/9c1bf2a550606c41ae2076e2c4ba5d60c932216d/5e56f/images/cdc_icon3.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Update your wardrobe</strong>
     </p>
   </div>
 
-  <p style="font-size: 16px; line-height: 26px; text-align: left;">
+  <p style="font-size: 16px; line-height: 26px; text-align: left; margin-top: 20px;">
     Wearing new clothes during CNY symbolises a fresh start to the year ahead. Take this opportunity to update your wardrobe for a fraction of the price! Spend your CDC vouchers on new outfits and accessories to look your best this festive season.
   </p> 
 
   <p style="font-size: 16px; line-height: 26px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">IS ME FASHION</strong><br/> 
         2 Bukit Panjang Ring Road, #02-28, S679947
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Children’s Clothing</strong><br/> 
         104 Yishun Ring Road, #01-12, S7760104 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Baoqiong Clothes </strong><br/> 
         21 Marsiling Lane, #01-98, S730021 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Apparel Shop  </strong><br/> 
        Woodlands Street 31, #01-59, S730305 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">HUA LI FASHION</strong><br/> 
         Fajar Road, #01-K4, S670445
       </li>
@@ -552,33 +552,33 @@ Planning the menu for your reunion dinner this year?  You can add more ingredien
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/1ab3c0d6224b762b49a17faf1f9dd160126a1dac/1aff4/images/cdc_icon4.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong>Get a new year makeover</strong>
+      <img src="https://d33wubrfki0l68.cloudfront.net/1ab3c0d6224b762b49a17faf1f9dd160126a1dac/1aff4/images/cdc_icon4.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Get a new year makeover</strong>
     </p>
   </div>
 
-  <p style="font-size: 16px; line-height: 26px; text-align: left;">
+  <p style="font-size: 16px; line-height: 26px; text-align: left; margin-top: 20px;">
 New year calls for new change! Thinking of getting a new hairstyle, a fresh set of manicure, or just going for a relaxing message before the festivities? You can spend your CDC vouchers at a salon for a new hairstyle or get your nails done.  Don’t forget to claim your CDC vouchers so you can spend  them at participating service providers. 
   </p> 
 
   <p style="font-size: 16px; line-height: 26px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Santorini Hair Spa </strong><br/> 
         Sembawang Crescent, #01-05, S750365 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">JK2 Hair Beauty Salon 768 </strong><br/> 
         Woodlands Avenue 6, #02-08, S730768 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Lilian Massage Service </strong><br/> 
        235 Yishun Street 21 Yishun Singapore 760235, #01-454, S760235 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Zen Nail Art </strong><br/> 
         258 Bukit Panjang Ring Road, #01-54, S670258 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">822 Hairdressing (Unisex) Beauty Salon  </strong><br/> 
         Sembawang Drive, #01-822, S750406
       </li>
@@ -596,34 +596,34 @@ New year calls for new change! Thinking of getting a new hairstyle, a fresh set 
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/12160d66576acc0784257dcabf20a7118bcd0320/cb377/images/cdc_icon5.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong>Spruce up your home</strong>
+      <img src="https://d33wubrfki0l68.cloudfront.net/12160d66576acc0784257dcabf20a7118bcd0320/cb377/images/cdc_icon5.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Spruce up your home</strong>
     </p>
   </div>
 
-  <p style="font-size: 16px; line-height: 26px; text-align: left;">
+  <p style="font-size: 16px; line-height: 26px; text-align: left; margin-top: 20px;">
     It's time to spring clean and dress up your home for the celebrations. To give your home a fresh look, here are some ideas on what you can spend your CDC vouchers on: bedsheets, cushion covers, plants, "huat" decorations or table linen. You can also take the opportunity to buy new electric hotpot and appliance to spruce up your kitchen. Happy decorating!
   </p> 
 
   <p style="font-size: 16px; line-height: 26px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Sherlin Florist </strong><br/> 
         20 Marsiling Ln, #20/21, Singapore 730020
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Furniture Cubes Pte Ltd </strong><br/> 
         Block 291 Yishun Street 22 #01-361 Singapore (760291) 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Home Curtains & Blinds  </strong><br/> 
         Woodlands Street 12, #02-37, S738623 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Ajits Household & Sundry Trading  
 </strong><br/> 
        Canberra Road, #01-08, S750511 
       </li>
-      <li style="line-height: 30px; padding-bottom: 15px;">
+      <li style="font-size: medium;line-height: inherit; padding-bottom: 15px;">
         <strong style="text-transform: uppercase;">Kah Ho Household & Hardware </strong><br/> 
         Woodlands Drive 44, #02-31, S730548
       </li>
