@@ -404,7 +404,7 @@ object-fit: cover;
 	<img src="https://d33wubrfki0l68.cloudfront.net/b023f9c700307c6a9f1621244d10b782ed75813d/69cdf/images/green-living-igloo.png" style="width: 100%; margin-top: 0px;">
 </div>
 
-<div style="padding: 0px 0px;">
+<div style="padding: 30px 0px 20px;">
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Many shortlisted teams have been paired up with various organisations to work on bringing their ideas to life. Team Igloo's winning proposal to tackle inefficient energy usage has received funding from the North West GIRAFFE Fund, allowing them to continue working and developing their product. Eliminating the need for air-conditioning while we sleep, the "Igloo", a prototype they have developed, aims to cool the surface through a mattress pad – allowing users to sleep on a cool surface. </p>   
 </div>
 
