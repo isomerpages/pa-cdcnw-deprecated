@@ -416,7 +416,8 @@ object-fit: cover;
 </div>
 
 <div style="padding: 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">The Clean Public Toilets Campaign aims to urge users to adopt the behaviours of "Flush, Clean, Bin, Dry". Themed "Public Toilets Shouldn't Be Scary", the campaign appeals to the public to adopt good hygiene practices to avoid encountering toilet horrors that arises from dirty public toilets. Besides efforts to enhance the behaviour of public toilet users, NEA and the Singapore Food Agency have been conducting regular enforcement inspections of public toilets, including those of food establishments.</p> 
+<p style="font-size: 16px; line-height: 26px;">The Clean Public Toilets Campaign aims to urge users to adopt the behaviours of "Flush, Clean, Bin, Dry". Themed "Public Toilets Shouldn't Be Scary", the campaign appeals to the public to adopt good hygiene practices to avoid encountering toilet horrors that arises from dirty public toilets. Besides efforts to enhance the behaviour of public toilet users, NEA and the Singapore Food Agency have been conducting regular enforcement inspections of public toilets, including those of food establishments.</p>
+</div>
 
 <div style="padding: 0px 0px 0px;">
 <p style="font-size: 16px; line-height: 26px;">NEA's Deputy Chief Executive Officer and Director-General of Public Health, Mr Chew Ming Fai says "While enforcement actions are taken against owners or operators of public toilets, the onus is not only on them or their cleaners to keep the toilets clean. All toilet users should ruse facilities responsibly, and this is what the Clean Public Toilets Campaign underscores. Rather than look to owners or operators to improve the cleanliness of public toilets, each of us should adopt a conscientious attitude of cleaning up after ourselves."</p>
@@ -471,8 +472,7 @@ object-fit: cover;
 </div>
 
 
-<br/>
-<br/>
+
 </article>
 
 
