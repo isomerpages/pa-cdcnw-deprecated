@@ -4,7 +4,6 @@ permalink: /cohesion/January-2023/gb-teamigloo/
 description: ""
 third_nav_title: January 2023
 ---
-
 <html>
 <head>
 
@@ -429,6 +428,7 @@ object-fit: cover;
 
 <div style="padding: 0px 0px;">
 <p style="font-size: 16px; line-height: 26px;">The brief but impactful two weeks during the Green Bootcamp gave us an excellent jumping point to crystallise our idea, paving the way for us to develop our prototype and strategy. Subsequently, we were able to experiment with various cooling mechanisms before settling on one which was both cost effective and energy efficient. </p> 
+</div>
 
 <div style="padding: 0px 0px 0px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
@@ -540,8 +540,7 @@ object-fit: cover;
 </div>
 
 
-<br/>
-<br/>
+
 </article>
 
 
