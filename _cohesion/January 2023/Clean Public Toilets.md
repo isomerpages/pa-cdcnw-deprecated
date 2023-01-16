@@ -479,4 +479,3 @@ object-fit: cover;
 
 </body>
 </html>
-
