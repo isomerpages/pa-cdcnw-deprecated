@@ -15,6 +15,4 @@ In 2022, the programme has been enhanced to provide more regular assistance. **W
 
 Volunteers from corporates and schools will work together to run a Pop-Up Market and assist residents to select their preferred food items. Some corporate partners will also go the extra mile to provide home improvement services, while others may also top-up the care packs with additional items for residents.
 
-More than 163,820 residents have benefitted from WeCare @ North West – Service Weeks since 2014. 
-
-Corporate organisations who are keen to join the programme, please email northwestcdc_partnerships@pa.gov.sg.
+More than 163,820 residents have benefitted from WeCare @ North West – Service Weeks since 2014. Corporate organisations who are keen to join the programme, please email northwestcdc_partnerships@pa.gov.sg.
