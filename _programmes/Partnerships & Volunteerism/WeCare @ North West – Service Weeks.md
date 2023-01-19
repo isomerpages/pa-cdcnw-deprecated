@@ -1,6 +1,6 @@
 ---
 title: WeCare @ North West – Service Weeks
-permalink: /programmes/CONNECTING-THE-COMMUNITY/WeCare-NorthWest-ServiceWeeks
+permalink: /programmes/CONNECTING-THE-COMMUNITY/WeCare-NorthWest-ServiceWeeks/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
@@ -11,8 +11,8 @@ third_nav_title: Partnerships & Volunteerism
 
 **WeCare @ North West – Service Weeks** aim to bring our community and corporate partners together, and provide festive cheers to the needy residents residing in public rental units in the North West District through the distribution of WeCare Festive Packs.
 
-In 2022, 1,200 community and corporate volunteers came together over three weekends to distribute 7,300 festive bags to 20,000 residents living in the public rental units in 14 North West Divisions.  
+In 2022, the programme has been enhanced to provide more regular assistance. **WeCare @ North West - Service Weeks+** will provide more support to needy residents through i) quarterly distributions across the year, ii) expanded pool of beneficiaries to include residents under local welfare schemes who are not living in public rental units, and iii) provide element of choice for residents to select at a pop-up market during distribution day.
 
-Organisations can choose to provide additional support by sponsoring home improvement items or services such as like house cleaning; and home appliances such as televisions, washing machines and ovens, or topping up with items beyond food necessities.
+Volunteers from corporates and schools will work together to run a Pop-Up Market and assist residents to select their preferred food items. Some corporate partners will also go the extra mile to provide home improvement services, while others may also top-up the care packs with additional items for residents.
 
-Corporate organisations who are keen to join the programme, please email northwestcdc_partnerships@pa.gov.sg.
+More than 163,820 residents have benefitted from WeCare @ North West – Service Weeks since 2014. Corporate organisations who are keen to join the programme, please email northwestcdc_partnerships@pa.gov.sg.
