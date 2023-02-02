@@ -1,6 +1,6 @@
 ---
 title: Our Council
-permalink: /about-us/Our-Council
+permalink: /about-us/Our-Council/
 description: ""
 ---
 <meta name="description" content="Our Council">
@@ -26,5 +26,3 @@ The Social Support Standing Committee aims to assist the needy residents in the 
   
 **6\. SkillsFuture Standing Committee**  
 The SkillsFuture Standing Committee aims to develop programmes to engage the community to stay relevant through skills mastery and lifelong learning.
-
-Download our [Council Booklet](/files/CDCCouncilBooklet_FA_ForWeb.pdf) for more information.
