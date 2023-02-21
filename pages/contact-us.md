@@ -20,4 +20,19 @@ contacts:
       - email: northwest_cdc@pa.gov.sg
       - other: ""
     title: General Enquiries
+  - content:
+      - phone: ""
+      - email: ""
+      - other: www.facebook.com/nwcdc
+    title: Facebook
+  - content:
+      - phone: ""
+      - email: ""
+      - other: www.instagram.com/northwestcdc
+    title: Instagram
+  - content:
+      - phone: ""
+      - email: ""
+      - other: https://t.me/northwestcdc
+    title: Telegram
 ---
