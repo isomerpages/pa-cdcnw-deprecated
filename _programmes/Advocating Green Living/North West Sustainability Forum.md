@@ -11,5 +11,3 @@ Financial support and guidance is provided to residents in the North West distri
 Organizations who are active in the sustainability sector and passionate about green initiatives are welcome to contact us to be featured as a speaker on our North West Sustainability Forums. 
 
 Residents who are keen to attend the upcoming forums can also contact us to be added in our mailing list.    
-
-For more information, please contact Goh Shan Jin at [GOH_Shan_Jin@pa.gov.sg].
