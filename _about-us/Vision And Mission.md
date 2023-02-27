@@ -13,7 +13,9 @@ The **North West Community Development Council (CDC)** initiates, plans and mana
 A Caring and Healthy North West Community  
 
 **Mission**  
-Aggregator of Needs and Resources, Builder of Capability/Capacity in Partners, Connector of Communities
+(a) Aggregator of Needs and Resources
+(b) Builder of Capability/Capacity in Partners
+(c) Connector of Communities
 
 **Strategic Directions**  
 1\. Strengthen Social Infrastructure  
