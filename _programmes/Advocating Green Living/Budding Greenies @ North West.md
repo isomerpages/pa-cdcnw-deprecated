@@ -17,5 +17,3 @@ Preschools who are on board the programme will receive the following resources a
 
 
 Preschools can apply for this programme on an annual basis. Applications open annually from 1 April, and approved projects must be completed by end March of the following year. 
-
-For more information, please email Goh Shan Jin at GOH_Shan_Jin@pa.gov.sg.
