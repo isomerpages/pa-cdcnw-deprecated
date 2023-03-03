@@ -2,10 +2,10 @@ collections:
   cohesion:
     output: true
     order:
-      - March 2023/Green Weekend Guide.md
       - March 2023/.keep
       - March 2023/March In A Glance.md
       - March 2023/CDCs Decoded.md
+      - March 2023/Green Weekend Guide.md
       - January 2023/.keep
       - January 2023/January at a Glance.md
       - January 2023/Mayor's Message.md
