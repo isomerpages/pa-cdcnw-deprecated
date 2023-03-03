@@ -8,4 +8,3 @@ third_nav_title: Uplifting The Community
   
 The projects span across various art forms such as Dance, Music, Theatre, Visual Arts, Literary Arts and Multi-Disciplinary Arts. At North West CDC, participants under the programme are exposed to art forms such as Chinese Calligraphy, Rangoli Art and Visual Arts.  
   
-For more information, please contact Brandon Oh at Brandon_OH@pa.gov.sg.
