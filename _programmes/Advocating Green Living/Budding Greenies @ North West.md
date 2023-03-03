@@ -4,7 +4,7 @@ permalink: /programmes/Advocating-Green-Living/Budding-Greenies-At-North-West/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-![](/images/Programmes/Preschoolers%20experiencing%20VR%20lesson.jpg)
+![](/images/Programmes/Green%20Living/Preschoolers%20experiencing%20VR%20lesson.jpg)
 
 **Budding Greenies @ North West** was officially launched in 2020 and aims to support pre-school centres in creating a Green Learning corner to educate pre-schoolers on environmental conservation and good eco habits via story-telling and play activities.  
 
