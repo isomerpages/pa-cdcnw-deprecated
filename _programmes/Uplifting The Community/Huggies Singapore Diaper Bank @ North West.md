@@ -4,8 +4,7 @@ permalink: /programmes/Assisting-The-Needy/huggiesdiaperbank/
 description: ""
 third_nav_title: Uplifting The Community
 ---
-
-**Huggies Singapore Diaper Bank @ North West** provides low-income young families with children diapers to help defray some household expenses and ease their financial stress. Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
+![](/images/Programmes/Uplifting%20The%20Community/20220407%20170554%20004.jpg)**Huggies Singapore Diaper Bank @ North West** provides low-income young families with children diapers to help defray some household expenses and ease their financial stress. Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
   
 **Eligibility Criteria**
 
