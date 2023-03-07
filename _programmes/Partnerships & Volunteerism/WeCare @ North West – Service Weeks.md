@@ -9,7 +9,7 @@ third_nav_title: Partnerships & Volunteerism
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XREMEFfXjBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**WeCare @ North West – Service Weeks** aim to bring our community and corporate partners together, and provide festive cheers to the needy residents residing in public rental units in the North West District through the distribution of WeCare Festive Packs.
+![](/images/Programmes/Partnership%20&%20Volunteerism/IMG_108.jpg)**WeCare @ North West – Service Weeks** aim to bring our community and corporate partners together, and provide festive cheers to the needy residents residing in public rental units in the North West District through the distribution of WeCare Festive Packs.
 
 In 2022, the programme has been enhanced to provide more regular assistance. **WeCare @ North West - Service Weeks+** will provide more support to needy residents through i) quarterly distributions across the year, ii) expanded pool of beneficiaries to include residents under local welfare schemes who are not living in public rental units, and iii) provide element of choice for residents to select at a pop-up market during distribution day.
 
