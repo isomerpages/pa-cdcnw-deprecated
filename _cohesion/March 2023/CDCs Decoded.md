@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="padding: 0px 0px;">
       <p style="font-size: 18px; text-align: left; color: #D5262B; margin: 0px 0px;"><strong>Learn More!</strong>
       </p> 
-        <p style="font-size: 16px; text-align: left; line-height: initial; color: #000; margin: 10px 0px;">Have questions? Visit our <a href="https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest" target="_new" style="color: #000; font-weight: bold;">website</a> to find out more about CDC's programmes and how you can help!</p>  
+        <p style="font-size: 16px; text-align: left; line-height: initial; color: #000; margin: 10px 0px;">Have questions? Visit our <a href="https://northwest.cdc.gov.sg" target="_new" style="color: #000; font-weight: bold;">website</a> to find out more about CDC's programmes and how you can help!</p>  
   </div>
 </div>
 </div>
