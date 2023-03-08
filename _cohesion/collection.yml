@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - March 2023/Images.md
       - March 2023/.keep
       - March 2023/March In A Glance.md
       - March 2023/CDCs Decoded.md
