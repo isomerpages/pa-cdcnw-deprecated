@@ -9,8 +9,9 @@ third_nav_title: March 2023
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  margin: 10px 0px !important;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -394,7 +395,7 @@ object-fit: cover;
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px;  margin-left: -20px;">
 </div>
 
 <div>
@@ -405,14 +406,14 @@ object-fit: cover;
   <img src="/images/Cohesion/March%202023/kv-uplifting.gif" style="width: 100%; margin-top: 0px;">
 </div>
 
-<div style="padding: 0px 0px 10px;">
-<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Little Steps @ North West provides financial support to needy families with young children so they can improve their child’s development.</p>  
+<div style="padding: 30px 0px;">
+<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Little Steps @ North West provides financial support to needy families with young children so they can improve their child's development.</p>  
 
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">Up to the age of 6, children learn a lot about themselves and the world around them. These early years are critical for their development and lay the foundation for their futures.</p> 
 
 <p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">However, raising young children can be challenging for families with financial constraints. </p> 
 
-<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">That’s where Little Steps @ North West comes in to help close this gap.</p>  
+<p style="font-size: 16px; line-height: 26px; word-spacing: 3px;">That's where Little Steps @ North West comes in to help close this gap.</p>  
 </div>
 
 <div>
@@ -434,15 +435,15 @@ border-bottom-left-radius: 20px;">
     <ul style="padding: 0px 15px; line-height: 28px;">
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
         <strong style="color: #0C6C37; ">Who is eligible to receive the cash benefit?</strong><br/> 
-        The grant is available to families with young children up to 6 years old who are living in the North West District and who are enrolled in the KidSTART Singapore programme.
+        <p>The grant is available to families with young children up to 6 years old who are living in the North West District and who are enrolled in the KidSTART Singapore programme.</p>
       </li>
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
         <strong style="color: #0C6C37; ">How much is the cash support? </strong><br/> 
-        Each child will receive $500 each year disbursed to the parents' or caregivers' bank accounts.  
+        <p>Each child will receive $500 each year disbursed to the parents' or caregivers' bank accounts.</p> 
       </li>
       <li style="line-height: 30px; padding-bottom: 15px; list-style: none;">
         <strong style="color: #0C6C37; ">What is the purpose of the cash relief? </strong><br/> 
-        From baby necessities to essential school supplies, every bit of help comes goes a long way for these families. And when their material needs are met, they can then give their children the right environment to develop and flourish. 
+        <p>From baby necessities to essential school supplies, every bit of help comes goes a long way for these families. And when their material needs are met, they can then give their children the right environment to develop and flourish.</p>
       </li>
     </ul>
   </p> 
@@ -452,7 +453,7 @@ border-bottom-left-radius: 20px;">
 <!--Box End-->
 
 
-<div style="padding: 20px 0px 0px;">
+<div style="padding: 30px 0px 10px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
   <strong>Cash benefit provides immediate relief for families</strong>
 </h2>
@@ -466,7 +467,7 @@ border-bottom-left-radius: 20px;">
 
 
 <div>
-  <img src="/images/Cohesion/March%202023/jes.jpg" style="width: 100%; margin-top: 20px;">
+  <img src="/images/Cohesion/March%202023/jes.jpg" style="width: 100%; margin-top: 30px;">
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -475,7 +476,7 @@ border-bottom-left-radius: 20px;">
 
 
 <div>
-  <img src="/images/Cohesion/March%202023/az.jpg" style="width: 100%; margin-top: 20px;">
+  <img src="/images/Cohesion/March%202023/az.jpg" style="width: 100%; margin-top: 30px;">
 </div>
 
 
@@ -486,7 +487,7 @@ border-bottom-left-radius: 20px;">
 
 
 
-<div style="padding: 20px 0px;">
+<div style="padding: 30px 0px 0px;">
 <div class="rounded20" style="width: 100%; background: #E5F1ED; padding: 0px 0px 0px;">
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 0px;">
