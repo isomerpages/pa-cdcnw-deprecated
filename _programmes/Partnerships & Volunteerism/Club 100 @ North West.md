@@ -8,7 +8,7 @@ third_nav_title: Partnerships & Volunteerism
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbKC8nvxS2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![](/images/Programmes/Partnership%20&%20Volunteerism/IMG028.jpg)**Club-100 @ North West** is the North West CDC’s flagship philanthropic club, which was formed by a community of passionate
+**Club-100 @ North West** is the North West CDC’s flagship philanthropic club, which was formed by a community of passionate
 do-gooders who wanted to give back to vulnerable residents in the North West District. Members of the club contribute a minimum of $100 monthly, which goes entirely towards the [North West Food Aid Fund](https://northwest.cdc.gov.sg/programmes/assisting-the-needy/northwest-food-aid-fund).
 
 
