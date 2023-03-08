@@ -4,7 +4,7 @@ permalink: /programmes/Partnerships-and-Volunteerism/nw-fundraising-golf/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
-![](/images/Programmes/Partnership%20&%20Volunteerism/IMG%20(27).jpg)
+![](/images/Programmes/Partnership%20&%20Volunteerism/309466363_472409401591100_1978927984143300809_n.jpg)
 
 The **Club-100 @ North West Fundraising Golf & Dinner** raises funds for the [North West Food Aid Fund (FAF)](https://northwest.cdc.gov.sg/programmes/assisting-the-needy/northwest-food-aid-fund), which supports the vulnerable residents in the North West community. 
 
