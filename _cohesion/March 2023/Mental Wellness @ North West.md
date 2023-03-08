@@ -9,8 +9,9 @@ third_nav_title: March 2023
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  margin: 10px 0px !important;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -393,7 +394,7 @@ object-fit: cover;
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 <div>
@@ -418,14 +419,14 @@ object-fit: cover;
 </div>
 
 
-<div style="padding: 0px 0px 0px;">
+<div style="padding: 20px 0px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
   <strong>Managing mental wellness can help you to:  </strong>
 </h2>
 </div>
 
 <div style="padding: 0px 0px;">
-  <ul style="padding: 0px 15px;">
+  <ul style="padding: 0px 0px;">
     <li style="font-size: 16px; line-height: 26px; padding-bottom: 10px;"><strong>Be more resilient.</strong> When you are mentally strong, you are better able to cope with stress, change or adversity.</li> 
 
     <li style="font-size: 16px; line-height: 26px; padding-bottom: 10px;"><strong>Be physically healthy.</strong> Mental and physical health go hand in hand. A strong mind and body reduce the risk of health problems such as stroke or heart disease.</li>  
@@ -445,10 +446,10 @@ object-fit: cover;
 <div class="rounded20" style="width: 100%; background: #FEF2FD; padding: 0px 0px 0px;">
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 0px;">
-      <p style="font-size: larger; text-align: left; color: #D5262B; margin: 0px 0px;">
+      <p style="font-size: larger !important; text-align: left; color: #0C6C37; margin: 0px 0px;">
         <strong>Need to talk?</strong>
       </p> 
-      <p style="font-size: 16px; text-align: left; color: #000; margin: 10px 0px;">Mental Wellness @ North West offers a mental wellness support network in the community. From&nbsp;mental wellness talks to resources, get the help you need to strengthen your well-being!
+      <p style="font-size: 16px; text-align: left; color: #000; margin: 10px 0px;"><a href="https://go.gov.sg/promoting-health-wellness" target="_new" style="color: #D5262B;">Mental Wellness @ North West</a> offers a mental wellness support network in the community. From&nbsp;mental wellness talks to resources, get the help you need to strengthen your well-being!
       </p>
     </div>
   </div>
