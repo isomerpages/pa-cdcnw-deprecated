@@ -9,8 +9,9 @@ third_nav_title: March 2023
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  margin: 10px 0px !important;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -385,7 +386,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 <div>
@@ -404,12 +405,9 @@ h1, h2, h3, h4, h5, h6, li {
 <p style="font-size: 16px; line-height: 26px;">Community and corporate partners can also contribute their time to volunteer at the pop-up markets, and sponsor their resources to provide more items that would provide additional help for these residents. </p>   
 </div>
 
-<div>
-  <img src="/images/Cohesion/March%202023/serviceweeksplus.png" class="rounded20" style="width: 100%; margin-top: 0px;">
-</div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/5fastfacts.png" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/5fastfacts2.png" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 <div>
@@ -494,3 +492,5 @@ as&nbsp;a&nbsp;volunteer. </p>
 <br/>
 <br/>
 </article>
+
+
