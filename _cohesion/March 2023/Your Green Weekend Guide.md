@@ -394,15 +394,15 @@ object-fit: cover;
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
-  <img src="images/advocating-green-living.jpg" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/advocating-green-living.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div>
-	<img src="images/green-living_kv.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="/images/Cohesion/March%202023/green-living_kv.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -427,7 +427,7 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="images/recycle5.png" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/recycle5.png" class="rounded20" style="width: 100%; margin-top: 0px;">
 </div>
 
 
@@ -446,11 +446,11 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="images/recycle1.png" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/recycle1.png" class="rounded20" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div>
-  <img src="images/recycle2.png" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/recycle2.png" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 
@@ -472,7 +472,7 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="images/kayak.gif" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/kayak.gif" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -502,7 +502,7 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="images/IMG_2368_Original.jpg" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/IMG_2368_Original.jpg" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -519,12 +519,12 @@ This session is facilitated by our environmental interest group, Blue Tribe.</p>
 </div>
 
 <div>
-  <img src="images/recycle3.png" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/recycle3.png" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 
 <div>
-  <img src="images/recycle4.png" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/recycle4.png" class="rounded20" style="width: 100%; margin-top: 30px;">
 </div>
 
 
@@ -589,5 +589,6 @@ This session is facilitated by our environmental interest group, Blue Tribe.</p>
 </div>
 
 
+<br/>
+<br/>
 </article>
-
