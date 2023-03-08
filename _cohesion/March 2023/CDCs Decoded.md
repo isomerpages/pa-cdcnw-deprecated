@@ -4,12 +4,14 @@ permalink: /cohesion/March-2023/cdcs-decoded/
 description: ""
 third_nav_title: March 2023
 ---
+
 <style>
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  margin: 10px 0px !important;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -384,7 +386,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 <div>
@@ -420,22 +422,22 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="width: 100%; margin: 0 0; padding: 0 0; display: inline-block;">
   <div style="width: 50%; float: left;">
-    <a href="#" target="_new">
+    <a href="https://go.gov.sg/advocating-green-living" target="_new">
       <img src="/images/Cohesion/March%202023/4ways_02.jpg" style="width: 100%; margin-top: 0px;">
     </a>
-    <a href="#" target="_new">
+    <a href="https://go.gov.sg/enabling-partnerships-volunteerism" target="_new">
       <img src="/images/Cohesion/March%202023/4ways_04.jpg" style="width: 100%; margin-top: 0px; padding-top: 9px;">
     </a>
   </div>
   <div style="width: 50%; float: left;">
-    <a href="#" target="_new">
+    <a href="https://go.gov.sg/promoting-health-wellness" target="_new">
       <img src="/images/Cohesion/March%202023/4ways_03.jpg" style="width: 100%; margin-top: 0px;">
     </a>
   </div>
 </div>
 
 <div>
-  <a href="#" target="_new">
+  <a href="https://go.gov.sg/uplifting-the-community" target="_new">
     <img src="/images/Cohesion/March%202023/4ways_05.jpg" style="width: 100%; margin-top: 9px;">
   </a>
 </div>
@@ -448,8 +450,9 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="padding: 0px 0px;">
       <p style="font-size: 18px; text-align: left; color: #D5262B; margin: 0px 0px;"><strong>Learn More!</strong>
       </p> 
-        <p style="font-size: 16px; text-align: left; line-height: initial; color: #000; margin: 10px 0px;">Have questions? Visit our <a href="https://northwest.cdc.gov.sg" target="_new" style="color: #000; font-weight: bold;">website</a> to find out more about CDC's programmes and how you can help!</p>  
+        <p style="font-size: 16px; text-align: left; line-height: initial; color: #000; margin: 10px 0px;">Have questions? Visit our <a href="https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest" target="_new" style="color: #000; font-weight: bold;">website</a> to find out more about CDC's programmes and how you can help!</p>  
   </div>
+</div>
 </div>
 </div>
 
@@ -466,28 +469,25 @@ h1, h2, h3, h4, h5, h6, li {
     <div>
       <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="cursor: default;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/subscribe-cta.png" style="width: 100%; max-width: 397px;"></a>
     </div>
-
-
-<div style="width: 100%; margin: 0px auto; text-align: center;">
-<div style="margin: 0px auto; display: inline-block;">
-  <div style="float:left; max-width: 128px;">
-  <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/follow-us.png" style="max-width: 128px;">
-  </div>
-  <div style="float:left; max-width: 47px;">
-  <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/fb.png" style="max-width: 39px;"></a>
-  </div>
-  <div style="float:left; max-width: 49px;">
-  <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/ig.png" style="max-width: 40px;"></a>
-  </div>
-  <div style="float:left; max-width: 41px;">
-  <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/tg.png" style="max-width: 46px;"></a>
-  </div>
-  <div style="float:left; max-width: 48px;">
-  <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/yt.png" style="max-width: 53px;"></a>
-  </div>
-</div>
-</div>
-
+    <div style="width: 100%; margin: 0px auto; text-align: center;">
+    <div style="margin: 0px auto; display: inline-block;">
+      <div style="float:left; max-width: 128px;">
+      <img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/follow-us.png" style="max-width: 128px;">
+      </div>
+      <div style="float:left; max-width: 47px;">
+      <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/fb.png" style="max-width: 39px;"></a>
+      </div>
+      <div style="float:left; max-width: 49px;">
+      <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/ig.png" style="max-width: 40px;"></a>
+      </div>
+      <div style="float:left; max-width: 41px;">
+      <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/tg.png" style="max-width: 46px;"></a>
+      </div>
+      <div style="float:left; max-width: 48px;">
+      <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/Sept%202022/yt.png" style="max-width: 53px;"></a>
+      </div>
+    </div>
+    </div>
   </div>
   </div>
 </div>
@@ -503,3 +503,5 @@ h1, h2, h3, h4, h5, h6, li {
 
 
 </article>
+
+
