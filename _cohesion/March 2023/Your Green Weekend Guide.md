@@ -9,8 +9,9 @@ third_nav_title: March 2023
 
 p {
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
-  line-height: 26px;
+  font-size: 16px !important;
+  line-height: 26px !important;
+  margin: 10px 0px !important;
 }
 
 h1, h2, h3, h4, h5, h6, li {
@@ -394,7 +395,7 @@ object-fit: cover;
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 <div>
@@ -402,15 +403,15 @@ object-fit: cover;
 </div>
 
 <div>
-	<img src="/images/Cohesion/March%202023/green-living_kv.jpg" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/green-living_kv.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
-<div style="padding: 0px 0px;">
+<div style="padding: 30px 0px;">
 <p style="font-size: 16px; line-height: 26px;">Did you know that the North West District has various initiatives to encourage sustainable living in the community? From community farming to recycling, discover new ways to live a more eco-conscious life while connecting with fellow residents. Through these weekend activities, we hope you will be inspired to be kinder to the planet!  </p>   
 </div>
 
 
-<div style="padding: 3px 0px 0px;">
+<div style="padding: 0px 0px 10px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
   <strong>1. Get ready to enjoy community farming  </strong>
 </h2>
@@ -427,17 +428,17 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/recycle5.png" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/recycle5.png" class="rounded20" style="width: 100%; margin: 30px 0px;">
 </div>
 
 
-<div style="padding: 30px 0px 0px;">
-<h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-top: 0px;">
+<div style="padding: 0px 0px 0px;">
+<h2 style="color: #D5262B; font-weight: bold; font-size: x-large;">
   <strong>2. Turn trash to treasure: Join us in building a nature playground together  </strong>
 </h2>
 </div>
 
-<div style="padding: 0px 0px;">
+<div style="padding: 5px 0px 0px;">
 <p style="font-size: 16px; line-height: 26px;">Calling all outdoor enthusiasts, nature lovers and families! We're inviting you to join us in building an eco-friendly nature playground together. Get down and dirty with Mother Nature to create fun memories while unleashing your inner creativity. </p>  
 
 <p style="font-size: 16px; line-height: 26px;">Designed and built by the community for the community, this project by Nee Soon East cause-based group will see discarded waste and materials such as wooden pallets, cut down tree trunks and old tires being upcycled to create interesting structures in the playground. </p>   
@@ -446,15 +447,15 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/recycle1.png" class="rounded20" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/recycle1.png" class="rounded20" style="width: 100%; margin: 30px 0px;">
 </div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/recycle2.png" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/recycle2.png" class="rounded20" style="width: 100%; margin: 30px 0px;">
 </div>
 
 
-<div style="padding: 15px 0px 0px;">
+<div style="padding: 0px 0px 0px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
   <strong>Join Us!</strong>
 </h2>
@@ -465,14 +466,14 @@ object-fit: cover;
 </div>
 
 
-<div style="padding: 5px 0px 0px;">
+<div style="padding: 10px 0px 0px;">
 <h2 style="color: #D5262B; font-weight: bold; font-size: x-large; margin-bottom: 0px;">
   <strong>3. Explore and protect: Clean up our waterways with Kayak N Klean  </strong>
 </h2>
 </div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/kayak.gif" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/kayak.gif" class="rounded20" style="width: 100%; margin: 30px 0px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -483,7 +484,7 @@ object-fit: cover;
 <p style="font-size: 16px; line-height: 26px;">Through this win-win weekend activity, you'll get to keep fit, enjoy amazing views, and save the environment! What's more, it's a great way to have fun and bond with family, friends or neighbours. </p>   
 </div>
 
-<div style="padding: 20px 0px;">
+<div style="padding: 30px 0px;">
 <div class="rounded20" style="width: 100%; background: #F9FFFE; padding: 0px 0px 0px; border: 3px dashed #006544;">
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 0px;">
@@ -502,7 +503,7 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="/images/Cohesion/March%202023/IMG_2368_Original.jpg" class="rounded20" style="width: 100%; margin-top: 30px;">
+  <img src="/images/Cohesion/March%202023/IMG_2368_Original.jpg" class="rounded20" style="width: 100%; margin: 30px 0px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -589,6 +590,8 @@ This session is facilitated by our environmental interest group, Blue Tribe.</p>
 </div>
 
 
-<br/>
-<br/>
+<br>
+<br>
 </article>
+
+
