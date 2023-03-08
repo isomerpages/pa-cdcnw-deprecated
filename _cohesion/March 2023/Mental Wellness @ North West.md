@@ -391,19 +391,17 @@ object-fit: cover;
 }
   </style>
 
-
-
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
-  <img src="images/healthy-living.jpg" style="width: 100%; margin-top: 0px;">
+  <img src="/images/Cohesion/March%202023/healthy-living.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div>
-	<img src="images/kv-healthy-living.jpg" style="width: 100%; margin-top: 0px;">
+	<img src="/images/Cohesion/March%202023/kv-healthy-living.jpg" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 20px 0px 20px;">
@@ -412,7 +410,7 @@ object-fit: cover;
 
 
 <div>
-  <img src="images/mental-health.jpg" class="rounded20" style="width: 100%; margin-top: 0px; padding-bottom: 20px;">
+  <img src="/images/Cohesion/March%202023/mental-health.jpg" class="rounded20" style="width: 100%; margin-top: 0px; padding-bottom: 20px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -437,7 +435,7 @@ object-fit: cover;
 </div>
 
 <div>
-  <img src="images/6steps.png" class="rounded20" style="width: 100%; margin-top: 0px;" />
+  <img src="/images/Cohesion/March%202023/6steps.png" class="rounded20" style="width: 100%; margin-top: 0px;" />
 </div>
 
 
@@ -509,5 +507,3 @@ object-fit: cover;
 <br/>
 <br/>
 </article>
-
-
