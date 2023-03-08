@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; text-align: justify; padding: 0px 25px;">
-Ever wonder what CDC does, and how different are they from Town Councils and CCs? Here are some facts and myths you ought to find out!  
+Ever wonder what CDC does, and how different are we from Town Councils and CCs? Here are some facts and myths you ought to find out!  
 </p>
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
