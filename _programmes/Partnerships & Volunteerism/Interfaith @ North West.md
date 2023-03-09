@@ -8,4 +8,7 @@ third_nav_title: Partnerships & Volunteerism
 
 **Interfaith Network @ North West** encourages faith institutions to host open houses for diverse religious communities to learn about one another's faith and build meaningful relationships. The envisaged outcomes are to foster deeper collaborations and ultimately strengthen the racial and religious harmony in our community.
 
-Participants will learn about key tenets of the different religious faith, values and belief systems, community stories and interfaith contributions by the institutions via a presentation, site tour, and engage in Q&A sessions with the religious leaders.
+Participants will learn about key tenets of the different religious faith, values and belief systems, community stories and interfaith contributions by the institutions via a presentation, site tour, and engage in Q&A sessions with the religious 
+leaders.
+
+For more information, please email [northwestcdc\_partnerships@pa.gov.sg](mailto:northwestcdc_partnerships@pa.gov.sg).

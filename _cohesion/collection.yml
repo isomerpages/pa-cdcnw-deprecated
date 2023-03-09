@@ -2,6 +2,13 @@ collections:
   cohesion:
     output: true
     order:
+      - March 2023/.keep
+      - March 2023/March In A Glance.md
+      - March 2023/CDCs Decoded.md
+      - March 2023/Your Green Weekend Guide.md
+      - March 2023/Mental Wellness @ North West.md
+      - March 2023/North West Service Weeks.md
+      - March 2023/Little Steps @ North West.md
       - January 2023/.keep
       - January 2023/January at a Glance.md
       - January 2023/Mayor's Message.md
@@ -31,11 +38,11 @@ collections:
       - July 2022/CDC Vouchers.md
       - July 2022/Career and Employability.md
       - July 2022/Minute to Green it.md
-      - May 2022.md
-      - March 2022.md
-      - February 2022.md
-      - January 2022.md
-      - Archive/2022.md
-      - Archive/2020.md
+      - Archive/May 2022.md
+      - Archive/March 2022.md
+      - Archive/February 2022.md
       - Archive/.keep
+      - Archive/January 2022.md
+      - Archive/2022.md
       - Archive/2021.md
+      - Archive/2020.md

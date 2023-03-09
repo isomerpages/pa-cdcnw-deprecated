@@ -11,3 +11,5 @@ third_nav_title: Partnerships & Volunteerism
 **North West Youth Assembly (YA)** is a youth voluntary group comprising youth leaders between the ages of 14 and 35. Members are involved in various self-initiated programmes and, together with the North West CDC, help to implement community projects to connect with the residents in the North West District.
 
 These youth leaders are nominated by their Secondary Schools within North West District.
+
+For more information, please email [northwestcdc\_partnerships@pa.gov.sg](mailto:northwestcdc_partnerships@pa.gov.sg).

@@ -1,6 +1,6 @@
 ---
 title: Club 100 @ North West
-permalink: /programmes/CONNECTING-THE-COMMUNITY/Club100-NorthWest
+permalink: /programmes/CONNECTING-THE-COMMUNITY/Club100-NorthWest/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---
@@ -16,4 +16,4 @@ do-gooders who wanted to give back to vulnerable residents in the North West Dis
  
  **Mr Alex Yam, Mayor of North West District**
     
-Individuals or corporate organisations who are keen to join Club-100 @ North West may contact Darren Peng at [Darren\_PENG@pa.gov.sg](mailto:Darren_PENG@pa.gov.sg), or [download the form](/files/club-100_donation_form_may21.pdf) to become a Club-100 @ North West member today.
+Individuals or corporate organisations who are keen to join Club-100 @ North West may email at   [northwestcdc\_partnerships@pa.gov.sg](mailto:northwestcdc_partnerships@pa.gov.sg).  or [download the form](/files/club-100_donation_form_may21.pdf) to become a Club-100 @ North West member today.

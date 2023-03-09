@@ -13,4 +13,3 @@ The **North West Tai Chi Club** was launched on 19 February 2017 to promote heal
   
 Membership is open to Singapore Citizens and Permanent Residents living in the North West District and have completed any form of Tai Chi course.  
   
-For enquiries, you may contact Chia Yain Yi at [CHIA\_Yain\_Yi@pa.gov.sg](mailto:CHIA_Yain_Yi@pa.gov.sg).
