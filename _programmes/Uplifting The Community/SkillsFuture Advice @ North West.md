@@ -42,4 +42,4 @@ For physical job recruitment events in North West district, check out the upcomi
 
 8)    1 Dec 2023, Nee Soon East Community Club
 
-You can register for the respective events and view more events via this [link](https://e2i.com.sg/events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.find the one near to you.
+You can register for the respective events and view more events via this [link](https://e2i.com.sg/events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.
