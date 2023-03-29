@@ -16,4 +16,4 @@ In 2023, the programme has been expanded to include **Mental Wellness Ambassador
 
 Together with PsyConnect, a psychology student interest group comprising Psychology undergraduates and alumni from SUSS, to design and develop a **Mental Wellness Toolkit**, which will serve as a resource guide for caregivers and residents to better understand mental wellness, the various conditions, as well as the available resources in the North West District. You can download the Mental Wellness Toolkit [here](/files/FA_NWCDC_MentalHealthToolkit.pdf).
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+ For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
