@@ -10,4 +10,4 @@ third_nav_title: Promoting Health & Wellness
 
 **North West FitnessX Club** offers four high-intensity exercises - CrossFit, Fight Do, Kpop Fitness and Zumba, to promote healthy lifestyle and community bonding among residents in the North West District.
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+ For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
