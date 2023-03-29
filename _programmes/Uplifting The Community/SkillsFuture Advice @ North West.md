@@ -14,7 +14,7 @@ Join our webinars/ workshops to learn more about the importance of lifelong lear
 
 Guest speakers are also invited periodically to share on various in-demand skills.
 
-Visit go.gov.sg/sfanorthwest to view and register for the latest complimentary webinars.
+Visit [go.gov.sg/sfanorthwest](go.gov.sg/sfanorthwest) to view and register for the latest complimentary webinars.
 
 <br>***For Job Seekers*** 
  
