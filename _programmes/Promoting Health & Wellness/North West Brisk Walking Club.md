@@ -14,4 +14,4 @@ Officially launched in 2002, the **North West Brisk Walking Club** has grown to 
 
 Residents who are interested in joining the North West Brisk Walking Club may proceed to their nearest RC.
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+ For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
