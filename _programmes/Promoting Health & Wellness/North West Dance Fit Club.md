@@ -12,4 +12,4 @@ The **North West Dance-Fit Club** was launched in 2007 to promote a healthy life
   
 The North West Dance-Fit Club Step-By-Step Dance Manual is available [here](/files/North%20West%20Dance%20Fit%20Manual.pdf).
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+ For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
