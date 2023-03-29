@@ -13,4 +13,4 @@ The **North West Tai Chi Club** was launched on 19 February 2017 to promote heal
   
 Membership is open to Singapore Citizens and Permanent Residents living in the North West District and have completed any form of Tai Chi course.
 
- For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg)
+ For enquiries, please contact North West CDC at [northwest\_cdc@pa.gov.sg](mailto:northwest_cdc@pa.gov.sg).
