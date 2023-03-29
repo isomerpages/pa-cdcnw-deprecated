@@ -1,6 +1,6 @@
 ---
 title: Kong Meng San CDC Covid 19 Relief Fund
-permalink: /programmes/Uplifting-The-Community/kms-cdc-relief-fund/
+permalink: /programmes/uplifting-the-community/kms-cdc-relief-fund/
 description: ""
 third_nav_title: Uplifting The Community
 ---

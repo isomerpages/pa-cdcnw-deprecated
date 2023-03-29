@@ -1,6 +1,6 @@
 ---
 title: Recycle @ North West
-permalink: /programmes/BONDING-THE-PEOPLE/Recycle-at-NorthWest/
+permalink: /programmes/bonding-the-people/recycle-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---

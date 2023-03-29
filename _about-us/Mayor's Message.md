@@ -1,6 +1,6 @@
 ---
 title: Mayor's Message
-permalink: /about-us/Mayors-Message
+permalink: /about-us/mayors-message/
 description: ""
 ---
 ![](/images/About%20Us/Image-220.jpg)

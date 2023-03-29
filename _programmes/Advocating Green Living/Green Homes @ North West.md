@@ -1,6 +1,6 @@
 ---
 title: Green Homes @ North West
-permalink: /programmes/BONDING-THE-PEOPLE/GreenHomes-at-NorthWest/
+permalink: /programmes/bonding-the-people/greenhomes-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---

@@ -1,6 +1,6 @@
 ---
 title: North West Youth Concert
-permalink: /programmes/CONNECTING-THE-COMMUNITY/NorthWest-YouthConcert/
+permalink: /programmes/connecting-the-community/northwest-youthconcert/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---

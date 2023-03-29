@@ -1,6 +1,6 @@
 ---
 title: WeCare Arts @ North West
-permalink: /programmes/Uplifting-The-Community/we-care-arts/
+permalink: /programmes/uplifting-the-community/we-care-arts/
 description: ""
 third_nav_title: Uplifting The Community
 ---

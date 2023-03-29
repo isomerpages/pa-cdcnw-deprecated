@@ -1,6 +1,6 @@
 ---
 title: CDC Vouchers Scheme
-permalink: /programmes/ASSISTING-THE-NEEDY/CDC-Vouchers-Scheme/
+permalink: /programmes/assisting-the-needy/cdc-vouchers-scheme/
 description: ""
 third_nav_title: Uplifting The Community
 ---

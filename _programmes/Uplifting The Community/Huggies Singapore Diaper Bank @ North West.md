@@ -1,6 +1,6 @@
 ---
 title: Huggies Singapore Diaper Bank @ North West
-permalink: /programmes/Assisting-The-Needy/huggiesdiaperbank/
+permalink: /programmes/assisting-the-needy/huggiesdiaperbank/
 description: ""
 third_nav_title: Uplifting The Community
 ---

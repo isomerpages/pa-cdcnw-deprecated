@@ -1,6 +1,6 @@
 ---
 title: Budding Greenies @ North West
-permalink: /programmes/Advocating-Green-Living/Budding-Greenies-At-North-West/
+permalink: /programmes/advocating-green-living/budding-greenies-at-north-west/
 description: ""
 third_nav_title: Advocating Green Living
 ---

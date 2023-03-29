@@ -1,6 +1,6 @@
 ---
 title: Volunteer with us
-permalink: /giving-back/volunteer-with-us
+permalink: /giving-back/volunteer-with-us/
 description: ""
 ---
 <meta name="description" content="Volunteer with us">

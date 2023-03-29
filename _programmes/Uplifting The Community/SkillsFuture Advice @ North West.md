@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice @ North West
-permalink: /programmes/Uplifting-The-Community/sfa-northwest/
+permalink: /programmes/uplifting-the-community/sfa-northwest/
 description: ""
 third_nav_title: Uplifting The Community
 ---

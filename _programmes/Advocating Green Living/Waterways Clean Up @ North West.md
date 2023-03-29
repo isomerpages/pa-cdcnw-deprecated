@@ -1,6 +1,6 @@
 ---
 title: Waterways Clean Up @ North West
-permalink: /programmes/BONDING-THE-PEOPLE/Waterways-CleanUp-NorthWest/
+permalink: /programmes/bonding-the-people/waterways-cleanup-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---

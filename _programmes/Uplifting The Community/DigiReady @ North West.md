@@ -1,6 +1,6 @@
 ---
 title: DigiReady @ North West
-permalink: /programmes/ASSISTING-THE-NEEDY/DigiReady-NorthWest/
+permalink: /programmes/assisting-the-needy/digiready-northwest/
 description: ""
 third_nav_title: Uplifting The Community
 ---

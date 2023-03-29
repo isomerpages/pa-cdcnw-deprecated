@@ -1,6 +1,6 @@
 ---
 title: Corporate Social Responsibility
-permalink: /giving-back/Corporate-Social-Responsibility
+permalink: /giving-back/corporate-social-responsibility/
 description: ""
 ---
 <meta name="description" content="Corporate Social Responsibility">

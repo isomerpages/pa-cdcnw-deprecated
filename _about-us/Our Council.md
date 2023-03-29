@@ -1,6 +1,6 @@
 ---
 title: Our Council
-permalink: /about-us/Our-Council/
+permalink: /about-us/our-council/
 description: ""
 ---
 <meta name="description" content="Our Council">

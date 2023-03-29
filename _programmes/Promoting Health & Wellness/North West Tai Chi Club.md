@@ -1,6 +1,6 @@
 ---
 title: North West Tai Chi Club
-permalink: /programmes/Promoting-Health-and-Wellness/nw-tai-chi/
+permalink: /programmes/promoting-health-and-wellness/nw-tai-chi/
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---

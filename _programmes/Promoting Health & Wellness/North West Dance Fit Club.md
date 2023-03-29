@@ -1,6 +1,6 @@
 ---
 title: North West Dance Fit Club
-permalink: /programmes/Promoting-Health-and-Wellness/dance-fit/
+permalink: /programmes/promoting-health-and-wellness/dance-fit/
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---

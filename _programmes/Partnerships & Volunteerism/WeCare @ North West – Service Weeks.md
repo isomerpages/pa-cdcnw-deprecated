@@ -1,6 +1,6 @@
 ---
 title: WeCare @ North West – Service Weeks
-permalink: /programmes/CONNECTING-THE-COMMUNITY/WeCare-NorthWest-ServiceWeeks/
+permalink: /programmes/connecting-the-community/wecare-northwest-serviceweeks/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---

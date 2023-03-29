@@ -1,6 +1,6 @@
 ---
 title: SME Centre @ North West
-permalink: /programmes/CONNECTING-THE-COMMUNITY/SMECentre-NorthWest/
+permalink: /programmes/connecting-the-community/smecentre-northwest/
 description: ""
 third_nav_title: Partnerships & Volunteerism
 ---

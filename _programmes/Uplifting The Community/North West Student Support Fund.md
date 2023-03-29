@@ -1,6 +1,6 @@
 ---
 title: North West Student Support Fund
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Student-SupportFund/
+permalink: /programmes/assisting-the-needy/northwest-student-supportfund/
 description: ""
 third_nav_title: Uplifting The Community
 ---

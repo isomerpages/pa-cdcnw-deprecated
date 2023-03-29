@@ -1,6 +1,6 @@
 ---
 title: North West FitnessX Club
-permalink: /programmes/Promoting-Health-and-Wellness/nw-fitnessX/
+permalink: /programmes/promoting-health-and-wellness/nw-fitnessx/
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---

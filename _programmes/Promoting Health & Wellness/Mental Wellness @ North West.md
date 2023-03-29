@@ -1,6 +1,6 @@
 ---
 title: Mental Wellness @ North West
-permalink: /programmes/Promoting-Health-and-Wellness/mental-wellness/
+permalink: /programmes/promoting-health-and-wellness/mental-wellness/
 description: ""
 third_nav_title: Promoting Health & Wellness
 ---

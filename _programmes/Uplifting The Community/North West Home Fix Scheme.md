@@ -1,6 +1,6 @@
 ---
 title: North West Home Fix Scheme
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Home-FixScheme/
+permalink: /programmes/assisting-the-needy/northwest-home-fixscheme/
 description: ""
 third_nav_title: Uplifting The Community
 ---

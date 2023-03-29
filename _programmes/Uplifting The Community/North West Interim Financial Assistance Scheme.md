@@ -1,6 +1,6 @@
 ---
 title: North West Interim Financial Assistance Scheme
-permalink: /programmes/Assisting-The-Needy/IFAS/
+permalink: /programmes/assisting-the-needy/ifas/
 description: ""
 third_nav_title: Uplifting The Community
 ---

@@ -1,6 +1,6 @@
 ---
 title: Little Steps @ North West
-permalink: /programmes/Uplifting-The-Community/little-steps/
+permalink: /programmes/uplifting-the-community/little-steps/
 description: ""
 third_nav_title: Uplifting The Community
 ---

@@ -1,6 +1,6 @@
 ---
 title: North West Emergency Relief Fund
-permalink: /programmes/ASSISTING-THE-NEEDY/North-West-Emergency-ReliefFund/
+permalink: /programmes/assisting-the-needy/north-west-emergency-relieffund/
 description: ""
 third_nav_title: Uplifting The Community
 ---
