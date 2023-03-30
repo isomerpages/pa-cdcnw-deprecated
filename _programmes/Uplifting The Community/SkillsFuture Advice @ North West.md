@@ -1,6 +1,6 @@
 ---
 title: SkillsFuture Advice @ North West
-permalink: /programmes/Uplifting-The-Community/sfa-northwest/
+permalink: /programmes/uplifting-the-community/sfa-northwest/
 description: ""
 third_nav_title: Uplifting The Community
 ---
@@ -14,7 +14,7 @@ Join our webinars/ workshops to learn more about the importance of lifelong lear
 
 Guest speakers are also invited periodically to share on various in-demand skills.
 
-Visit go.gov.sg/sfanorthwest to view and register for the latest complimentary webinars.
+Visit [go.gov.sg/sfanorthwest](go.gov.sg/sfanorthwest) to view and register for the latest complimentary webinars.
 
 <br>***For Job Seekers*** 
  
@@ -42,4 +42,4 @@ For physical job recruitment events in North West district, check out the upcomi
 
 8)    1 Dec 2023, Nee Soon East Community Club
 
-You can register for the respective events and view more events via this [link](https://e2i.com.sg/events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.find the one near to you.
+You can register for the respective events and view more events via this [link](https://e2i.com.sg/events/). Please note that the above dates and venues are subject to changes and registration will only open nearer to the event date.

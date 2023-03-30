@@ -1,6 +1,6 @@
 ---
 title: Our District
-permalink: /about-us/Our-District
+permalink: /about-us/our-district/
 description: ""
 ---
 <meta name="description" content="Our District">

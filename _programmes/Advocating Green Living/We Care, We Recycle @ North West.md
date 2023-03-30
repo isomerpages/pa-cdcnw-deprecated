@@ -1,6 +1,6 @@
 ---
 title: We Care, We Recycle @ North West
-permalink: /programmes/BONDING-THE-PEOPLE/WeCare-WeRecycle-at-NorthWest/
+permalink: /programmes/bonding-the-people/wecare-werecycle-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---

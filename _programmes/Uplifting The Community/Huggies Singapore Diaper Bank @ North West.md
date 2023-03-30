@@ -1,6 +1,6 @@
 ---
 title: Huggies Singapore Diaper Bank @ North West
-permalink: /programmes/Assisting-The-Needy/huggiesdiaperbank/
+permalink: /programmes/assisting-the-needy/huggiesdiaperbank/
 description: ""
 third_nav_title: Uplifting The Community
 ---
@@ -12,4 +12,4 @@ third_nav_title: Uplifting The Community
 *   Resident of the North West District 
 *   Monthly household income of ≤ $1,900 or monthly Per Capita Income of ≤ $750
 
-Application is open from 3 to 17 October. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
+Application is open from 10 to 23 April. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).

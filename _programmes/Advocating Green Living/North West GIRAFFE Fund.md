@@ -1,6 +1,6 @@
 ---
 title: North West GIRAFFE Fund
-permalink: /programmes/BONDING-THE-PEOPLE/NorthWest-GIRAFFE-Fund/
+permalink: /programmes/bonding-the-people/northwest-giraffe-fund/
 description: ""
 third_nav_title: Advocating Green Living
 ---

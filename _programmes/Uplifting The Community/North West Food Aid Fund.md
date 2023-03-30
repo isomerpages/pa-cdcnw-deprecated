@@ -1,6 +1,6 @@
 ---
 title: North West Food Aid Fund
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Food-Aid-Fund/
+permalink: /programmes/assisting-the-needy/northwest-food-aid-fund/
 description: ""
 third_nav_title: Uplifting The Community
 ---

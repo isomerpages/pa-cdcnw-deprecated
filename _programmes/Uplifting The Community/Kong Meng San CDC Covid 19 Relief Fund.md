@@ -1,6 +1,6 @@
 ---
 title: Kong Meng San CDC Covid 19 Relief Fund
-permalink: /programmes/Uplifting-The-Community/kms-cdc-relief-fund/
+permalink: /programmes/uplifting-the-community/kms-cdc-relief-fund/
 description: ""
 third_nav_title: Uplifting The Community
 ---
@@ -17,5 +17,7 @@ b) Applicant must have affected by the following:
 i. total loss of income due to non-voluntary no-pay leave, retrenchment or termination for two calendar months before date of application; or
 
 ii. salary loss of at least 30% from all jobs prior to application (Applicants must have monthly gross income of $3,000 or less)
+
+ Application is open from 1 April 2022 to 31 March 2023
 
 For application, please apply through this [online form](https://form.gov.sg/6246e36d85e8da0012d208b5).

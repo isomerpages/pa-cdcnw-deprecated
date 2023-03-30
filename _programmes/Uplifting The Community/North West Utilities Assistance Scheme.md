@@ -1,6 +1,6 @@
 ---
 title: North West Utilities Assistance Scheme
-permalink: /programmes/ASSISTING-THE-NEEDY/NorthWest-Utilities-Assistance-Scheme/
+permalink: /programmes/assisting-the-needy/northwest-utilities-assistance-scheme/
 description: ""
 third_nav_title: Uplifting The Community
 ---

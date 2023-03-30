@@ -1,6 +1,6 @@
 ---
 title: Reduce @ North West
-permalink: /programmes/BONDING-THE-PEOPLE/Reduce-at-NorthWest/
+permalink: /programmes/bonding-the-people/reduce-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---

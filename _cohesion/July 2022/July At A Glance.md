@@ -1,6 +1,6 @@
 ---
 title: July At A Glance
-permalink: /cohesion/July-2022/main-page/
+permalink: /cohesion/july-2022/main-page/
 description: ""
 third_nav_title: July 2022
 ---
