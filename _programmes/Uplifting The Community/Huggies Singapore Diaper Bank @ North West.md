@@ -10,6 +10,6 @@ third_nav_title: Uplifting The Community
 
 *   Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
 *   Resident of the North West District 
-*   Monthly household income of ≤ $1,900 or monthly Per Capita Income of ≤ $750
+*   Monthly household income of ≤ $3,400 or monthly Per Capita Income of ≤ $850
 
 Application is open from 10 to 23 April. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
