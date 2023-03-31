@@ -12,7 +12,7 @@ Students, seniors and families from low-income backgrounds may request for free 
 
 **2. Subsidised broadband**
 
-The scheme further subsidises broadband access for beneficiaries under IMDA's Home Access Scheme, by providing additional subsidies of up to $10 per month, for a period of two years. 
+The scheme further subsidises broadband access for beneficiaries under IMDA's Home Access Scheme, by providing additional subsidies of up to $250 per month, for a period of two years. 
 
 [Download the poster](/files/DigiReady%20@%20North%20West.pdf) for more information on eligibility criteria and application process for the subsidised broadband.
 
