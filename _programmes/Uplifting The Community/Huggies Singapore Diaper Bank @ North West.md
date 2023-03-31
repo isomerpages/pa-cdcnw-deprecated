@@ -12,4 +12,4 @@ third_nav_title: Uplifting The Community
 *   Resident of the North West District 
 *   Monthly household income of ≤ $3,400 or monthly Per Capita Income of ≤ $850
 
-Application is open from 10 to 23 April. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
+Application is open from 10 to 23 April 2023. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
