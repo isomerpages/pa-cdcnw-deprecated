@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Uplifting The Community/Uplifting the Community.md
       - Uplifting The Community/.keep
       - Uplifting The Community/SkillsFuture Advice @ North West.md
       - Uplifting The Community/CDC Vouchers Scheme.md
