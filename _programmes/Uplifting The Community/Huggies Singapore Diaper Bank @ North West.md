@@ -6,12 +6,17 @@ third_nav_title: Uplifting The Community
 ---
 ![](/images/Programmes/Uplifting%20The%20Community/20220407%20170554%20004.jpg)
 
-**Huggies Singapore Diaper Bank @ North West** provides low-income young families with children diapers to help defray some household expenses and ease their financial stress. Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
+**Huggies Singapore Diaper Bank @ North West**&nbsp;provides low-income young families with children diapers to help defray some household expenses and ease their financial stress. Eligible applicants may apply during the two application windows each year, and receive six packets of diapers for children from newborn up to four years old.
   
-**Eligibility Criteria**
+**Eligibility&nbsp;Criteria**
 
 *   Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
-*   Resident of the North West District 
-*   Monthly household income of ≤ $3,400 or monthly Per Capita Income of ≤ $850
+*   Resident of the North West District&nbsp;
+*   Monthly household income of&nbsp;≤ $3,400 or monthly Per Capita Income of ≤ $850
 
 Application is open from 10 to 23 April 2023. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
+
+**Check your eligibility below.**
+
+<iframe style="width:100%;height:500px" src="https://www.checkfirst.gov.sg/c/fec9bb2c-fae6-401e-a2df-67f2b103940d"></iframe>
+
