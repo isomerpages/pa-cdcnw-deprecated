@@ -52,7 +52,7 @@ sections:
       button: Subscribe now
       url: https://form.gov.sg/630866290405b700128d6e53
   - infobar:
-      subtitle: Which District am I in?
+      subtitle: Locate your district
       button: Find now
       url: gowhere.gov.sg/cdc
   - resources:
