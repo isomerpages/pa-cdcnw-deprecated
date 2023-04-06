@@ -2,7 +2,7 @@
 title: North West Brisk Walking Club
 permalink: /programmes/promoting-health-and-wellness/nw-brisk-walking/
 description: ""
-third_nav_title: Promoting Health &amp; Wellness
+third_nav_title: Promoting Health & Wellness
 ---
 ![](/images/Programmes/Promoting%20Health%20and%20Wellness/IMG013.jpg)
 
