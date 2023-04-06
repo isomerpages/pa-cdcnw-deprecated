@@ -51,6 +51,10 @@ sections:
       description: Be updated with the latest North West happenings!
       button: Subscribe now
       url: https://form.gov.sg/630866290405b700128d6e53
+  - infobar:
+      subtitle: Locate your district
+      button: Find now
+      url: gowhere.gov.sg/cdc
   - resources:
       title: Resources
 ---

@@ -10,6 +10,6 @@ The **North West Interim Financial Assistance Scheme (IFAS)** was set up in Apri
 
 *   Singapore Citizen, or Permanent Resident (at least one immediate family member in the same household must be a Singapore Citizen)
 *   Resident of the North West District 
-*   Monthly household income of ≤ $1,900 or monthly per capita Income of ≤ $750
+*   Monthly household income of ≤ $3,400 or monthly per capita Income of ≤ $850
 
 North West CDC identifies the beneficiaries jointly with the Grassroots Organisations in the North West District.

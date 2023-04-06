@@ -4,7 +4,9 @@ permalink: /programmes/bonding-the-people/greenhomes-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-![](/images/Programmes/Green%20Living/IMG-2327.jpg)The **Green Homes @ North West** programme aims to encourage households in the North West District to adopt Green Living practices at home through the use of energy and water efficient appliances. To qualify as a Green Home, you will need to fulfil the following criteria:  
+![](/images/Programmes/Green%20Living/IMG-2327.jpg)
+
+The **Green Homes @ North West** programme aims to encourage households in the North West District to adopt Green Living practices at home through the use of energy and water efficient appliances. To qualify as a Green Home, you will need to fulfil the following criteria:  
 
 ![](/images/Programmes/Green%20Living/GH%20Posters-1.jpg)
     
