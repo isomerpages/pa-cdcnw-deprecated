@@ -2,7 +2,7 @@
 title: SME Centre @ North West
 permalink: /programmes/connecting-the-community/smecentre-northwest/
 description: ""
-third_nav_title: Partnerships &amp; Volunteerism
+third_nav_title: Partnerships & Volunteerism
 ---
 ![](/images/Programmes/Partnership%20&amp;%20Volunteerism/SFA%20MOU%20Signing%20Group%20Photo.jpg)
 
