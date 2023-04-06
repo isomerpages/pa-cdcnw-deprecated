@@ -2,7 +2,7 @@
 title: Temasek Trust CDC Lifelong Learning Enabling Fund
 permalink: /programmes/partnerships-and-volunteerism/lifelong-learning-enabling-fund/
 description: ""
-third_nav_title: Partnerships &amp; Volunteerism
+third_nav_title: Partnerships & Volunteerism
 ---
 ![](/images/Programmes/Partnership%20&amp;%20Volunteerism/Temasek%20Trust%20CDC%20Lifelong%20Learning.jpg)
 
