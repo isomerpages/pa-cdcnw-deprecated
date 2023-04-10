@@ -4,6 +4,9 @@ permalink: /programmes/bonding-the-people/northwest-giraffe-fund/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-![](/images/Programmes/Green%20Living/Giraffe%201.jpg)
+![](/images/Programmes/Green%20Living/photo%2030-3-23,%205%2001%2032%20pm.jpg)
 
-The **North West GIRAFFE Fund** (Get Involved, Reach Out and Act! Fund for the Environment) was set up in 2009 to support ground-up environmental projects for the environment, by schools and community organizations in the North West District. To qualify for the fund, projects should promote environmental education and enhance community participation in environmental activities.
+
+> **Get Involved, Reach Out and Act for the Environment!** 
+
+**North West GIRAFFE Fund** provides funding for ground-up environmental initiatives put forth by schools and community organisations in the North West. To qualify for the fund, projects should promote environmental education and enhance community participation in environmental activities.
