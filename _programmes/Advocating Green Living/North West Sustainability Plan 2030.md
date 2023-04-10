@@ -4,38 +4,26 @@ permalink: /programmes/bonding-the-people/northwest-sustainability-plan2030/
 description: ""
 third_nav_title: Advocating Green Living
 ---
-<meta name="description" content="North West Sustainability Plan 2030">
+Building on the positive momentum of the Green Living @ North West 10-Year Eco Plan in cultivating a green culture among North West residents, increasing green ownership and achieving environmental sustainability, the North West Sustainability Plan 2023 promotes sustainability holistically in all its forms throughout the North West District. 
 
-Building on the positive momentum of the Green Living @ North West 10-Year Eco Plan (2009) in cultivating a green culture among residents, increasing green ownership and achieving environmental sustainability, SP2030 will holistically promote sustainability in all its forms throughout the North West District. To achieve this, the North West CDC adopted eight United Nations Sustainable Development Goals (SDG): 
+To achieve this, eight United Nations Sustainable Development Goals (SDG) were adopted:
 
-Goal 1: 
+![](/images/Programmes/Green%20Living/picture3.png)
 
-End poverty in all its forms everywhere 
+**Goal 1** End poverty in all its forms
 
-Goal 3: 
+**Goal 3** Ensure healthy living and promote well-being for all at all ages
 
-Ensure healthy lives and promote well-being for all at all ages 
+**Goal 4** Ensure inclusive and equitable quality education for all, as well as promote lifelong learning
 
-Goal 4: 
+**Goal 8** Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all
 
-Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all 
+**Goal 11** Make cities and human settlements inclusive, safe, resilient and sustainable
 
-Goal 8: 
+**Goal 12** Ensure sustainable as well as responsible consumption and production patterns
 
-Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all 
+**Goal 13**
 
-Goal 11: 
+Take immediate action to combat climate change and its impact
 
-Make cities and human settlements inclusive, safe, resilient and sustainable 
-
-Goal 12: 
-
-Ensure sustainable consumption and production patterns 
-
-Goal 13: 
-
-Take urgent action to combat climate change and its impacts 
-
-Goal 17: 
-
-Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+**Goal 17** Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
