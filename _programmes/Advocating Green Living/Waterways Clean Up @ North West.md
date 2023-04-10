@@ -6,6 +6,6 @@ third_nav_title: Advocating Green Living
 ---
 ![](/images/Programmes/Green%20Living/Waterways%20Clean%20Up.jpg)
 
-**Waterways Clean-up @ North West** is an initiative launched in 2013 with Waterways Watch Society (WWS) that aims to impart the importance of protection and conservation within our waterways to primary and secondary schools in the district through assembly talks and learning trails on environmental awareness and litter monitoring programmes. 
+**Waterways Clean-up @ North West** is an initiative launched in collaboration with Waterways Watch Society (WWS) to impart the importance of protection and conservation within our waterways to primary and secondary schools in the North West, through assembly talks and learning trails on environmental awareness, as well as litter monitoring programmes. 
 
-Through the programme, students will learn about Singapore’s unique waterways system and the importance of conserving Singapore’s water resources and keeping them clean. The students can also take this opportunity to bond and interact with their fellow schoolmates and teachers.
+Through the programme, students will learn about Singapore’s unique waterways system and the importance of conserving and keeping Singapore’s water resources clean. Through this activity, students can also bond and interact with their fellow schoolmates and teachers.
