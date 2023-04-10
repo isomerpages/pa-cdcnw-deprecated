@@ -10,4 +10,4 @@ third_nav_title: Advocating Green Living
 
 Students from participating schools in the North West are trained and equipped with knowledge to encourages households to reduce energy and water consumption, and food wastage. The students are also encouraged to conduct house visits periodically, and share these messages with their network of friends and family.
 
-Residents who are keen to participate in our challenge to fight climate change, may apply  [here](https://go.gov.sg/reduce-sign-up). 
+Residents who are keen to participate in our challenge to fight climate change may apply  [here](https://go.gov.sg/reduce-sign-up).
