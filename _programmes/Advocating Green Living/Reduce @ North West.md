@@ -6,10 +6,8 @@ third_nav_title: Advocating Green Living
 ---
 ![](/images/Programmes/Green%20Living/PHOTO-2022-07-06-12-31-38%20(1).jpg)
 
-**Reduce @ North West**  was launched in 2011 to educate and encourage residents to do their part in fighting climate change by reducing energy consumption.  
+**Reduce @ North West** aims to educate and encourage residents to do their part in fighting climate change by reducing energy consumption, as well as reduce water consumption and food wastage.
 
-In 2017, the scope of the programme was expanded to include messages of reducing water consumption and food wastage. 
+Students from participating schools in the North West are trained and equipped with knowledge to encourages households to reduce energy and water consumption, and food wastage. The students are also encouraged to conduct house visits periodically, and share these messages with their network of friends and family.
 
-Trained students will conduct house visits to promote energy and water conservation, and reducing food wastage. They will also share the messages to their network of friends and family to encourage them to do a self-audit of their bills and pledge to incorporate a green habit in their lifestyles.  
-
-Residents who are keen to participate in the pledge can fill up the application form [here](https://go.gov.sg/reduce-sign-up). 5 lucky residents in the North West district who pledge will win a $20 grocery e-voucher each month. Winners will be announced quarterly.
+Residents who are keen to participate in our challenge to fight climate change, may apply  [here](https://go.gov.sg/reduce-sign-up). 
