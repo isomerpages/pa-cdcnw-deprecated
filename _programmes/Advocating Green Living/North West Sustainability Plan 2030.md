@@ -22,9 +22,7 @@ To achieve this, eight United Nations Sustainable Development Goals (SDG) were a
 
 **Goal 12** Ensure sustainable as well as responsible consumption and production patterns
 
-**Goal 13**
-
-Take immediate action to combat climate change and its impact
+**Goal 13** Take immediate action to combat climate change and its impact
 
 **Goal 17** Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
 
