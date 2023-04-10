@@ -27,3 +27,5 @@ To achieve this, eight United Nations Sustainable Development Goals (SDG) were a
 Take immediate action to combat climate change and its impact
 
 **Goal 17** Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development
+
+**Read North West Sustainability Report 2021 [here](/files/PA%20NWCDC%20Sustainability%20Report%202021.pdf).**
