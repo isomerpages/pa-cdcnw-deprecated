@@ -4,6 +4,8 @@ permalink: /programmes/bonding-the-people/greenhomes-at-northwest/
 description: ""
 third_nav_title: Advocating Green Living
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/QqeCQUSLKfg" height="315" width="560"></iframe>
+
 **Green Homes @ North West** encourages households in the North West District to adopt eco-friendly practices and make use of energy and water efficient appliances to attain Green Living at home. 
 
 Residents living in HDB units above 4-room or private properties may apply through this [link](https://go.gov.sg/greenhomes-nw) with the necessary documents.
