@@ -1,10 +1,10 @@
 ---
-title: North West Youth Concert
-permalink: /programmes/connecting-the-community/northwest-youthconcert/
+title: Club100 @ North West Youth Concert
+permalink: /programmes/connecting-the-community/c100-youthconcert/
 description: ""
-third_nav_title: Partnerships & Volunteerism
+third_nav_title: Partnerships &amp; Volunteerism
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8GS1vZ-7q5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8GS1vZ-7q5U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 The **North West Youth Concert** creates a platform for corporate donors to give back to the community and raise funds for the [North West Student Support Fund](https://northwest.cdc.gov.sg/programmes/assisting-the-needy/northwest-student-supportfund), as well as enables youths to showcase their artistic talents for a good cause.
 
