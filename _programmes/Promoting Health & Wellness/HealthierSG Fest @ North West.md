@@ -17,7 +17,7 @@ In-line with Healthier SG's preventive health approach, the first edition of the
 | Venue: Choa Chu kang Sports Centre     | 
 | Admission: **FREE Admission** (Pre-registration and fee apply for Fun Swim and selected competitions)   | 
 
-What are you waiting for? Get ready to have fun and make unforgettable memories at HealthierSG Fest @ North West! As we expect large crowds, do register in advance to enjoy GUARANTEED ADMISSION, and food and drink coupons! Register now at [https://go.gov.sg/healthiersgatnorthwest](https://go.gov.sg/healthiersgatnorthwest).
+What are you waiting for? Get ready to have fun and make unforgettable memories at HealthierSG Fest @ North West! As we expect large crowds, do register in advance to enjoy GUARANTEED ADMISSION, and food and drink coupons! Register now at [https://go.gov.sg/registerhealthiersgfestatnorthwest](https://go.gov.sg/registerhealthiersgfestatnorthwest)
 
 ##### Free Sports Try-Outs, Inflatables and Many Fun Activities!
 
