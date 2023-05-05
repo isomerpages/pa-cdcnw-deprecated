@@ -37,7 +37,7 @@ Check out the activities and key highlights not to be missed at the weekend fest
 
 ##### Win Prizes in our Social Media Giveaway!
 
-Redeem SURE-WIN prizes at the event by participating in our Social Media Giveaway! Simply follow our Facebook and IG, and share some photos of you at the HealthierSG Fest @ North West! Follow us and stay tuned to our [Facebook](www.facebook.com/nwcdc) and [Instagram](www.instagram.com/northwestcdc) for more information.
+Redeem SURE-WIN prizes at the event by participating in our Social Media Giveaway! Simply follow our Facebook and IG, and share some photos of you at the HealthierSG Fest @ North West! Follow us and stay tuned to our [Facebook](https://www.facebook.com/nwcdc) and [Instagram](https://www.instagram.com/northwestcdc/) for more information.
 
 ##### Exciting Competitions!
 
