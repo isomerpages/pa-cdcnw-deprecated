@@ -33,6 +33,8 @@ Look out for these exciting Leader Board Challenges where you, your friends and 
 
 Check out the activities and key highlights not to be missed at the weekend festival!
 
+![](/images/day%201%20&%202%20table%20(website).jpg)
+
 ##### Win Prizes in our Social Media Giveaway!
 
 Redeem SURE-WIN prizes at the event by participating in our Social Media Giveaway! Simply follow our Facebook and IG, and share some photos of you at the HealthierSG Fest @ North West! Follow us and stay tuned to our [Facebook](www.facebook.com/nwcdc) and [Instagram](www.instagram.com/northwestcdc) for more information.
