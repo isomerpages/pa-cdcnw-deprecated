@@ -54,7 +54,7 @@ sections:
   - infobar:
       subtitle: Locate your district
       button: Find now
-      url: gowhere.gov.sg/cdc
+      url: https://www.gowhere.gov.sg/cdc
   - resources:
       title: Resources
 ---

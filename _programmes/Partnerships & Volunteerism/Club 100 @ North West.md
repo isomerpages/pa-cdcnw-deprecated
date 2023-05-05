@@ -2,7 +2,7 @@
 title: Club 100 @ North West
 permalink: /programmes/connecting-the-community/club100-northwest/
 description: ""
-third_nav_title: Partnerships &amp; Volunteerism
+third_nav_title: Partnerships & Volunteerism
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gbKC8nvxS2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
