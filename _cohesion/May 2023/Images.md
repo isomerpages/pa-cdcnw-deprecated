@@ -21,8 +21,3 @@ third_nav_title: May 2023
 ![](/images/Cohesion/May%202023/interfaith.png)
 ![](/images/Cohesion/May%202023/interfaith-adventures-title.png)
 ![](/images/Cohesion/May%202023/kendrick-quote.png)
-
-
-
-
-
