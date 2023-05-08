@@ -2,6 +2,13 @@ collections:
   cohesion:
     output: true
     order:
+      - May 2023/.keep
+      - May 2023/May At A Glance.md
+      - "May 2023/Interfaith Network: A Day at BW Monastery.md"
+      - May 2023/Kopi Talk with Health Champions.md
+      - May 2023/North West Sustainability Forum.md
+      - "May 2023/SkillsFuture Advice: Jobseekers' POV.md"
+      - May 2023/Images.md
       - March 2023/.keep
       - March 2023/March In A Glance.md
       - March 2023/CDCs Decoded.md
