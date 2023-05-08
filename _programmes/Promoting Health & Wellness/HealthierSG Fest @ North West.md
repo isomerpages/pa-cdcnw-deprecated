@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Promoting Health & Wellness
 ---
 ![](/images/generic-edm-v5.jpg)
+#### [Register Here](https://go.gov.sg/registerhealthiersgfestatnorthwest)
 
 **HealthierSG Fest @ North West** is a new flagship event to promote healthy living in the North West District. The sports festival encourages the community to adopt a healthier lifestyle and embrace the differences between individuals to build a caring and healthy North West District.
 
