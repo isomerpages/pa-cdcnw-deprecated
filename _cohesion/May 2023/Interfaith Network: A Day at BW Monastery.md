@@ -4,7 +4,6 @@ permalink: /cohesion/may-2023/interfaith-network/
 description: ""
 third_nav_title: May 2023
 ---
-
 <style>
 
 p {
