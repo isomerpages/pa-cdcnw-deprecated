@@ -1,10 +1,9 @@
 ---
-title: North West Sustainability Forum
-permalink: /cohesion/may-2023/nw-sust-forum/
+title: "SkillsFuture Advice: Ace Your Job Search"
+permalink: /cohesion/may-2023/sfa-jobseekers/
 description: ""
 third_nav_title: May 2023
 ---
-
 <style>
 
 p {
@@ -392,82 +391,49 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="width: 100%;">
-  <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/advocating-green-living.png">
-  <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/chicken-rice-sustainability-title.png">
+  <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/uplifting-the-community.png">
+  <img style="width: 100%; max-width:" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/ace-your-job-search-title.png">
 </div>
 
-<div class="rounded20" style="max-width: 100%; padding: 30px 0px 0px;">
-	<img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/kv-chicken-rice-compressed.gif">
-  <!--<video class="rounded20" width="100%" height="" muted autoplay loop>
-    <source src="images/kv-chicken-rice-compressed.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>-->
+<div style="padding: 0px 0px 0px;">
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Looking to land your next job? SkillsFuture Advisor Martin Yeo provides some useful tips on how to discover career opportunities and how you can make the most of your job fair experience.  </p></div>
+
+<div style="max-width: 100%; padding: 15px 0px 0px;">
+  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/martin-yeo-quote.png">
 </div>
 
-<div style="padding: 30px 0px 0px;">
-<h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
-  <strong>Chicken Rice: Deconstructed</strong>
-</h2>
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">This session of the North West Sustainability Forum is not your usual culinary lesson on Chicken Rice. Hosted by Ms Catherine Loke, Founding President of The Circle for Human Sustainability, she brought us on a journey to deconstruct our favourite national dish, and traced its energy trail to find out how the process of preparing a simple plate of chicken rice can leave a high environment footprint.</p>
-
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px; margin-bottom: 20px;">Here are the key takeaways:</p>
+<div style="max-width: 100%; padding: 30px 0px 0px;">
+  <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px;
+-webkit-border-top-right-radius: 25px;
+-moz-border-radius-topleft: 25px;
+-moz-border-radius-topright: 25px;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;" class="" src="/images/Cohesion/May%202023/roadmap_01%202nd%20ver.jpg">
 </div>
-
-<div style="max-width: 100%;">
-  <img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/chicken-revealed-inforgraphics-1.png">
+<div style="max-width: 100%; padding: 0px 0px 0px;">
+  <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/May%202023/roadmap_02.jpg">
 </div>
-
-<div style="padding: 30px 25px 0px;">
-<h2 style="color: #0C6C37; font-weight: bold !important; font-size: x-large; margin-top: 20px;">
-  <b>Is Permaculture the Answer?</b>
-</h2>
-
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
-  <b>What is Permaculture?</b>
-</h3>
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">A sustainable ecosystem design that works with nature to create self-sustaining 
-food sources.</p>
-
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
-  <b>What does this have to do with chickens?</b>
-</h3>
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">With permaculture chickens, we build a natural habitat for chickens that meets 
-their needs while acting as a food source for humans. </p>
-<ul style="padding: 0px 15px !important;">
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Chickens and plants live together, eliminating the need for “feed” for chickens, fertilizer for plants, and pesticides.</li>
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">No electricity, ventilation systems or irrigation required</li>
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Chickens scratch and forage with their own litter and decomposed litter can be used for plants</li>
-</ul>
-
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
-  <b>What are the benefits of permaculture?</b>
-</h3>
-<ul style="padding: 0px 15px !important;">
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Composting reduces methane emissions</li>
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Healthy soil sequesters carbon, absorbs moisture and filters water </li>
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">No use of chemicals, pesticides or fertilizers </li>
-  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Reduces demand for energy and resources in processing, transportation, packaging and refrigeration </li>
-</ul>
-</div>
-
-<div style="max-width: 100%;">
-  <img style="width: 100%; margin-top: 30px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/7-simple-habits.png">
-</div>
-
-
-<div style="max-width: 100%;">
-  <img style="width: 100%; margin-top: 30px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/catherine-loke-quote.png">
+<div style="max-width: 100%; padding: 0px 0px 0px;">
+  <img style="width: 100%; margin-top: 0px; -webkit-border-bottom-right-radius: 25px;
+-webkit-border-bottom-left-radius: 25px;
+-moz-border-radius-bottomright: 25px;
+-moz-border-radius-bottomleft: 25px;
+border-bottom-right-radius: 25px;
+border-bottom-left-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/roadmap_03.jpg">
 </div>
 
 
 
 <div style="padding: 20px 0px;">
-<div style="width: 100%; background: #DCEAE3; padding: 0px 0px 0px;" class="rounded20">
+<div style="width: 100%; background: #DFE2EF; padding: 0px 0px 0px;" class="rounded20">
   <div style="padding: 30px 40px;">
     <div style="padding: 0px 0px;">
-      <p style="font-size: 20px; font-weight: bold; text-align: left; color: #0C6C37; margin: 0px 0px;"><strong>Start your eco journey today!  </strong>
-      </p> 
-        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Curate a <a style="font-weight: bold; color: #0C6C37;" target="_new" href="https://northwest.cdc.gov.sg/programmes/advocating-green-living/north-west-sustainability-forum/">North West Sustainability Forum</a> with us, and educate participants on Climate change and Environmental Sustainability! Or join us for a session to hear expert speakers share their experiences and insights as well as exchange ideas with like-minded community change-drivers and passionate environmentalists.</p>  
+        <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 0px 0px;"><strong>About SkillsFuture Advice @ North West</strong></p> 
+        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Part of a SkillsFuture initiative, SkillsFuture Advice @ North West works with SkillsFuture Singapore (SSG) and the Employment and Employability Institute (e2i) to help residents with their career planning and to encourage lifelong learning. <a style="font-weight: bold; color: #283F94;" target="_new" href="https://northwest.cdc.gov.sg/programmes/uplifting-the-community/sfa-northwest/">Find out more here</a>.</p>
+        <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 15px 0px 0px;"><strong>Save the date!</strong></p> 
+        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">The next e2i Career Fair @ Kampung Admiralty Community Plaza will take place on 26 May 2023. Explore the many vacancies for both PMETs and non-PMETs.  <a style="font-weight: bold; color: #283F94;" target="_new" href="https://www.e2i.com.sg/events/2023-05/">Register now</a>.</p>
+        <p style="font-size: 20px; font-weight: bold; text-align: left; color: #283F94; margin: 15px 0px 0px;"><strong>Unlock your career potential</strong></p> 
+        <p style="font-size: 16px; text-align: left; line-height: 24px; color: #000; margin: 10px 0px;">Take the self-assessment <a style="font-weight: bold; color: #283F94;" target="_new" href="https://www.myskillsfuture.gov.sg/content/portal/en/assessment/landing.html">RIASEC Profiling Tool</a> to better understand your personality, strengths and work values so you can identify suitable career options for yourself.  </p>
   </div>
 </div>
 </div>
@@ -511,5 +477,3 @@ their needs while acting as a food source for humans. </p>
 
 
 </article>
-
-
