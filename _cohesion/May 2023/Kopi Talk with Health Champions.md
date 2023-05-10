@@ -4,6 +4,7 @@ permalink: /cohesion/may-2023/health-kopi-talk/
 description: ""
 third_nav_title: May 2023
 ---
+
 <style>
 
 p {
@@ -386,7 +387,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="width: 100%; padding-top: 15px;">
   <a href="https://northwest.cdc.gov.sg/cohesion/may-2023/may-at-a-glance/">
-    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
 
@@ -412,34 +413,34 @@ h1, h2, h3, h4, h5, h6, li {
 <h2 style="color: #B25694; font-weight: bold; font-size: x-large;">
   <strong>#KopiTalk with Kendrick Lau</strong>
 </h2>
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">The kind of kopi I like best is …</span> our traditional “kopi”, or black coffee with condensed milk and sugar, from our local coffee shop. Starting the morning with my usual cup of kopi is a great way to lift my mood and kickstart the day.  </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">The kind of kopi I like best is …</span> our traditional “kopi”, or black coffee with condensed milk and sugar, from our local coffee shop. Starting the morning with my usual cup of kopi is a great way to lift my mood and kickstart the day.  </p>
 
-<img style="max-width: 180px; float: left; padding: 0px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/reflexology.png"><p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">When I’m not working, I like to …</span> enjoy a relaxing session of foot reflexology, together with my wife.</p>
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">The last time I used my CDC Voucher, I spent it on … </span> hawker food! Hawkers are up before the crack of dawn to prepare tasty food for us. Let’s support these unsung heroes!</p>
+<img style="max-width: 180px; float: left; padding: 0px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/reflexology.png"><p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">When I’m not working, I like to …</span> enjoy a relaxing session of foot reflexology, together with my wife.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">The last time I used my CDC Voucher, I spent it on … </span> hawker food! Hawkers are up before the crack of dawn to prepare tasty food for us. Let’s support these unsung heroes!</p>
 </div>
 
 <div style="padding: 0px 0px 0px;">
 <img style="max-width: 300px; float: right; padding: 0px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/moon%20pic.png">
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">My favourite spots in the North-West are …</span> Bukit Panjang Plaza and Hillion Mall. These one-stop malls have everything you need and are a great place to shop, dine or hang out with family and friends. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">My favourite spots in the North-West are …</span> Bukit Panjang Plaza and Hillion Mall. These one-stop malls have everything you need and are a great place to shop, dine or hang out with family and friends. </p>
 
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">My superpower is …</span> capturing photos of the moon with my telephoto lens. The realisation that we’re just a tiny piece in our vast universe is humbling. We’re all interconnected and part of the same universe. So, discover the world, appreciate life and have empathy for others.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">My superpower is …</span> capturing photos of the moon with my telephoto lens. The realisation that we’re just a tiny piece in our vast universe is humbling. We’re all interconnected and part of the same universe. So, discover the world, appreciate life and have empathy for others.</p>
 </div>
 
 <div style="padding: 0px 0px 10px;">
-<img style="max-width: 350px; float: left; padding: 0px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/getaway.png"><p style="font-size: 16px; line-height: 26px; padding-top: 25px;"><span style="font-weight: bold; color: #B25694;">On my last getaway, I visited …</span>  Johor Bahru! I went there with my family to shop, visit the Ramadan bazaars and eat into my favourite fruit - durian! </p>
+<img style="max-width: 350px; float: left; padding: 0px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/getaway.png"><p style="font-size: 16px; line-height: 26px; padding-top: 25px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">On my last getaway, I visited …</span>  Johor Bahru! I went there with my family to shop, visit the Ramadan bazaars and eat into my favourite fruit - durian! </p>
 
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">Mental wellness means …</span>  spending effort to love yourself! When you treat yourself with kindness and respect, you’ll be happier and more content.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">Mental wellness means …</span>  spending effort to love yourself! When you treat yourself with kindness and respect, you’ll be happier and more content.</p>
 </div>
 
 <div style="padding: 30px 0px 5px;">
 <img style="max-width: 280px; float: right; padding: 0px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/home-visiting.png">
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">I care for my mental health by …</span>  practising mindfulness. For instance, I use the “me” time while driving to pick up my children to stay present, focus on my breath and reflect on the positive things in my life. Whenever I overcome a challenging work or family-related episode, I’ll treat my family to a good meal or plan a fun family outing. A constant check and balance will go a long way in maintaining your mental health. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">I care for my mental health by …</span>  practising mindfulness. For instance, I use the “me” time while driving to pick up my children to stay present, focus on my breath and reflect on the positive things in my life. Whenever I overcome a challenging work or family-related episode, I’ll treat my family to a good meal or plan a fun family outing. A constant check and balance will go a long way in maintaining your mental health. </p>
 
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">The best way to approach someone in distress is to …</span>   listen first before taking action. We must understand that each individual has their own unique challenge, situation or background. So, be patient, non-judgmental and always lend a listening ear first. Only then can we build up that bridge of trust and offer support. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">The best way to approach someone in distress is to …</span>   listen first before taking action. We must understand that each individual has their own unique challenge, situation or background. So, be patient, non-judgmental and always lend a listening ear first. Only then can we build up that bridge of trust and offer support. </p>
 </div>
 
 <div style="padding: 0px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;"><span style="font-weight: bold; color: #B25694;">I’m inspired to reach out to others because …</span>  I believe we can all play a part, no matter how big or small, to make everyone’s life better. I often come across fellow residents in need during house visits with our grassroot advisor. Some have a hard time coping with life’s challenges. Mental health challenges can be invisible so it’s important to offer support if you know someone is having anxiety, worry or fear. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">I’m inspired to reach out to others because …</span>  I believe we can all play a part, no matter how big or small, to make everyone’s life better. I often come across fellow residents in need during house visits with our grassroot advisor. Some have a hard time coping with life’s challenges. Mental health challenges can be invisible so it’s important to offer support if you know someone is having anxiety, worry or fear. </p>
 </div>
 
 
@@ -460,25 +461,24 @@ h1, h2, h3, h4, h5, h6, li {
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
     <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a target="_new" href="https://www.facebook.com/nwcdc/" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
+      <a target="_new" href="https://www.instagram.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
+      <a target="_new" href="https://t.me/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
+      <a target="_new" href="https://www.youtube.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
@@ -495,3 +495,5 @@ h1, h2, h3, h4, h5, h6, li {
 
 
 </article>
+
+
