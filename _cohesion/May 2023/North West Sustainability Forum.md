@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6, li {
 </h2>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">This session of the North West Sustainability Forum is not your usual culinary lesson on Chicken Rice. Hosted by Ms Catherine Loke, Founding President of The Circle for Human Sustainability, she brought us on a journey to deconstruct our favourite national dish, and traced its energy trail to find out how the process of preparing a simple plate of chicken rice can leave a high environment footprint.</p>
 
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Here are the key takeaways:</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px; margin-bottom: 20px;">Here are the key takeaways:</p>
 </div>
 
 <div style="max-width: 100%;">
@@ -418,35 +418,35 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="padding: 30px 25px 0px;">
-<h2 style="color: #0C6C37; font-weight: bold !important; font-size: x-large;">
-  <strong>Is Permaculture the Answer?</strong>
+<h2 style="color: #0C6C37; font-weight: bold !important; font-size: x-large; margin-top: 20px;">
+  <b>Is Permaculture the Answer?</b>
 </h2>
 
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large;">
-  <strong>What is Permaculture?</strong>
+<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
+  <b>What is Permaculture?</b>
 </h3>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">A sustainable ecosystem design that works with nature to create self-sustaining 
 food sources.</p>
 
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large;">
-  <strong>What does this have to do with chickens?</strong>
+<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
+  <b>What does this have to do with chickens?</b>
 </h3>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">With permaculture chickens, we build a natural habitat for chickens that meets 
 their needs while acting as a food source for humans. </p>
 <ul style="padding: 0px 15px !important;">
-  <li style="padding: 7px 0px;">Chickens and plants live together, eliminating the need for “feed” for chickens, fertilizer for plants, and pesticides.</li>
-  <li style="padding: 7px 0px;">No electricity, ventilation systems or irrigation required</li>
-  <li style="padding: 7px 0px;">Chickens scratch and forage with their own litter and decomposed litter can be used for plants</li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Chickens and plants live together, eliminating the need for “feed” for chickens, fertilizer for plants, and pesticides.</li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">No electricity, ventilation systems or irrigation required</li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Chickens scratch and forage with their own litter and decomposed litter can be used for plants</li>
 </ul>
 
-<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large;">
-  <strong>What are the benefits of permaculture?</strong>
+<h3 style="color: #2D8E87; font-weight: bold !important; font-size: large; margin-top: 20px;">
+  <b>What are the benefits of permaculture?</b>
 </h3>
 <ul style="padding: 0px 15px !important;">
-  <li style="padding: 7px 0px;">Composting reduces methane emissions</li>
-  <li style="padding: 7px 0px;">Healthy soil sequesters carbon, absorbs moisture and filters water </li>
-  <li style="padding: 7px 0px;">No use of chemicals, pesticides or fertilizers </li>
-  <li style="padding: 7px 0px;">Reduces demand for energy and resources in processing, transportation, packaging and refrigeration </li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Composting reduces methane emissions</li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Healthy soil sequesters carbon, absorbs moisture and filters water </li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">No use of chemicals, pesticides or fertilizers </li>
+  <li style="padding: 7px 0px; font-size: 16px; line-height: inherit;">Reduces demand for energy and resources in processing, transportation, packaging and refrigeration </li>
 </ul>
 </div>
 
@@ -494,7 +494,7 @@ their needs while acting as a food source for humans. </p>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
@@ -511,3 +511,5 @@ their needs while acting as a food source for humans. </p>
 
 
 </article>
+
+
