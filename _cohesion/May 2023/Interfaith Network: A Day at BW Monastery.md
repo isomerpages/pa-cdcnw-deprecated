@@ -406,7 +406,7 @@ object-fit: cover;
 </div>
 
 <div class="rounded20" style="max-width: 100%; padding: 30px 0px 0px;">
-	<img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/edm-interfaith-kv.png">
+	<img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/kv-interfaith.png">
   <!--<video class="rounded20" width="100%" height="" muted autoplay loop>
     <source src="images/kv-chicken-rice-compressed.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -470,7 +470,7 @@ object-fit: cover;
 -moz-border-radius-topright: 25px;
 border-top-left-radius: 25px;
 border-top-right-radius: 25px;">
-<div style="font-size: xx-large; text-align: center; color: #FFFFFF; font-weight: bold; font-family: 'Lato', sans-serif; padding: 10px 20px;">Here are my personal 5 key takeaways from&nbsp;those&nbsp;sharing sessions</div>
+<div style="font-size: xx-large; text-align: center; color: #FFFFFF; font-weight: bold; font-family: 'Lato', sans-serif; padding: 10px 20px 30px; line-height: initial;">Here are my personal 5 key takeaways from&nbsp;those&nbsp;sharing sessions</div>
 </div>
 
 <div style="width: 100%; background: #F5E1E0; -webkit-border-bottom-right-radius: 25px;
@@ -481,19 +481,19 @@ border-bottom-right-radius: 25px;
 border-bottom-left-radius: 25px;">
   <div style="padding: 10px 20px; text-align: left;">
     <ol style="padding: 10px 10%;">
-      <li style="padding: 10px 15px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Appreciate the beauty of differences.</span><br>
+      <li style="padding: 10px 15px; line-height: 30px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Appreciate the beauty of differences.</span><br>
 There are many different aspects to various religions - they have their unique rituals, beliefs, and traditions. We should make the effort to learn about them.</li>  
 
-      <li style="padding: 10px 15px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">All religions deserve respect.</span><br>
+      <li style="padding: 10px 15px; line-height: 30px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">All religions deserve respect.</span><br>
       We must respect each other’s faiths and beliefs. Be willing to listen and understand. Have an open mind.</li>  
 
-      <li style="padding: 10px 15px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Communication is key.</span><br> 
+      <li style="padding: 10px 15px; line-height: 30px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Communication is key.</span><br> 
       The interfaith dialogue taught me the importance of asking questions so we can break down stereotypes. Have meaningful conversations so we can better understand others!</li>  
 
-      <li style="padding: 10px 15px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">All religions share universal values.</span><br>
+      <li style="padding: 10px 15px; line-height: 30px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">All religions share universal values.</span><br>
       The various faiths have many common values such as compassion, kindness, respect and empathy towards fellow human beings, which is pretty cool!</li>  
 
-      <li style="padding: 10px 15px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Ultimately, promoting peace is an end-goal.</span><br>
+      <li style="padding: 10px 15px; line-height: 30px;"><span style="font-weight: bold; text-transform: uppercase; color: #D5262B;">Ultimately, promoting peace is an end-goal.</span><br>
       I think the dialogue reinforced the message that all religions promote peace and understanding among people, which is so important in a diverse society like ours. I’m grateful that people from different religious backgrounds can co-exist and live in harmony with each other in Singapore!  </li>
     </ol>
   </div>
@@ -526,7 +526,7 @@ There are many different aspects to various religions - they have their unique r
 
 <div style="max-width: 100%; padding: 15px 0px;">
   <img style="max-width: 400px; float: left; padding: 15px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/grand-shrine-hall.png">
-  <h3 style="color: #D5262B; font-weight: bold !important; font-size: large;">
+  <h3 style="color: #D5262B; font-weight: bold !important; font-size: large; margin: 15px 0px;">
   <strong>Grand Shrine Hall</strong>
   </h3>
   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">
@@ -537,15 +537,15 @@ There are many different aspects to various religions - they have their unique r
 
 <div style="max-width: 100%; padding: 15px 0px;">
   <img style="max-width: 400px; float: right; padding: 20px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/guan-yin-hall.png">
-  <h3 style="color: #D5262B; font-weight: bold !important; font-size: large;">
-  <strong>Avalokitesvara Hall (Guan Yin Hall) </strong>
+  <h3 style="color: #D5262B; font-weight: bold !important; font-size: large; margin: 20px 0px;">
+  <strong>Avalokitesvara Hall (Guan&nbsp;Yin Hall) </strong>
   </h3>
   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">
     At the Avalokitesvara Hall, you can seek guidance from the Goddess of Mercy (also known as Guan Yin or Avalokitesvara Bodhisattva). I learnt that ‘Guan Yin” refers to how she listens to the people’s prayers or cries of suffering and responds to save us. In the background, you can see the neatly lined azura stone figures of the Goddess of Mercy - there are 2,280 of them in the hall!
   </p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">That’s me getting my fortune read! Shall keep my “fortune” a secret for now ; )</p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">The one thing that stucked with me from this visit is the message to practise generosity towards others. It’s a really powerful reminder that giving back to others and being kind to each other can enrich our lives. In a high-stakes society, this concept of generosity is like a breath of fresh air. So, help each other without expecting anything in return! </p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">Want to know more? <a style="color: #D5262B;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid02TDu1KLhf8vkUhXE3MVzUByYhpb6HkKhEAZnWQBuaJQgonwFBnaPm37wr93ZtPpZtl">Check out this post!</a></p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 20px;">That’s me getting my fortune read! Shall keep my “fortune” a secret for now ; )</p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 20px;">The one thing that stucked with me from this visit is the message to practise generosity towards others. It’s a really powerful reminder that giving back to others and being kind to each other can enrich our lives. In a high-stakes society, this concept of generosity is like a breath of fresh air. So, help each other without expecting anything in return! </p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 20px;">Want to know more? <a style="color: #D5262B;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid02TDu1KLhf8vkUhXE3MVzUByYhpb6HkKhEAZnWQBuaJQgonwFBnaPm37wr93ZtPpZtl">Check out this post!</a></p>
 </div>
 
 
@@ -600,7 +600,7 @@ There are many different aspects to various religions - they have their unique r
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right;"><img style="width: 25px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
@@ -617,4 +617,5 @@ There are many different aspects to various religions - they have their unique r
 
 
 </article>
+
 
