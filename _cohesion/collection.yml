@@ -2,7 +2,6 @@ collections:
   cohesion:
     output: true
     order:
-      - May 2023/Images.md
       - May 2023/.keep
       - May 2023/May At A Glance.md
       - "May 2023/Interfaith Network: A Day at BW Monastery.md"
