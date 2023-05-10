@@ -4,6 +4,7 @@ permalink: /cohesion/may-2023/sfa-jobseekers/
 description: ""
 third_nav_title: May 2023
 ---
+
 <style>
 
 p {
@@ -386,7 +387,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="width: 100%; padding-top: 15px;">
   <a href="https://northwest.cdc.gov.sg/cohesion/may-2023/may-at-a-glance/">
-    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
 
@@ -396,7 +397,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="padding: 0px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Looking to land your next job? SkillsFuture Advisor Martin Yeo provides some useful tips on how to discover career opportunities and how you can make the most of your job fair experience.  </p></div>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Looking to land your next job? SkillsFuture Advisor Martin Yeo provides some useful tips on how to discover career opportunities and how you can make the most of your job fair experience.  </p></div>
 
 <div style="max-width: 100%; padding: 15px 0px 0px;">
   <img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/martin-yeo-quote.png">
@@ -443,25 +444,24 @@ border-bottom-left-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/ima
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
     <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a target="_new" href="https://www.facebook.com/nwcdc/" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
+      <a target="_new" href="https://www.instagram.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
+      <a target="_new" href="https://t.me/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
+      <a target="_new" href="https://www.youtube.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
@@ -478,3 +478,5 @@ border-bottom-left-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/ima
 
 
 </article>
+
+
