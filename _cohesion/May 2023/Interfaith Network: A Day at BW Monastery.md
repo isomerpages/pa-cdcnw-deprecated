@@ -4,6 +4,7 @@ permalink: /cohesion/may-2023/interfaith-network/
 description: ""
 third_nav_title: May 2023
 ---
+
 <style>
 
 p {
@@ -395,7 +396,7 @@ object-fit: cover;
 
 <div style="width: 100%; padding-top: 15px;">
   <a href="https://northwest.cdc.gov.sg/cohesion/may-2023/may-at-a-glance/">
-    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
 
@@ -413,9 +414,9 @@ object-fit: cover;
 </div>
 
 <div style="padding: 30px 0px;">
-<p style="font-size: 16px; line-height: 26px;">As a multiracial and religious society, it’s important to understand and appreciate different cultures and religions. Through Interfaith Network @ North West, we can learn about one another’s faith, and strengthen the racial and religious harmony in our community.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">As a multiracial and religious society, it’s important to understand and appreciate different cultures and religions. Through Interfaith Network @ North West, we can learn about one another’s faith, and strengthen the racial and religious harmony in our community.</p>
 
-<p style="font-size: 16px; line-height: 26px;">Here, we embark on one such visit to the BW Monastery. Through the eyes of a student leader, we gain insights into what it means to appreciate interfaith harmony. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Here, we embark on one such visit to the BW Monastery. Through the eyes of a student leader, we gain insights into what it means to appreciate interfaith harmony. </p>
 </div>
 
 <div style="width: 100%; background: #F5E1E0;" class="rounded20">
@@ -423,21 +424,21 @@ object-fit: cover;
 
     <img style="max-width: 178px; width: 100%;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/interfaith.png">
     <h3>Interfaith Dialogue Session  </h3>
-    <p>8 April 2023<br> 
+    <p style="margin-top: 0px;">8 April 2023<br> 
     Host: BW Monastery</p>
-    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase;">Panel</p>
-    <p><strong>Alex Yam</strong><br>
+    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase; margin-top: 0px;">Panel</p>
+    <p style="margin-top: 0px;"><strong>Alex Yam</strong><br>
     <em>Mayor of North West District</em></p>
-    <p><em style="font-size: small;">and the following religious leaders representing different faiths:</em><br>
+    <p style="margin-top: 0px;"><em style="font-size: small;">and the following religious leaders representing different faiths:</em><br>
 <strong>Lim Jue Meng</strong>, <em>Vice President, BW Monastery (Buddhism)</em><br> 
 <strong>Muhd Amran Addin</strong>, <em>Social Development Head, Darul Makmur Mosque (Islam)</em><br> 
 <strong>Charlie Guan</strong>, <em>Vice Chairman, Yishun Temple Association (Taoism)</em></p>
 
-    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase;">Sharing session by </p>
-    <p><strong>Joshua Lee</strong>, <em>BW Monastery Youth Leader</em></p>
+    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase; margin-top: 0px;">Sharing session by </p>
+    <p style="margin-top: 0px;"><strong>Joshua Lee</strong>, <em>BW Monastery Youth Leader</em></p>
 
-    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase;">Attendees</p>
-    <p style="padding: 0px 15px;"><em>Over 60 guests including students from Republic Polytechnic, Woodgrove Secondary School, Spectra&nbsp;Secondary&nbsp;School, as well as representatives from the North West Youth Assembly.   </em></p>
+    <p style="max-width: 100%; border-bottom: thin solid #DACAC9; color: #DF3550; font-weight: bold; padding: 20px 10px; font-size: large; text-transform: uppercase; margin-top: 0px;">Attendees</p>
+    <p style="padding: 0px 15px; margin-top: 0px;"><em>Over 60 guests including students from Republic Polytechnic, Woodgrove Secondary School, Spectra&nbsp;Secondary&nbsp;School, as well as representatives from the North West Youth Assembly.   </em></p>
 
   </div>
 </div>
@@ -454,13 +455,13 @@ object-fit: cover;
   <img style="width: 100%; margin-top: 0px;" class="rounded20" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/meet-our-student-leader.png">
 </div>
 
-<p style="font-size: 16px; line-height: 26px;">The destination for the day is a hidden gem called BW Monastery situated in Woodlands. The monastery imparts Buddhist education, as well as care  for the community through compassionate service.</p> 
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">The destination for the day is a hidden gem called BW Monastery situated in Woodlands. The monastery imparts Buddhist education, as well as care  for the community through compassionate service.</p> 
 
-<p style="font-size: 16px; line-height: 26px;">What motivated me to attend? My curiosity to learn about different religions and cultures in Singapore. Growing up a Roman Catholic, I came with an open mind - to observe, listen and better understand Buddhism.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">What motivated me to attend? My curiosity to learn about different religions and cultures in Singapore. Growing up a Roman Catholic, I came with an open mind - to observe, listen and better understand Buddhism.</p>
 
-<p style="font-size: 16px; line-height: 26px;">The tour was extremely insightful; learning about the monastery’s history and significance of Buddhism teachings.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">The tour was extremely insightful; learning about the monastery’s history and significance of Buddhism teachings.</p>
 
-<p style="font-size: 16px; line-height: 26px; padding-bottom: 30px;">A sustainable ecosystem design that works with nature to create self-sustaining food sources.</p>
+<p style="font-size: 16px; line-height: 26px; padding-bottom: 30px; margin-top: 0px;">A sustainable ecosystem design that works with nature to create self-sustaining food sources.</p>
 
 
 <div style="width: 100%; background: #E93331; text-align: center; padding:  15px 0px; -webkit-border-top-left-radius: 25px;
@@ -499,7 +500,7 @@ There are many different aspects to various religions - they have their unique r
 </div>
 
 <div style="padding: 30px 0px  0px;">
-<p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">Overall, I would say that if more people participate in such interfaith events, we can develop better understanding and tolerance  towards one another, and not have stereotypes or biasness towards different faiths or religions.</p>
+<p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">Overall, I would say that if more people participate in such interfaith events, we can develop better understanding and tolerance  towards one another, and not have stereotypes or biasness towards different faiths or religions.</p>
 </div>
 
 <div style="padding: 20px 0px 0px;">
@@ -517,7 +518,7 @@ There are many different aspects to various religions - they have their unique r
   <h3 style="color: #D5262B; font-weight: bold !important; font-size: large;">
   <strong>OMAK inscription</strong>
   </h3>
-  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">
+  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">
     <img style="max-width: 400px; float: right; padding: 0px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/omak%20pic.png">
     These words are inscribed on the back of the main gate at the entrance to BW Monastery: “Observe Merits, Appreciate Kindness”,  or “OMAK” for short. It reminds us to see the good in people, to recognise and be thankful for their kindness. These values are highly relevant in today’s competitive society. Kindness is also a virtue which is very important in my own religion (Roman Catholism), so “OMAK” really resonated with me!
   </p>
@@ -528,10 +529,10 @@ There are many different aspects to various religions - they have their unique r
   <h3 style="color: #D5262B; font-weight: bold !important; font-size: large;">
   <strong>Grand Shrine Hall</strong>
   </h3>
-  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">
+  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">
     Couldn’t resist taking a selfie at the Grand Shrine Hall. In the background you can see 3 Great Buddhas: Avalokitesvara Bodhisattva (left) representing Compassion, Shakyamuni Buddha (centre) representing Perfection and Enlightenment and Manjusri Bodhisattva (right) representing Wisdom. This hall is where recitations and Dharma assembly are held.
   </p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">On both sides of the hall are two very beautiful 6-metre victory banners, celebrating the Buddha’s triumph over four obstacles that stood in the path of enlightenment. Hand sewn on the beautiful fabric are ribbons, precious stones and coloured pearls - each stitch represents pure intentions of offerings to the Three Gems or Three Jewels! </p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">On both sides of the hall are two very beautiful 6-metre victory banners, celebrating the Buddha’s triumph over four obstacles that stood in the path of enlightenment. Hand sewn on the beautiful fabric are ribbons, precious stones and coloured pearls - each stitch represents pure intentions of offerings to the Three Gems or Three Jewels! </p>
 </div>
 
 <div style="max-width: 100%; padding: 15px 0px;">
@@ -539,12 +540,12 @@ There are many different aspects to various religions - they have their unique r
   <h3 style="color: #D5262B; font-weight: bold !important; font-size: large;">
   <strong>Avalokitesvara Hall (Guan Yin Hall) </strong>
   </h3>
-  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">
+  <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">
     At the Avalokitesvara Hall, you can seek guidance from the Goddess of Mercy (also known as Guan Yin or Avalokitesvara Bodhisattva). I learnt that ‘Guan Yin” refers to how she listens to the people’s prayers or cries of suffering and responds to save us. In the background, you can see the neatly lined azura stone figures of the Goddess of Mercy - there are 2,280 of them in the hall!
   </p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">That’s me getting my fortune read! Shall keep my “fortune” a secret for now ; )</p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">The one thing that stucked with me from this visit is the message to practise generosity towards others. It’s a really powerful reminder that giving back to others and being kind to each other can enrich our lives. In a high-stakes society, this concept of generosity is like a breath of fresh air. So, help each other without expecting anything in return! </p>
-   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">Want to know more? <a style="color: #D5262B;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid02TDu1KLhf8vkUhXE3MVzUByYhpb6HkKhEAZnWQBuaJQgonwFBnaPm37wr93ZtPpZtl">Check out this post!</a></p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">That’s me getting my fortune read! Shall keep my “fortune” a secret for now ; )</p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">The one thing that stucked with me from this visit is the message to practise generosity towards others. It’s a really powerful reminder that giving back to others and being kind to each other can enrich our lives. In a high-stakes society, this concept of generosity is like a breath of fresh air. So, help each other without expecting anything in return! </p>
+   <p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">Want to know more? <a style="color: #D5262B;" target="_new" href="https://www.facebook.com/nwcdc/posts/pfbid02TDu1KLhf8vkUhXE3MVzUByYhpb6HkKhEAZnWQBuaJQgonwFBnaPm37wr93ZtPpZtl">Check out this post!</a></p>
 </div>
 
 
@@ -563,7 +564,7 @@ There are many different aspects to various religions - they have their unique r
 </div>
 
 <div style="padding: 20px 0px  20px;">
-<p style="font-size: 16px; line-height: 26px; margin-bottom: 0px;">Check out this video on how Interfaith Network @ North West inspires interfaith conversations to build peace and harmony in our community.</p>
+<p style="font-size: 16px; line-height: 26px; margin-bottom: 0px; margin-top: 0px;">Check out this video on how Interfaith Network @ North West inspires interfaith conversations to build peace and harmony in our community.</p>
 </div>
 
 <div style="padding: 0px 0px 0px;">
@@ -582,25 +583,24 @@ There are many different aspects to various religions - they have their unique r
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
     <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a target="_new" href="https://www.facebook.com/nwcdc/" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
+      <a target="_new" href="https://www.instagram.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
+      <a target="_new" href="https://t.me/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
+      <a target="_new" href="https://www.youtube.com/northwestcdc" style="line-height: normal !important; margin-bottom: 0px !important;"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
@@ -617,3 +617,4 @@ There are many different aspects to various religions - they have their unique r
 
 
 </article>
+
