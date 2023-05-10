@@ -4,6 +4,7 @@ permalink: /cohesion/may-2023/may-at-a-glance/
 description: ""
 third_nav_title: May 2023
 ---
+
 <style>
 
 p {
@@ -390,7 +391,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="width: 100%; padding-top: 15px;">
   <a href="https://northwest.cdc.gov.sg/cohesion/may-2023/may-at-a-glance/">
-    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
 
@@ -399,12 +400,12 @@ h1, h2, h3, h4, h5, h6, li {
       <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/edm-interfaith-kv.png">
     </div>
 
-  <div style="background: #FFFFFF; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
+  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
     <h2 style="color: #C84136; font-weight: bold; font-size: x-large;">
       <strong>Interfaith Adventures: A Meaningful Day Out in the North West</strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Discover the beauty of diversity, understand different religions, and engage in a meaningful experience through Interfaith Network @ North West.</p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #C84136; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may%20-2023/interfaith-network/"><em>Learn More</em></a></div>
+    <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Discover the beauty of diversity, understand different religions, and engage in a meaningful experience through Interfaith Network @ North West.</p>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #C84136; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may%20-2023/interfaith-network/"><em style="font-weight: bold;">Learn More</em></a></div>
   </div>
   </div>
 
@@ -414,16 +415,16 @@ h1, h2, h3, h4, h5, h6, li {
   
   <div class="col-6">
     <div style="max-width: 100%; padding: 10px 10px;">
-    <div style="background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
+    <div style="background: #F9F9F9; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
     <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/kv-chicken-rice-compressed.gif">
   </div>
   <div style="background: #FFFFFF; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
-    <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
+    <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large; letter-spacing: 1px;">
       <strong>What Does Chicken Rice Have To Do With Sustainability?  </strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Bringing a simple plate of chicken rice to your dinner table have its impact on the environment. Let’s find out about the hidden environmental costs of what we eat, and how we can make more sustainable choices for a greener planet.</p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/nw-sust-forum/"><em>Discover More</em></a></div>
+    <p style="font-size: 16px; line-height: 26px; margin-top: 0px; min-height: 160px;">Bringing a simple plate of chicken rice to your dinner table have its impact on the environment. Let’s find out about the hidden environmental costs of what we eat, and how we can make more sustainable choices for a greener planet.</p>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/nw-sust-forum/"><em style="font-weight: bold;">Discover More</em></a></div>
   </div>
   </div>
   </div>
@@ -435,12 +436,12 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="width: 100%;">
     <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/kv-kopitalk_compressed.gif">
   </div>
-  <div style="background: #FFFFFF; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
-    <h2 style="color: #CE8EBE; font-weight: bold; font-size: x-large;">
+  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
+    <h2 style="color: #CE8EBE; font-weight: bold; font-size: x-large; letter-spacing: 1px;">
       <strong>Championing Mental Wellness to Build a More Resilient Community  </strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">In this #kopitalk session, we find out more about Mental Wellness Ambassador, Kendrick Lau and his efforts in promoting awareness on mental wellness within his local community.<br><br></p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #CE8EBE; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/health-kopi-talk/"><em>Discover More</em></a>
+    <p style="font-size: 16px; line-height: 26px; margin-top: 0px; min-height: 160px;">In this #kopitalk session, we find out more about Mental Wellness Ambassador, Kendrick Lau and his efforts in promoting awareness on mental wellness within his local community. <span style="color: #FFFFFF;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #CE8EBE; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/health-kopi-talk/"><em style="font-weight: bold;">Discover More</em></a>
     </div>
   </div>
   </div>
@@ -451,7 +452,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 
 <div style="max-width: 100%; padding: 10px 0px;" class="col-12">
-  <div style="background: #FFFFFF; margin: 30px 10px 0px; -webkit-border-radius: 35px; -moz-border-radius: 35px; border-radius: 35px;">
+  <div style="background: #F9F9F9; margin: 30px 10px 0px; -webkit-border-radius: 35px; -moz-border-radius: 35px; border-radius: 35px;">
     <div style="width: 100%;">
       <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/edm-jobsearch-kv.png">
     </div>
@@ -460,11 +461,11 @@ h1, h2, h3, h4, h5, h6, li {
     <h2 style="color: #283F94; font-weight: bold; font-size: x-large;">
       <strong>Ace Your Job Search: Expert Tips From A SkillsFuture Advisor  </strong>
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Looking for a job? SkillsFuture Advisor Martin Yeo provides some useful tips on how to bring your A-game to your job search and how to get the most out of a 
+    <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Looking for a job? SkillsFuture Advisor Martin Yeo provides some useful tips on how to bring your A-game to your job search and how to get the most out of a 
 job fair.  </p>
     <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;">
       <a style="background: #283F94; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/sfa-jobseekers/">
-        <em>Let's Get Started</em>
+        <em style="font-weight: bold;">Let's Get Started</em>
       </a>
     </div>
   </div>
@@ -474,10 +475,10 @@ job fair.  </p>
 
 
 <div style="max-width: 100%; padding: 10px 0px;" class="col-12">
-  <div style="background: #FFFFFF; margin: 30px 10px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
+  <div style="background: #F9F9F9; margin: 30px 10px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
     <div style="width: 100%;">
       <div style="background: #FE5D1F; margin: 30px 0px 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
-        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-family: Arial, 'sans-serif';"><em>What's Up</em> <img style="padding: 0px 10px; max-width: 30px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-family: Arial, 'sans-serif';"><em>What's Up</em> <img style="padding: 0px 10px; max-width: 40px; width: 40px; margin: 0px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
       </div>
     </div>
 
@@ -490,14 +491,14 @@ job fair.  </p>
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif';"><em>Test your knowledge about North West!</em></h2>
-          <p style="font-size: 16px; line-height: 26px;">Take part in our Readers’ Quiz to find out how well you know our initiatives and stand a chance to win shopping vouchers!
+        <div style="padding: 30px 2rem;">
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; font-size: 24px; font-weight: bold;"><em>Test your knowledge about North West!</em></h2>
+          <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Take part in our Readers’ Quiz to find out how well you know our initiatives and stand a chance to win shopping vouchers!
           <br><br>
           Hint: answers can be found in past issues of our Cohesion newsletter! </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="#">
-              <em>Join Now</em>
+              <em style="font-weight: bold;">Join Now</em>
             </a>
           </div>
         </div>
@@ -512,12 +513,12 @@ job fair.  </p>
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif';"><em>What’s happening in May</em></h2>
-          <p style="font-size: 16px; line-height: 26px;">Don’t miss out on exciting events happening in the North West community this May. From job fairs and green activities to performances and flea markets, there’s something for everyone. Explore the list and find the perfect activity for you!</p>
+        <div style="padding: 30px 2rem;">
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; font-size: 24px; font-weight: bold;"><em>What’s happening in May</em></h2>
+          <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Don’t miss out on exciting events happening in the North West community this May. From job fairs and green activities to performances and flea markets, there’s something for everyone. Explore the list and find the perfect activity for you!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="https://www.facebook.com/nwcdc/videos/759068592530010/">
-              <em>Check It Out</em>
+              <em style="font-weight: bold;">Check It Out</em>
             </a>
           </div>
         </div>
@@ -532,13 +533,13 @@ job fair.  </p>
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>HealthierSG Fest @ North West</em></h2>
-          <h3 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 0px;"><em>17 – 18 June 2023 | 7am to 11am | Free Admission!</em></h3>
-          <p style="font-size: 16px; line-height: 26px;">Get ready to have fun at HealthierSG Fest @ North West! Jam-packed with activities for all ages and abilities, you can try out fun sports inflatables and to throwback kampung games. What’s more, there’s free food and drinks to be redeemed, and giveaways for everyone!</p>
+        <div style="padding: 30px 2rem;">
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px; font-size: 24px; font-weight: bold;"><em>HealthierSG Fest @ North West</em></h2>
+          <h3 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 0px; font-size: 18px; font-weight: bold;"><em>17 – 18 June 2023 | 7am to 11am | Free&nbsp;Admission!</em></h3>
+          <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Get ready to have fun at HealthierSG Fest @ North West! Jam-packed with activities for all ages and abilities, you can try out fun sports inflatables and to throwback kampung games. What’s more, there’s free food and drinks to be redeemed, and giveaways for everyone!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="https://go.gov.sg/healthiersgatnorthwest">
-              <em>Find Out More</em>
+              <em style="font-weight: bold;">Find Out More</em>
             </a>
           </div>
         </div>
@@ -555,10 +556,10 @@ job fair.  </p>
   <div class="col-12">
     <div style="padding: 0px 10px;">
       <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px 20px; display: flex;">
-        <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Know an interesting or inspiring story?</em></h1>
-          <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
-            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase;"><em>Tell Us More</em>
+        <div style="width: 100%; padding: 30px 10px 10px; text-align: center; margin: auto;">
+          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal;"><em>Know an interesting or inspiring story?</em></h1>
+          <a style="text-decoration: none;" target="_new" href="mailto:northwest_cdc@pa.gov.sg">
+            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase;"><em style="font-weight: bold;">Tell Us More</em>
             </div>
           </a>
         </div>
@@ -577,11 +578,16 @@ job fair.  </p>
     <div style="width: 100%;">
 
     <div style="width: 100%; padding: 15px 10px; text-align: center;">
-      <div><em><h2 style="color: #331E16; font-family: Arial, 'sans-serif';">For the latest events and happenings,<br><span style="text-transform: uppercase;">Follow Us On</span></h2></em></div>
-      <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png"></a>
+      <div class="w-100">
+        <em>
+          <h2 style="color: #331E16; font-family: Arial, 'sans-serif'; font-size: 24px;">For the latest events and happenings,<br><span style="text-transform: uppercase; font-weight: bold;">Follow Us On</span>
+          </h2>
+        </em>
+      </div>
+      <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px; max-width: 40px; display: inline-block;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png"></a>
+      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px; max-width: 40px; display: inline-block;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png"></a>
+      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px; max-width: 40px; display: inline-block;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png"></a>
+      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px; max-width: 40px; display: inline-block;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png"></a>
     </div>
 
     </div>
@@ -597,3 +603,5 @@ job fair.  </p>
 
 
 </article>
+
+
