@@ -409,7 +409,7 @@ h1, h2, h3, h4, h5, h6, li {
 -moz-border-radius-topleft: 25px;
 -moz-border-radius-topright: 25px;
 border-top-left-radius: 25px;
-border-top-right-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/roadmap_01.jpg">
+border-top-right-radius: 25px;" class="" src="/images/Cohesion/May%202023/roadmap_01%202nd%20ver.jpg">
 </div>
 <div style="max-width: 100%; padding: 0px 0px 0px;">
   <img style="width: 100%; margin-top: 0px;" class="" src="/images/Cohesion/May%202023/roadmap_02.jpg">
@@ -461,7 +461,7 @@ border-bottom-left-radius: 25px;" class="" src="https://northwest.cdc.gov.sg/ima
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
