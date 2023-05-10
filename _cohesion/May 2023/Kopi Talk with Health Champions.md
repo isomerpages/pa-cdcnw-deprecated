@@ -410,7 +410,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="padding: 30px 0px 0px;">
 <img style="max-width: 100px; float: right; padding: 0px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/kopi%20pic.png">
-<h2 style="color: #B25694; font-weight: bold; font-size: x-large;">
+<h2 style="color: #B25694; font-weight: bold; font-size: x-large; margin-top: 10px;">
   <strong>#KopiTalk with Kendrick Lau</strong>
 </h2>
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">The kind of kopi I like best is …</span> our traditional “kopi”, or black coffee with condensed milk and sugar, from our local coffee shop. Starting the morning with my usual cup of kopi is a great way to lift my mood and kickstart the day.  </p>
@@ -419,15 +419,15 @@ h1, h2, h3, h4, h5, h6, li {
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">The last time I used my CDC Voucher, I spent it on … </span> hawker food! Hawkers are up before the crack of dawn to prepare tasty food for us. Let’s support these unsung heroes!</p>
 </div>
 
-<div style="padding: 0px 0px 0px;">
-<img style="max-width: 300px; float: right; padding: 0px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/moon%20pic.png">
+<div style="padding: 20px 0px 20px;">
+<img style="max-width: 300px; float: right; padding: 10px 0px 5px 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/moon%20pic.png">
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">My favourite spots in the North-West are …</span> Bukit Panjang Plaza and Hillion Mall. These one-stop malls have everything you need and are a great place to shop, dine or hang out with family and friends. </p>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">My superpower is …</span> capturing photos of the moon with my telephoto lens. The realisation that we’re just a tiny piece in our vast universe is humbling. We’re all interconnected and part of the same universe. So, discover the world, appreciate life and have empathy for others.</p>
 </div>
 
 <div style="padding: 0px 0px 10px;">
-<img style="max-width: 350px; float: left; padding: 0px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/getaway.png"><p style="font-size: 16px; line-height: 26px; padding-top: 25px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">On my last getaway, I visited …</span>  Johor Bahru! I went there with my family to shop, visit the Ramadan bazaars and eat into my favourite fruit - durian! </p>
+<img style="max-width: 300px; float: left; padding: 15px 20px 5px 0px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/getaway.png"><p style="font-size: 16px; line-height: 26px; padding-top: 25px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">On my last getaway, I visited …</span>  Johor Bahru! I went there with my family to shop, visit the Ramadan bazaars and eat into my favourite fruit - durian! </p>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">Mental wellness means …</span>  spending effort to love yourself! When you treat yourself with kindness and respect, you’ll be happier and more content.</p>
 </div>
@@ -440,7 +440,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 
 <div style="padding: 0px 0px 0px;">
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;"><span style="font-weight: bold; color: #B25694;">I’m inspired to reach out to others because …</span>  I believe we can all play a part, no matter how big or small, to make everyone’s life better. I often come across fellow residents in need during house visits with our grassroot advisor. Some have a hard time coping with life’s challenges. Mental health challenges can be invisible so it’s important to offer support if you know someone is having anxiety, worry or fear. </p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 10px;"><span style="font-weight: bold; color: #B25694;">I’m inspired to reach out to others because …</span>  I believe we can all play a part, no matter how big or small, to make everyone’s life better. I often come across fellow residents in need during house visits with our grassroot advisor. Some have a hard time coping with life’s challenges. Mental health challenges can be invisible so it’s important to offer support if you know someone is having anxiety, worry or fear. </p>
 </div>
 
 
@@ -478,7 +478,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right; display: inline-block !important;"><img style="width: 25px; display: inline-block !important;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
 
   </div>
 
