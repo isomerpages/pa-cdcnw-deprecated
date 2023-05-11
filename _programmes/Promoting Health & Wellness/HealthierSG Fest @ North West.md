@@ -45,6 +45,6 @@ Redeem SURE-WIN prizes at the event by participating in our Social Media Giveawa
 We have four competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
 
 * [Badminton Competition](/files/badminton%20pdf.pdf)
-* Basketball Competition
-* Futsal Competition
-* Table Tennis Competition
+* [Basketball Competition](/files/basketball%20poster.pdf)
+* [Futsal Competition](/files/futsal%20poster.pdf)
+* [Table Tennis Competition](/files/table%20tennis%20poster.pdf)
