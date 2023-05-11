@@ -4,7 +4,6 @@ permalink: /cohesion/may-2023/may-at-a-glance/
 description: ""
 third_nav_title: May 2023
 ---
-
 <style>
 
 p {
@@ -386,7 +385,6 @@ h1, h2, h3, h4, h5, h6, li {
 }
   </style>
 
-
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
 <div style="width: 100%; padding-top: 15px;">
@@ -405,7 +403,7 @@ h1, h2, h3, h4, h5, h6, li {
       <strong>Interfaith Adventures: A Meaningful Day Out in the North West</strong>
     </h2>
     <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Discover the beauty of diversity, understand different religions, and engage in a meaningful experience through Interfaith Network @ North West.</p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #C84136; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may%20-2023/interfaith-network/"><em style="font-weight: bold;">Learn More</em></a></div>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #C84136; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/may-2023/interfaith-network/"><em style="font-weight: bold;">Learn More</em></a></div>
   </div>
   </div>
 
@@ -519,7 +517,7 @@ job fair.  </p>
           <br><br>
           Hint: answers can be found in past issues of our Cohesion newsletter! </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="#">
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://www.facebook.com/100064661320759/posts/pfbid02bnFw2wFYFpmpkfSF6yQiFmihrkgquGvciqNsWyx1Pm374g8NTq69bCK7sTTnZ6xVl/?mibextid=cr9u03">
               <em style="font-weight: bold;">Join Now</em>
             </a>
           </div>
@@ -605,5 +603,4 @@ job fair.  </p>
 
 
 </article>
-
 
