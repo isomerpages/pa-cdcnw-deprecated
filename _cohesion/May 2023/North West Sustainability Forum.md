@@ -4,7 +4,6 @@ permalink: /cohesion/may-2023/nw-sust-forum/
 description: ""
 third_nav_title: May 2023
 ---
-
 <style>
 
 p {
@@ -408,7 +407,7 @@ h1, h2, h3, h4, h5, h6, li {
 <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
   <strong>Chicken Rice: Deconstructed</strong>
 </h2>
-<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">This session of the North West Sustainability Forum is not your usual culinary lesson on Chicken Rice. Hosted by Ms Catherine Loke, Founding President of The Circle for Human Sustainability, she brought us on a journey to deconstruct our favourite national dish, and traced its energy trail to find out how the process of preparing a simple plate of chicken rice can leave a high environment footprint.</p>
+<p style="font-size: 16px; line-height: 26px; margin-top: 0px;">This session of the North West Sustainability Forum is not your usual culinary lesson on Chicken Rice. Speaker, Ms Catherine Loke, Founding President of The Circle for Human Sustainability, brought us on a journey where she deconstructed our favourite national dish, and traced its energy trail to find out how the process of preparing a simple plate of chicken rice can leave a high environment footprint.</p>
 
 <p style="font-size: 16px; line-height: 26px; margin-top: 0px; margin-bottom: 20px;">Here are the key takeaways:</p>
 </div>
@@ -511,5 +510,3 @@ their needs while acting as a food source for humans. </p>
 
 
 </article>
-
-
