@@ -42,9 +42,16 @@ Redeem SURE-WIN prizes at the event by participating in our Social Media Giveawa
 
 ##### Exciting Competitions!
 
-We have four competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
+We have competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
 
 * [Badminton Competition](/files/badminton%20pdf.pdf)
 * [Basketball Competition](/files/basketball%20poster.pdf)
 * [Futsal Competition](/files/futsal%20poster.pdf)
 * [Table Tennis Competition](/files/table%20tennis%20poster.pdf)
+* [Family Telematch](/files/family%20telematch.pdf)
+
+##### Fun Swim
+
+Join us for a day of Fun Swim where you can swim at your own pace and stand a chance to win up to $15 supermarket vouchers! Register here today: [https://form.gov.sg/6461a746e633cc0011f9668f](https://form.gov.sg/6461a746e633cc0011f9668f)!
+
+View event poster:
