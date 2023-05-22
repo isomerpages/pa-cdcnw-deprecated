@@ -52,6 +52,9 @@ We have Fun Swim and various competitions happening across the two-day festival 
 | [Basketball Competition](/files/basketball%20poster.pdf) | Click [here](https://www.onepa.gov.sg/events/marsiling-csn-3x3-basketball-tournament-healthiersg-fest-north-west-41724102) to register |
 | [Futsal Competition](/files/futsal%20poster.pdf)     | Click [here](form.gov.sg/645df938337d54001268f9d0) to register  |  |
 | [Table Tennis Competition](/files/table%20tennis%20poster.pdf)     | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-table-tennis-competition---healthiersg-fest--north-west-25623182) to register  |  |
-| [Fun Swim](/files/fun%20swim.pdf)  | Click [here](https://form.gov.sg/6461a746e633cc0011f9668f) to register     |  |
 | [Family Telematch](/files/family%20telematch.pdf)  | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-family-telematch---healthiersg-fest--north-west-30976594) to register    |  |
 |  |  | |
+
+##### Fun Swim
+![](/images/fun%20swim%20poster.jpg)
+##### [Register here](https://form.gov.sg/6461a746e633cc0011f9668f)
