@@ -42,9 +42,18 @@ Redeem SURE-WIN prizes at the event by participating in our Social Media Giveawa
 
 ##### Exciting Competitions!
 
-We have four competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
+We have various competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
 
-* [Badminton Competition](/files/badminton%20pdf.pdf)
-* [Basketball Competition](/files/basketball%20poster.pdf)
-* [Futsal Competition](/files/futsal%20poster.pdf)
-* [Table Tennis Competition](/files/table%20tennis%20poster.pdf)
+
+|  |  | |
+| -------- | -------- | -------- |
+| [Badminton Competition](/files/badminton%20pdf.pdf)    | Click [here](https://www.onepa.gov.sg/events/canberra-csn-healthiersg-fest-north-west-badminton-tournament-48664575) to register   |  |
+| [Basketball Competition](/files/basketball%20poster.pdf) | Click [here](https://www.onepa.gov.sg/events/marsiling-csn-3x3-basketball-tournament-healthiersg-fest-north-west-41724102) to register |
+| [Futsal Competition](/files/futsal%20poster.pdf)     | Click [here](https://form.gov.sg/645df938337d54001268f9d0) to register |
+| [Table Tennis Competition](/files/table%20tennis%20poster.pdf)  | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-table-tennis-competition---healthiersg-fest--north-west-25623182) to register  |  |
+| [Family Telematch](/files/family%20telematch.pdf)  | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-family-telematch---healthiersg-fest--north-west-30976594) to register    |  |
+|  |  | |
+
+##### Fun Swim
+![](/images/fun%20swim%20poster.jpg)
+##### [Register here](https://form.gov.sg/6461a746e633cc0011f9668f)
