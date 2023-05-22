@@ -40,18 +40,18 @@ Check out the activities and key highlights not to be missed at the weekend fest
 
 Redeem SURE-WIN prizes at the event by participating in our Social Media Giveaway! Simply follow our Facebook and IG, and share some photos of you at the HealthierSG Fest @ North West! Follow us and stay tuned to our [Facebook](https://www.facebook.com/nwcdc) and [Instagram](https://www.instagram.com/northwestcdc/) for more information.
 
-##### Exciting Competitions!
+##### Fun Swim and Exciting Competitions!
 
-We have competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
+We have Fun Swim and various competitions happening across the two-day festival for you, your friends and families to take part in! Enjoy your favourite sports through some friendly competition!
 
-* [Badminton Competition](/files/badminton%20pdf.pdf)
-* [Basketball Competition](/files/basketball%20poster.pdf)
-* [Futsal Competition](/files/futsal%20poster.pdf)
-* [Table Tennis Competition](/files/table%20tennis%20poster.pdf)
-* [Family Telematch](/files/family%20telematch.pdf)
 
-##### Fun Swim
 
-Join us for a day of Fun Swim where you can swim at your own pace and stand a chance to win up to $15 supermarket vouchers! Register here today: [https://form.gov.sg/6461a746e633cc0011f9668f](https://form.gov.sg/6461a746e633cc0011f9668f)!
-
-View event poster:
+|  |  | |
+| -------- | -------- | -------- |
+| [Badminton Competition](/files/badminton%20pdf.pdf)    | Click [here](https://www.onepa.gov.sg/events/canberra-csn-healthiersg-fest-north-west-badminton-tournament-48664575) to register   |  |
+| [Basketball Competition](/files/basketball%20poster.pdf) | Click [here](https://www.onepa.gov.sg/events/marsiling-csn-3x3-basketball-tournament-healthiersg-fest-north-west-41724102) to register |
+| [Futsal Competition](/files/futsal%20poster.pdf)     | Click [here](https://www.onepa.gov.sg/events/5v5-futsal-competition-healthiersg-fest-north-west-21502293) to register  |  |
+| [Table Tennis Competition](/files/table%20tennis%20poster.pdf)     | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-table-tennis-competition---healthiersg-fest--north-west-25623182) to register  |  |
+| [Fun Swim](/files/fun%20swim.pdf)  | Click [here](https://form.gov.sg/6461a746e633cc0011f9668f) to register     |  |
+| [Family Telematch](/files/family%20telematch.pdf)  | Click [here](https://www.onepa.gov.sg/events/yew-tee-csn-family-telematch---healthiersg-fest--north-west-30976594) to register    |  |
+|  |  | |
