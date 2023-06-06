@@ -14,6 +14,6 @@ third_nav_title: Uplifting The Community
 *   Resident of the North West District&nbsp;
 *   Monthly household income of&nbsp;≤ $3,400 or monthly Per Capita Income of ≤ $850
 
-**Check your eligibility [here](go.gov.sg/checkfirst-nwdiaper).**
+**Check your eligibility [here](https://go.gov.sg/checkfirst-nwdiaper).**
 
-Application is open from 10 to 23 April 2023. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33). 
+Application is open from 10 to 23 April 2023. Eligible residents may apply through this [link](https://form.gov.sg/#!/61260f45e7eaf10012c6cb33).
