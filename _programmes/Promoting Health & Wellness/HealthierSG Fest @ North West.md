@@ -36,6 +36,8 @@ Check out the activities and key highlights not to be missed at the weekend fest
 
 ![](/images/table%202.png)
 
+View the full programme line-up: [Day 1](/files/healthiersg%20fest%20@%20north%20west%20-%20day%201.pdf) | [Day 2](/files/healthiersg%20fest%20@%20north%20west%20-%20day%202.pdf)
+
 ##### Win Prizes in our Social Media Giveaway!
 
 Redeem SURE-WIN prizes at the event by participating in our Social Media Giveaway! Simply follow our Facebook and IG, and share some photos of you at the HealthierSG Fest @ North West! Follow us and stay tuned to our [Facebook](https://www.facebook.com/nwcdc) and [Instagram](https://www.instagram.com/northwestcdc/) for more information.

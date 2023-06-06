@@ -492,7 +492,7 @@ job fair.  </p>
         <div style="padding: 30px 2rem;">
           <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px; font-size: 24px; font-weight: bold;"><em>HealthierSG Fest @ North West</em></h2>
           <h3 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 0px; font-size: 18px; font-weight: bold;"><em>17 – 18 June 2023 | 7am to 11am | Free&nbsp;Admission!</em></h3>
-          <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Get ready to have fun at HealthierSG Fest @ North West! Jam-packed with activities for all ages and abilities, you can try out fun sports inflatables and to throwback kampung games. What’s more, there’s free food and drinks to be redeemed, and giveaways for everyone!</p>
+          <p style="font-size: 16px; line-height: 26px; margin-top: 0px;">Get ready to have fun at HealthierSG Fest @ North West! Jam-packed with activities for all ages and abilities, you can try out fun sports inflatables to throwback kampung games. What’s more, there’re free food and drinks to be redeemed, and giveaways for everyone!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="https://go.gov.sg/healthiersgatnorthwest">
               <em style="font-weight: bold;">Find Out More</em>
@@ -603,4 +603,3 @@ job fair.  </p>
 
 
 </article>
-
