@@ -37,8 +37,8 @@ Check out the activities and key highlights not to be missed at the weekend fest
 ![](/images/table%202.png)
 
 View the full programme line-up:
-* [Day 1](/files/healthiersg%20fest%20@%20north%20west%20-%20day%201.pdf)
-* [Day 2](/files/healthiersg%20fest%20@%20north%20west%20-%20day%202.pdf)
+* [Day 1](/files/day%201%20-%2017%20june.pdf)
+* [Day 2](/files/day%202%20-%2018%20june.pdf)
 
 ##### Win Prizes in our Social Media Giveaway!
 
