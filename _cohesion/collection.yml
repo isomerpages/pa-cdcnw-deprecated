@@ -2,9 +2,9 @@ collections:
   cohesion:
     output: true
     order:
-      - July 2023/Kopi Talk with Health Champions.md
-      - July 2023/July At A Glance.md
       - July 2023/.keep
+      - July 2023/July At A Glance.md
+      - July 2023/Kopi Talk with Health Champions.md
       - May 2023/.keep
       - May 2023/May At A Glance.md
       - "May 2023/Interfaith Network: A Day at BW Monastery.md"
