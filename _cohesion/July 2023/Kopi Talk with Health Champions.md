@@ -4,7 +4,6 @@ permalink: /cohesion/july-2023/kopi-talk-healthchamps/
 description: ""
 third_nav_title: July 2023
 ---
-
 <style>
 
 p {
@@ -606,5 +605,3 @@ energy. I also like working with the different types of equipment in the class, 
 <!--Footer End-->
 
 </article>
-
-
