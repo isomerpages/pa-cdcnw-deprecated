@@ -4,7 +4,6 @@ permalink: /cohesion/july-2023/july-at-a-glance/
 description: ""
 third_nav_title: July 2023
 ---
-
 <style>
 
 p {
@@ -602,5 +601,3 @@ Visit our social pages for submission details.</p>
 </div>
 
 </div>
-
-
