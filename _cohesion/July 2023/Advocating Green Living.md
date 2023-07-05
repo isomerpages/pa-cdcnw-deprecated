@@ -395,14 +395,6 @@ h1, h2, h3, h4, h5, h6, li {
   <img style="width: 100%;" src="/images/Cohesion/July%202023/getgreen.png">
 </div>
 
-<div class="rounded20" style="max-width: 100%; padding: 30px 0px 0px;">
-	<img style="width: 100%;" class="rounded20" src="/images/Cohesion/July%202023/go-green-kv-4.gif">
-</div>
-
-<div style="padding: 20px 0px;">
-<p style="font-size: 16px; line-height: 26px;">Did you know that there are plenty of ways you can contribute to shaping a greener and more sustainable future in your neighbourhood? Start your green journey by joining our #GetGreen initiatives in the North West. Together, we can create an eco-friendly community, one step at a time!</p>
-</div>
-
 
 <div class="w-100 rounded20">
 <div style="max-width: 100%;">
@@ -545,11 +537,19 @@ find out more about the upcoming forums.</i></p>
 </div>
 
 
+
+<div style="padding: 20px 0px 0px; display: inline-flex;">
+<p style="font-size: 16px; line-height: 26px;">Did you know that there are plenty of ways you can contribute to shaping a greener and more sustainable future in your neighbourhood? Start your green journey by joining our #GetGreen initiatives in the North West. Together, we can create an eco-friendly community, one step at a time!</p>
+</div>
+
+
 <div style="max-width: 100%;">
   <img style="width: 100%; margin-top: 30px; display: inline-flex;" class="rounded20" src="/images/Cohesion/July%202023/recycling-station.jpg">
 </div>
 
-
+<div class="rounded20" style="max-width: 100%; padding: 30px 0px 0px;">
+  <img style="width: 100%;" class="rounded20" src="/images/Cohesion/July%202023/go-green-kv-4.gif">
+</div>
 
 <div style="padding: 20px 0px;">
 <div style="width: 100%; background: #DCEAE3; padding: 0px 0px 0px;" class="rounded20">
@@ -602,5 +602,5 @@ find out more about the upcoming forums.</i></p>
 <!--Footer End-->
 
 
-</article>	
+</article>
 
