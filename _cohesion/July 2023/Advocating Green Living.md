@@ -538,9 +538,9 @@ find out more about the upcoming forums.</i></p>
 
 
 <div style="padding: 20px 0px 0px; display: inline-flex;">
-<p style="font-size: 16px; line-height: 26px;">Did you know that there are plenty of ways you can contribute to shaping a greener and more sustainable future in your neighbourhood? Start your green journey by joining our #GetGreen initiatives in the North West. Together, we can create an eco-friendly community, one step at a time!
+<p style="font-size: 16px; line-height: 26px;">Did you know that there are plenty of ways you can contribute to shaping a greener and more sustainable future in your neighbourhood? Start your green journey by joining our #GetGreen initiatives in the North West. Together, we can create an eco-friendly community, one step at a time</p>
 	
-Start small by finding a recycling point nearest to your house and be a part of Recycle @ North West!</p>
+Start small by finding a recycling point nearest to your house and be a part of Recycle @ North West!
 </div>
 
 
