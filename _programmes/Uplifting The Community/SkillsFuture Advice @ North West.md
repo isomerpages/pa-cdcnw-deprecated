@@ -12,7 +12,7 @@ third_nav_title: Uplifting The Community
 
 Join our webinars/ workshops to learn more about the importance of lifelong learning, emerging skill sets and SkillsFuture resources to better prepare for the future of work. Guest speakers are also invited periodically to share on various in-demand skills.
 
-[View](go.gov.sg/sfanorthwest) and register for the latest complimentary webinars.
+[View](https://go.gov.sg/sfanorthwest) and register for the latest complimentary webinars.
 
 ***For Job Seekers*** 
  

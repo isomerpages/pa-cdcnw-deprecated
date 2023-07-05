@@ -2,6 +2,12 @@ collections:
   cohesion:
     output: true
     order:
+      - July 2023/.keep
+      - July 2023/July At A Glance.md
+      - July 2023/Kopi Talk with Health Champions.md
+      - July 2023/Advocating Green Living.md
+      - "July 2023/Service Weeks: Volunteer's Day Out.md"
+      - July 2023/North West WeCare Fund.md
       - May 2023/.keep
       - May 2023/May At A Glance.md
       - "May 2023/Interfaith Network: A Day at BW Monastery.md"
