@@ -4,6 +4,7 @@ permalink: /cohesion/july-2023/july-at-a-glance/
 description: ""
 third_nav_title: July 2023
 ---
+
 <style>
 
 p {
@@ -417,7 +418,7 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="max-width: 100%; padding: 10px 10px;">
     <div style="background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/volunteers-edm-kv.jpg">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/volunteers-edm-kv%201.jpg">
   </div>
   <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 416px;">
     <h2 style="color: #BB1415; font-weight: bold; font-size: x-large; letter-spacing: -1.2px;">
@@ -435,7 +436,7 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="max-width: 100%; padding: 10px 10px;">
     <div style="max-width: 100%; padding: 0px 0px 0px; background: #FFFFFF; margin: 30px 0px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
   <div style="width: 100%;">
-    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/go-green-kv-4.gif">
+    <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/go-green-kv-reduce.jpg">
   </div>
   <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 416px; position: relative;">
     <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
@@ -529,7 +530,7 @@ h1, h2, h3, h4, h5, h6, li {
 Visit our social pages for submission details.</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
-    font-weight: bold;" target="_new" href="#">
+    font-weight: bold;" target="_new" href="https://fb.watch/lAKAdxVx24/">
               Join Now
             </a>
           </div>
@@ -552,7 +553,7 @@ Visit our social pages for submission details.</p>
           <p style="font-size: 16px; line-height: 26px; padding-right: 5px;">Don’t miss out on other exciting activities in the North West community this July. Check out our social post for upcoming programmes such as Green Bootcamp @ North West and FAM&nbsp;K @ North West that you won’t want to miss! Subscribe to our Facebook page to stay updated on events happening in your&nbsp;neighbourhood!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
-    font-weight: bold;" target="_new" href="#">
+    font-weight: bold;" target="_new" href="https://fb.watch/lzfadg9PV4/">
               Check It Out
             </a>
           </div>
@@ -625,3 +626,5 @@ Visit our social pages for submission details.</p>
 </div>
 
 </div>
+
+
