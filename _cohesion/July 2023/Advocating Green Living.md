@@ -384,8 +384,10 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
-<div style="width: 100%;">
-  <img style="width: 100%; max-width: 100px; position: relative;" alt="North West Cohesion" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+<div style="width: 100%; padding-top: 15px;">
+  <a href="https://northwest.cdc.gov.sg/cohesion/july-2023/july-at-a-glance">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; float:left !important; padding-bottom: 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+  </a>
 </div>
 
 <div style="width: 100%;">
@@ -408,7 +410,7 @@ h1, h2, h3, h4, h5, h6, li {
 </div>
 <div style="max-width: 100%;" class="col-">
   
-  <div style="float: left; background: #CFEAE3; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #CFEAE3; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon1%20house.png">
@@ -421,7 +423,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
   </div>
 
-  <div style="float: left; background: #E4F0ED; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #E4F0ED; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon1%20house.png">
@@ -436,7 +438,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
   </div>
 
-  <div style="float: left; background: #CFEAE3; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #CFEAE3; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon2%20bottle.png">
@@ -449,7 +451,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
   </div>
 
-  <div style="float: left; background: #E4F0ED; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #E4F0ED; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon2%20bottle.png">
@@ -464,7 +466,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>
   </div>
 
-  <div style="float: left; background: #CFEAE3; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #CFEAE3; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon2%20bottle.png">
@@ -479,7 +481,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>    
   </div>
 
-  <div style="float: left; background: #E4F0ED; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #E4F0ED; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon3%20plant%20pot.png">
@@ -494,7 +496,7 @@ h1, h2, h3, h4, h5, h6, li {
     </div>  
   </div>
 
-  <div style="float: left; background: #CFEAE3; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #CFEAE3; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon4%20lightning.png">
@@ -510,7 +512,7 @@ find out more about the upcoming forums.</i></p>
     </div>      
   </div>
 
-  <div style="float: left; background: #E4F0ED; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #E4F0ED; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon5%20heart%20plant.png">
@@ -524,7 +526,7 @@ find out more about the upcoming forums.</i></p>
     </div>  
   </div>
 
-  <div style="float: left; background: #CFEAE3; min-height: 315px;" class="col- col-4">
+  <div style="float: left; background: #CFEAE3; min-height: 340px;" class="col- col-4">
     <div style="padding: 15px 15px;" class="w-100">
       <div style="min-height: 60px;" class="w-100">
       <img style="width:  100%; max-width: 40px; max-height: 40px; height: 100%; float: left; padding: 0px 10px 0px 0px;" src="/images/Cohesion/July%202023/icon6%20light%20bulb%20.png">
@@ -544,7 +546,7 @@ find out more about the upcoming forums.</i></p>
 
 
 <div style="max-width: 100%;">
-  <img style="width: 100%; margin-top: 30px;" class="rounded20" src="/images/Cohesion/July%202023/recycling-station.jpg">
+  <img style="width: 100%; margin-top: 30px; display: inline-flex;" class="rounded20" src="/images/Cohesion/July%202023/recycling-station.jpg">
 </div>
 
 
@@ -566,25 +568,24 @@ find out more about the upcoming forums.</i></p>
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
-    <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
+    <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="text-decoration: none;">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px; display: inline-block !important;"></div>
 
   </div>
 
@@ -601,5 +602,5 @@ find out more about the upcoming forums.</i></p>
 <!--Footer End-->
 
 
-</article>
+</article>	
 
