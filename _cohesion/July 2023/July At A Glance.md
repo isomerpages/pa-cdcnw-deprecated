@@ -4,6 +4,7 @@ permalink: /cohesion/july-2023/july-at-a-glance/
 description: ""
 third_nav_title: July 2023
 ---
+
 <style>
 
 p {
@@ -390,7 +391,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <div style="width: 100%; padding-top: 15px;">
   <a href="https://northwest.cdc.gov.sg/cohesion/july-2023/july-at-a-glance">
-    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; float:left !important; padding-bottom: 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
   </a>
 </div>
 
@@ -401,10 +402,11 @@ h1, h2, h3, h4, h5, h6, li {
 
   <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
     <h2 style="color: #CE8EBE; font-weight: bold; font-size: x-large;">
-      <strong>CrossFit Journey of 2 North&nbsp;West Residents</strong>
+      CrossFit Journey of 2 North&nbsp;West Residents
     </h2>
     <p style="font-size: 16px; line-height: 26px;">Age is just a number for our senior CrossFit enthusiasts in the North West FitnessX club. In this #kopitalk session, we speak to Eillron and Wendy to find out what motivated them to start their fitness journey, and how it has impacted their health for the&nbsp;better.</p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #CE8EBE; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/kopi-talk-healthchamps"><em>Read On</em></a></div>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #CE8EBE; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-weight: bold;
+    font-style: italic;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/kopi-talk-healthchamps">Read On</a></div>
   </div>
   </div>
 
@@ -418,12 +420,13 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="width: 100%;">
     <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/volunteers-edm-kv.jpg">
   </div>
-  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 370px;">
-    <h2 style="color: #BB1415; font-weight: bold; font-size: x-large;">
-      <strong>Volunteers Bring Fun and Food to Those in&nbsp;Need</strong>
+  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 416px;">
+    <h2 style="color: #BB1415; font-weight: bold; font-size: x-large; letter-spacing: -1.2px;">
+      Volunteers Bring Fun and Food to Those in&nbsp;Need
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">This Service Weeks, on top of running the Pop-Up Market to distribute food packs to needy residents, over 100 parent volunteers and students from Northland Primary School came together to organise a fun-filled carnival for Nee Soon South residents living in the public rental flats.</p>
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #BB1415; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/sw-volunteersdayout"><em>Find Out More</em></a></div>
+    <p style="font-size: 16px; line-height: 26px; letter-spacing: -0.7px;">This Service Weeks, on top of running the Pop-Up Market to distribute food packs to needy residents, over 100 parent volunteers and students from Northland Primary School came together to organise a fun-filled carnival for Nee Soon South residents living in the public rental flats.</p>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #BB1415; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/sw-volunteersdayout">Find Out More</a></div>
   </div>
   </div>
   </div>
@@ -435,14 +438,14 @@ h1, h2, h3, h4, h5, h6, li {
   <div style="width: 100%;">
     <img style="width: 100%; margin-top: 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px;-moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;" class="" src="/images/Cohesion/July%202023/go-green-kv-4.gif">
   </div>
-  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 370px; position: relative;">
+  <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px; min-height: 416px; position: relative;">
     <h2 style="color: #0C6C37; font-weight: bold; font-size: x-large;">
-      <strong>Join our #GetGreen Challenge Towards a Sustainable Future</strong>
+      Join our #GetGreen Challenge Towards a Sustainable Future
     </h2>
-    <p style="font-size: 16px; line-height: 26px;">Discover how practicing simple green habits by joining our various Green programmes can make a positive impact on the environment. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    </p> 
+    <p style="font-size: 16px; line-height: 26px;">Discover how practicing simple green habits by joining our various Green programmes can make a positive impact on the environment. </p> 
 
-    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/getgreen-challenge"><em>Join Now</em></a>
+    <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;"><a style="background: #0C6C37; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/getgreen-challenge">Join Now</a>
     </div>
 
   </div>
@@ -461,12 +464,13 @@ h1, h2, h3, h4, h5, h6, li {
 
   <div style="background: #F9F9F9; padding: 30px 30px; -webkit-border-bottom-right-radius: 25px; -webkit-border-bottom-left-radius: 25px; -moz-border-radius-bottomright: 25px; -moz-border-radius-bottomleft: 25px; border-bottom-right-radius: 25px; border-bottom-left-radius: 25px;">
     <h2 style="color: #283F94; font-weight: bold; font-size: x-large;">
-      <strong>Planting Seeds of Empathy Through Community Initiatives  </strong>
+      Planting Seeds of Empathy Through Community Initiatives 
     </h2>
     <p style="font-size: 16px; line-height: 26px;">Students from Woodlands Secondary School learn the importance of empathy through meaningful interactions with vulnerable residents and initiating ground-up projects funded by the North West WeCare Fund.</p>
     <div style="max-width: 100%; text-align: center; padding: 30px 15px 15px;">
-      <a style="background: #283F94; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/nw-wcf">
-        <em>Discover More</em>
+      <a style="background: #283F94; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" href="https://northwest.cdc.gov.sg/cohesion/july-2023/nw-wcf">
+        Discover More
       </a>
     </div>
   </div>
@@ -478,27 +482,30 @@ h1, h2, h3, h4, h5, h6, li {
 <div style="max-width: 100%; padding: 10px 0px;" class="col-12">
   <div style="background: #f9f9f9; margin: 30px 10px 0px; -webkit-border-radius: 25px; -moz-border-radius: 25px; border-radius: 25px;">
     <div style="width: 100%;">
-      <div style="background: #FE5D1F; margin: 30px 0px 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
-        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-family: Arial, 'sans-serif';"><em>What's Up</em> <img style="padding: 0px 10px; max-width: 30px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+<div style="background: #FE5D1F; margin: 30px 0px 0px; -webkit-border-top-left-radius: 25px; -webkit-border-top-right-radius: 25px; -moz-border-radius-topleft: 25px; -moz-border-radius-topright: 25px; border-top-left-radius: 25px; border-top-right-radius: 25px;">
+        <div style="text-align: center; display: flex; justify-content: center; align-items: center; margin: 0px auto; padding: 15px 15px; color: #FFFFFF; text-transform: uppercase; font-size:  x-large; font-family: Arial, 'sans-serif';"><em>What's Up</em> <img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="padding: 0px 10px; max-width: 40px; width: 40px; margin: 0px 0px;"></div>
       </div>
     </div>
 
     <div style="width: 100%; padding: 10px 0px; display: inline-block;">
 
-    <div class="col-12 w-100">
+    <div style="padding-top: 30px;" class="col-12 w-100">
       <div class="col-4 text-center">
         <div style="padding: 30px 20px 0px;">
           <img style="max-width: 120px;" src="/images/Cohesion/July%202023/skillsfuture.png">
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>SkillsFuture Festival @ North West  </em></h2>
-          <h4 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 10px;">15-16 Jul 2023 | 10am - 7pm (Sat), 10am - 4pm (Sun) Kampung Admiralty Community Plaza</h4>
+        <div style="padding: 10px 2rem 30px;">
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px; font-size: x-large;
+    font-weight: bold;">SkillsFuture Festival @ North West</h2>
+          <h4 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-top: 10px; font-size: medium;
+    font-weight: bold;">15-16 Jul 2023 | 10am - 7pm (Sat), 10am - 4pm (Sun) Kampung Admiralty Community Plaza</h4>
           <p style="font-size: 16px; line-height: 26px; padding-right: 5px;">Take that next step to advance your career and check out the SkillsFuture Festival @ North West! We’ve planned an interesting line-up of workshops and talks to elevate your lifelong learning journey and boost your career prospects. Get personalised advice from our SkillsFuture and Career Ambassadors, participate in walk-in job interviews and discover valuable upskilling initiatives!  </p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" href="https://go.gov.sg/sfanorthwest">
-              <em>Sign Up Now</em>
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" href="https://go.gov.sg/sfanorthwest">
+              Sign Up Now
             </a>
           </div>
         </div>
@@ -506,23 +513,25 @@ h1, h2, h3, h4, h5, h6, li {
       <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
     </div>
 
-    <div class="col-12 w-100">
+    <div style="padding-top: 30px;" class="col-12 w-100">
       <div class="col-4 text-center">
         <div style="padding: 30px 20px 0px;">
           <div style="background-image: url('/images/Cohesion/July%202023/sg58%20national%20day.gif'); background-color: #f9f9f9; background-blend-mode: darken; min-height: 120px; background-repeat: no-repeat; background-size: contain;  max-width: 120px; width: 100%; margin: auto;">
 
       </div>
-          <!--<img src="/images/Cohesion/July%202023/sg58%20national%20day.gif" style="max-width: 120px;">-->
+          
         </div>
       </div>
       <div class="col-8">
-        <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif';"><em>Join us in celebrating Singapore's 58th National Birthday!</em></h2>
+        <div style="padding: 10px 2rem 30px;">
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; font-size: x-large;
+    font-weight: bold;">Join us in celebrating Singapore's 58th National Birthday!</h2>
           <p style="font-size: 16px; line-height: 26px; padding-right: 5px; letter-spacing: 0.2px;">Share your heartfelt video wishes for our nation's birthday and stand a chance to win exciting prizes! Hurry, deadline is 31&nbsp;July&nbsp;2023!<br><br> 
 Visit our social pages for submission details.</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="#">
-              <em>Join Now</em>
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" target="_new" href="#">
+              Join Now
             </a>
           </div>
         </div>
@@ -530,7 +539,7 @@ Visit our social pages for submission details.</p>
       <hr style="margin: 0px 30px; border: thin solid #ebebeb;">
     </div>
 
-    <div class="col-12 w-100">
+    <div style="padding-top: 30px;" class="col-12 w-100">
       <div class="col-4 text-center">
         <div style="padding: 30px 20px 0px;">
           <img style="max-width: 120px;" src="/images/Cohesion/July%202023/july-happening.png">
@@ -538,12 +547,14 @@ Visit our social pages for submission details.</p>
       </div>
       <div class="col-8">
         <div style="padding: 10px 2rem;">
-          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px;"><em>What's happening in July  </em></h2>
+          <h2 style="color: #FE5D1F; font-family: Arial, 'sans-serif'; margin-bottom: 0px; font-size: x-large;
+    font-weight: bold;">What's happening in July</h2>
 
           <p style="font-size: 16px; line-height: 26px; padding-right: 5px;">Don’t miss out on other exciting activities in the North West community this July. Check out our social post for upcoming programmes such as Green Bootcamp @ North West and FAM&nbsp;K @ North West that you won’t want to miss! Subscribe to our Facebook page to stay updated on events happening in your&nbsp;neighbourhood!</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
-            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px;" target="_new" href="#">
-              <em>Check It Out</em>
+            <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
+    font-weight: bold;" target="_new" href="#">
+              Check It Out
             </a>
           </div>
         </div>
@@ -556,14 +567,15 @@ Visit our social pages for submission details.</p>
 </div>
 
 
-<div style="max-width: 100%; padding: 30px 0px 40px; display: block;" class="col-12">
+<div class="col-12" style="max-width: 100%; padding: 30px 0px 40px;">
   <div class="col-12">
     <div style="padding: 0px 10px;">
       <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px 20px; display: flex;">
-        <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Know an interesting or inspiring story?</em></h1>
-          <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
-            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase;"><em>Tell Us More</em>
+        <div style="width: 100%; padding: 30px 10px 10px; text-align: center; margin: auto;">
+          <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal;"><em>Know an interesting or inspiring story?</em></h1>
+          <a href="mailto:northwest_cdc@pa.gov.sg" target="_new" style="text-decoration: none;">
+            <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 15px 15px; max-width: 200px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none; text-transform: uppercase; font-style: italic;
+    font-weight: bold;">Tell Us More
             </div>
           </a>
         </div>
@@ -579,12 +591,25 @@ Visit our social pages for submission details.</p>
 
     <div style="max-width: 800px; width: 100%; margin: auto;">
 
-    <div style="width: 100%; padding: 15px 0px; text-align: center;">
-      <div><em><h2 style="color: #331E16; font-family: Arial, 'sans-serif';">For the latest events and happenings,<br><span style="text-transform: uppercase;">Follow Us On</span></h2></em></div>
-      <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png"></a>
+<div style="width: 100%;">
+
+    <div style="width: 100%; padding: 15px 10px; text-align: center;">
+      <div class="w-100">
+
+          <h2 style="color: #331E16; font-family: Arial, 'sans-serif'; line-height: 30px;">
+            <em style="font-family: Arial, 'sans-serif'; font-size: 22px;">For the latest events and happenings,</em><br>
+            <em style="font-family: Arial, 'sans-serif'; text-transform: uppercase; font-weight: bold; font-size: 20px;">Follow Us On</em>
+          </h2>
+        
+      </div>
+      <div class="w-100">
+        <a href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+        <a href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube-orange.png" style="padding: 5px 7px; max-width: 40px; display: inline-block;"></a>
+      </div>
+    </div>
+
     </div>
 
     </div>
@@ -601,3 +626,5 @@ Visit our social pages for submission details.</p>
 </div>
 
 </div>
+
+
