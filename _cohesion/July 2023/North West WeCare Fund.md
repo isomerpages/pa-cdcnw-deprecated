@@ -385,8 +385,10 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 
-<div style="width: 100%;">
-  <img style="width: 100%; max-width: 100px; position: relative;" alt="North West Cohesion" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+<div style="width: 100%; padding-top: 15px;">
+  <a href="https://northwest.cdc.gov.sg/cohesion/july-2023/july-at-a-glance">
+    <img style="width: 100%; max-width: 100px; position: relative; padding-left: 10px; float:left !important; padding-bottom: 20px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-cohesion-logo-2023%201.gif">
+  </a>
 </div>
 
 <div style="width: 100%;">
@@ -416,13 +418,13 @@ h1, h2, h3, h4, h5, h6, li {
       <img style="width: 100%; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/journey1.png">
       
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
-      <p style="margin: 0px 0px;">Today, we visited Dialogue in the Dark at Ngee Ann Poly. I went with an open mind, as I didn't know what to expect. Blindfolded, we relied on our other senses to complete tasks, revealing the challenges faced by the visually impaired in doing everyday things such as writing or crossing the road. The experience taught me to be grateful for what we have. It instilled empathy, helping me to better understand the struggles of others.</p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
+      <p style="margin: 0px 0px; line-height: inherit;">Today, we visited Dialogue in the Dark at Ngee Ann Poly. I went with an open mind, as I didn't know what to expect. Blindfolded, we relied on our other senses to complete tasks, revealing the challenges faced by the visually impaired in doing everyday things such as writing or crossing the road. The experience taught me to be grateful for what we have. It instilled empathy, helping me to better understand the struggles of others.</p>
       </div>
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
-      <p style="margin: 0px 0px;">Dialogue in the Dark was a unique and interesting experience, unlike other activities I'd done as a Youth Ambassador. We entered a room that was in complete darkness. With totally no vision, we had to navigate daily tasks such as crossing the road, buying food, eating and drinking. This experience allowed me to empathise with the visually impaired. I believe it will help me in my future interactions with people from all walks of life in the community. </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
+      <p style="margin: 0px 0px; line-height: inherit;">Dialogue in the Dark was a unique and interesting experience, unlike other activities I'd done as a Youth Ambassador. We entered a room that was in complete darkness. With totally no vision, we had to navigate daily tasks such as crossing the road, buying food, eating and drinking. This experience allowed me to empathise with the visually impaired. I believe it will help me in my future interactions with people from all walks of life in the community. </p>
       </div>
 
     </div>
@@ -442,8 +444,8 @@ h1, h2, h3, h4, h5, h6, li {
       <img style="width: 100%; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/journey2.png">
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
-      <p style="margin: 0px 0px;">For the visit to the Sunlove Active Ageing Centre @ Marsiling, we planned various activities that we could do together with the elderly, such as ping pong, bingo, cup stacking, recycling old tees into tote bags, arts and crafts, and seated exercises. I organised the arts and crafts activities so we could also have conversations at the same time. It felt a lot like chatting with a grandparent, as they shared interesting stories! The visit concluded with us cooking porridge for the elderly - totally supervised of course! </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
+      <p style="margin: 0px 0px; line-height: inherit;">For the visit to the Sunlove Active Ageing Centre @ Marsiling, we planned various activities that we could do together with the elderly, such as ping pong, bingo, cup stacking, recycling old tees into tote bags, arts and crafts, and seated exercises. I organised the arts and crafts activities so we could also have conversations at the same time. It felt a lot like chatting with a grandparent, as they shared interesting stories! The visit concluded with us cooking porridge for the elderly - totally supervised of course! </p>
       </div>
 
     </div>
@@ -460,13 +462,13 @@ h1, h2, h3, h4, h5, h6, li {
       <img style="width: 100%; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/journey3.png">
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
-      <p style="margin: 0px 0px;">The Block Party at Blocks 3 and 4 was a heartwarming occasion for the elderly residents. We set up game booths featuring traditional games, giant Jenga, bowling and more. An arts and crafts station offered sand art activity and Nagomi pastel art. Plus, there was plenty of delicious food. The karaoke session brought the most joy as the residents sang with gusto!  It was a wonderful way to end the school year, creating special memories for everyone.</p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
+      <p style="margin: 0px 0px; line-height: inherit;">The Block Party at Blocks 3 and 4 was a heartwarming occasion for the elderly residents. We set up game booths featuring traditional games, giant Jenga, bowling and more. An arts and crafts station offered sand art activity and Nagomi pastel art. Plus, there was plenty of delicious food. The karaoke session brought the most joy as the residents sang with gusto!  It was a wonderful way to end the school year, creating special memories for everyone.</p>
       </div>
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
-      <p style="margin: 0px 0px;">Visiting the senior residents from Blocks 3 and 4 is always full of fun and laughter. And one of the elderly that I had interacted with during the arts and crafts station at the Sunlove community was also at the Block Party! It was great to reconnect with her. There was popcorn, games and karaoke at the party. It was quite a fun-filled day for them and seeing their happy faces was also very fulfilling for&nbsp;us. </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
+      <p style="margin: 0px 0px; line-height: inherit;">Visiting the senior residents from Blocks 3 and 4 is always full of fun and laughter. And one of the elderly that I had interacted with during the arts and crafts station at the Sunlove community was also at the Block Party! It was great to reconnect with her. There was popcorn, games and karaoke at the party. It was quite a fun-filled day for them and seeing their happy faces was also very fulfilling for&nbsp;us. </p>
       </div>
 
     </div>
@@ -484,8 +486,8 @@ h1, h2, h3, h4, h5, h6, li {
       <img style="width: 100%; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/journey4.png">
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
-      <p style="margin: 0px 0px;">I joined the trip to Hort Park so I could better connect with the elderly. During the garden tour, those who were avid gardeners enjoyed the stories about the flowers and plants. At the terrarium workshop, we helped them make their own creations. Despite the initial language barrier, some of the elderly graciously switched to English so I could better understand them. It was a rewarding day that allowed me to listen and engage with them on a deeper level. </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
+      <p style="margin: 0px 0px; line-height: inherit;">I joined the trip to Hort Park so I could better connect with the elderly. During the garden tour, those who were avid gardeners enjoyed the stories about the flowers and plants. At the terrarium workshop, we helped them make their own creations. Despite the initial language barrier, some of the elderly graciously switched to English so I could better understand them. It was a rewarding day that allowed me to listen and engage with them on a deeper level. </p>
       </div>
 
     </div>
@@ -501,13 +503,13 @@ h1, h2, h3, h4, h5, h6, li {
     <div style="padding: 25px 25px 35px; margin: 0px 0px;" class="w-100">
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
-      <p style="margin: 0px 0px;">Participating in these experiences has been meaningful and eye-opening. Dialogue in the Dark helped me develop empathy for the visually impaired. The Hort Park trip deepened my bond with the elderly while the Block Party strengthened intergenerational connections taught me the importance of social cohesion and support. Overall, these experiences were meaningful and taught me valuable lessons. </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-eint.png">
+      <p style="margin: 0px 0px; line-height: inherit;">Participating in these experiences has been meaningful and eye-opening. Dialogue in the Dark helped me develop empathy for the visually impaired. The Hort Park trip deepened my bond with the elderly while the Block Party strengthened intergenerational connections taught me the importance of social cohesion and support. Overall, these experiences were meaningful and taught me valuable lessons. </p>
       </div>
 
       <div style="padding: 10px 10px;" class="w-100">
-      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
-      <p style="margin: 0px 0px;">As a Youth Ambassador, I found fulfilment and enrichment in community engagement. Interacting with the elderly taught me to be more flexible and adaptable. Dialogue in the Dark highlighted the importance of putting myself in the shoes of the visually impaired and understand the problems that they face. By simply being present, engaging with the elderly in everyday activities and listening to their stories, we can make a difference in our own unique ways. </p>
+      <img style="width: 100%; max-width: 103px; margin-top: 0px; padding: 0px 0px 15px; display: inline-flex;" class="" src="/images/Cohesion/July%202023/thumb-jeffrey.png">
+      <p style="margin: 0px 0px; line-height: inherit;">As a Youth Ambassador, I found fulfilment and enrichment in community engagement. Interacting with the elderly taught me to be more flexible and adaptable. Dialogue in the Dark highlighted the importance of putting myself in the shoes of the visually impaired and understand the problems that they face. By simply being present, engaging with the elderly in everyday activities and listening to their stories, we can make a difference in our own unique ways. </p>
       </div>
 
     </div>
@@ -551,25 +553,24 @@ h1, h2, h3, h4, h5, h6, li {
 <div style="padding: 20px 0px 0px; display: flex;" class="col-">&nbsp;</div>
 
 <div style="width: 100%; background: #FB5C1F; border-radius: 30px; padding: 0px 0px; display: flex;">
-  <div style="width: 100%; padding: 10px 10px; text-align: center; margin: auto;">
-    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF;"><em>Keep updated with our latest stories!</em></h1>
-    <a style="text-decoration: none;" target="_new" href="https://go.gov.sg/subscribe-cohesion">
+  <div style="width: 100%; padding: 30px 10px 8px; text-align: center; margin: auto;">
+    <h1 style="font-family:  Arial; font-size: xx-large; font-weight: bold; color: #FFFFFF; letter-spacing: normal !important;"><em>Keep updated with our latest stories!</em></h1>
+    <a href="https://go.gov.sg/subscribe-cohesion" target="_new" style="text-decoration: none;">
       <div style="font-family:  Arial; font-size: large; font-weight: bold; background: #FFFFFF; color: #FB5C1F; padding: 10px 15px; max-width: 320px; margin: auto; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; text-decoration: none;"><em>Subscribe to Cohesion Magazine</em>
       </div>
     </a>
 
     <div style="width: 100%;">
-    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex;
-  justify-content: center;
-  align-items: center;">
-      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span> <a target="_new" href="https://www.facebook.com/nwcdc/"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png"></a>
-      <a target="_new" href="https://www.instagram.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png"></a>
-      <a target="_new" href="https://t.me/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png"></a>
-      <a target="_new" href="https://www.youtube.com/northwestcdc"><img style="padding: 5px 7px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png"></a>
+    <div style="width: 100%; padding: 15px 10px; text-align: center;   display: flex; justify-content: center; align-items: center;">
+      <span style="font-family: Arial; font-weight: bold; font-size: large; color: #FFFFFF;">Follow us on</span>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.facebook.com/nwcdc/" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-facebook.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.instagram.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-instagram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://t.me/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/telegram.png" style="padding: 5px 7px;"></a>
+      <a style="line-height: normal !important; margin-bottom: 0px !important;" href="https://www.youtube.com/northwestcdc" target="_new"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/square-youtube.png" style="padding: 5px 7px;"></a>
     </div>
     </div>
 
-    <div style="width: 100%; text-align: right;"><img style="width: 25px;" src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png"></div>
+    <div style="width: 100%; text-align: right;"><img src="https://northwest.cdc.gov.sg/images/Cohesion/May%202023/nw-arrow.png" style="width: 25px; display: inline-block !important;"></div>
 
   </div>
 
