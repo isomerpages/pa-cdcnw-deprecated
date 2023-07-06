@@ -4,6 +4,7 @@ permalink: /cohesion/july-2023/july-at-a-glance/
 description: ""
 third_nav_title: July 2023
 ---
+
 <style>
 
 p {
@@ -529,7 +530,7 @@ h1, h2, h3, h4, h5, h6, li {
 Visit our social pages for submission details.</p>
           <div style="max-width: 100%; text-align: left; padding: 30px 0px;">
             <a style="background: #FE5D1F; color: #FFFFFF; padding: 15px 25px; -webkit-border-radius: 50rem; -moz-border-radius: 50rem; border-radius: 50rem; font-size: medium; font-family: Arial, 'sans-serif;'; text-decoration: none; text-transform: uppercase; min-width: 150px; font-style: italic;
-    font-weight: bold;" target="_new" href="https://fb.watch/lAKAdxVx24/">
+    font-weight: bold;" target="_new" href="https://fb.watch/lBOlUIh3md/">
               Join Now
             </a>
           </div>
