@@ -397,7 +397,7 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
@@ -420,7 +420,7 @@ object-fit: cover;
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/b418db455e809024f12a7cff20a59dda28d0f83a/6d6b7/images/cdc_icon1.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Stock up on CNY goodies</strong>
+      <img src="/images/cdc_icon1.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Stock up on CNY goodies</strong>
     </p>
   </div>
 
@@ -464,7 +464,7 @@ object-fit: cover;
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/c328da1e881761758731e092d3447d09f99c25c6/fbb63/images/cdc_icon2.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Prepare for the reunion dinner</strong>
+      <img src="/images/cdc_icon2.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Prepare for the reunion dinner</strong>
     </p>
   </div>
 
@@ -508,7 +508,7 @@ Planning the menu for your reunion dinner this year?  You can add more ingredien
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/9c1bf2a550606c41ae2076e2c4ba5d60c932216d/5e56f/images/cdc_icon3.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Update your wardrobe</strong>
+      <img src="/images/cdc_icon3.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Update your wardrobe</strong>
     </p>
   </div>
 
@@ -552,7 +552,7 @@ Planning the menu for your reunion dinner this year?  You can add more ingredien
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/1ab3c0d6224b762b49a17faf1f9dd160126a1dac/1aff4/images/cdc_icon4.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Get a new year makeover</strong>
+      <img src="/images/cdc_icon4.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Get a new year makeover</strong>
     </p>
   </div>
 
@@ -596,7 +596,7 @@ New year calls for new change! Thinking of getting a new hairstyle, a fresh set 
 
   <div>
     <p style="color: #D5262B; font-weight: bold; font-size: x-large;">
-      <img src="https://d33wubrfki0l68.cloudfront.net/12160d66576acc0784257dcabf20a7118bcd0320/cb377/images/cdc_icon5.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Spruce up your home</strong>
+      <img src="/images/cdc_icon5.png" style="max-width: 40px; margin: -8px 10px 0px 0px; float: left;" align="left"><strong style="color: #D5262B; font-weight: bold; font-size: x-large;">Spruce up your home</strong>
     </p>
   </div>
 
