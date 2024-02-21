@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6, li {
 
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 
@@ -135,7 +135,7 @@ Not every child starts on the same footing, Little Steps @ North West supports t
     <p style="line-height: 24px;">Get ready to move, sweat, and win! Join our 3 Months Stay Active Contest on IG and stand a chance to win E-vouchers.  So why wait? Start advocating for healthy living and an active lifestyle today!</p>
   </div>
   <a href="https://www.instagram.com/p/Cpe85zDpGmj/" target="_new">
-    <img src="https://d33wubrfki0l68.cloudfront.net/404ca3f2f9bda14a573964d1b5e9ea59721d7dbc/eb509/images/edm_36b.jpg" style="max-width: 280px;">
+    <img src="/images/edm_36b.jpg" style="max-width: 280px;">
   </a>
 
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
