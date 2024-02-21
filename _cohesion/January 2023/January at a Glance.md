@@ -42,7 +42,7 @@ h1, h2, h3, h4, h5, h6, li {
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; margin-left: -20px;">
 </div>
 
 <div style="width: 100%; max-width: 800px; margin: 20px auto;">
@@ -55,7 +55,7 @@ Meet our Youth Volunteers, who are passionate and dedicated to serve the communi
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/nw-youthassembly/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/092445ba00e7ce561b94e9e6ac6eca911f61cd79/fa480/images/edm_16.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_16.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@ Mayor Alex Yam brings us through the CDC’s focus in 2022, and shares more on t
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/mayor-message/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/28ad3332fd867b79a8795690ea54f442879e85f7/2bc4c/images/edm_18.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_18.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@ Mayor Alex Yam brings us through the CDC’s focus in 2022, and shares more on t
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/cdcv-t3/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/531231a154b45f6299970d31d96354a5181bd0bb/4929a/images/edm_20.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_20.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -98,7 +98,7 @@ After winning the Green Bootcamp @ North West, we find out what Team Igloo has b
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/gb-teamigloo/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/56afca555b0c79177b9ec6a49021c955804e602f/fb55a/images/edm_22.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_22.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -111,7 +111,7 @@ Is keeping fit one of your new year resolutions? It’s not too late to take the
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/nw-hl-clubs/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/2c89068bc977c863242c1a0da6e68c5e56c5646b/aaeb6/images/edm_24.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_24.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -126,7 +126,7 @@ The Clean Public Toilets Campaign 2022 aims to continue urging users to adopt th
 
 <p style="font-size: 16px; line-height: 26px; margin: 0px auto; text-align: center;">
   <a href="https://northwest.cdc.gov.sg/cohesion/january-2023/nea-cleantoilets/">
-    <img src="https://d33wubrfki0l68.cloudfront.net/8cfb9c683096587cb8ad202ab86267da259096d8/00f0c/images/edm_26.jpg" style="max-width: 250px;" />
+    <img src="/images/edm_26.jpg" style="max-width: 250px;" />
   </a>
 </p>
 
@@ -136,24 +136,24 @@ The Clean Public Toilets Campaign 2022 aims to continue urging users to adopt th
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
     <img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/nwc_nov_37.jpg" width="100%">
   </div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/ff755d31f306178e6edc1e798f3e8a9a7148e6ab/4ed2a/images/edm_32.jpg" style="max-width: 290px; margin: 0px auto; text-align: center; width: 100%;">
+  <img src="/images/edm_32.jpg" style="max-width: 290px; margin: 0px auto; text-align: center; width: 100%;">
   <div style="padding: 5px 25px; text-align: center; max-width: 500px; margin: auto;">
     <p>With 28 recycling points in the North West District, it’s easy and convenient to drop off and sort your recyclables!</p>
   </div>
   <a href="https://www.facebook.com/nwcdc/posts/pfbid02iwxFBmxms6u2HkDHxd1GwXvN4P58PnHXyYAY9kQjrmw1vKMd3S9usfgmwK8tXdwkl" target="_new">
-    <img src="https://d33wubrfki0l68.cloudfront.net/682adc95b4dcdf2d958406b244d3cea03622dbb8/d2b85/images/edm_34.jpg" style="max-width: 250px;">
+    <img src="/images/edm_34.jpg" style="max-width: 250px;">
   </a>
 
   <div style="width: 98%; margin: 0px auto; padding: 20px 0px 0px;">
     <img src="https://northwest.cdc.gov.sg/images/Cohesion/Nov%202022/nwc_line.jpg" width="100%">
   </div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/4201a606b166be680dd79295d5e951f4524feb50/888ab/images/edm_36.jpg" style="max-width: 290px; margin: 0px auto; text-align: center; width: 100%;">
+  <img src="/images/edm_36.jpg" style="max-width: 290px; margin: 0px auto; text-align: center; width: 100%;">
   <div style="padding: 5px 25px; text-align: center; max-width: 500px; margin: auto;">
     <p>Share with us what you’d like to know more about North West CDC!
 5 lucky winners will receive $20 e-vouchers.</p>
   </div>
   <a href="https://www.facebook.com/nwcdc/posts/pfbid0UhLrD1GnU38ECex3d2c5tY8HMvqR1jNdsfZiv7KuNEpJt4Ga8kMe6EMSNscBXQPtl" target="_new">
-    <img src="https://d33wubrfki0l68.cloudfront.net/404ca3f2f9bda14a573964d1b5e9ea59721d7dbc/eb509/images/edm_36b.jpg" style="max-width: 250px;">
+    <img src="/images/edm_36b.jpg" style="max-width: 250px;">
   </a>
 
 </div>
