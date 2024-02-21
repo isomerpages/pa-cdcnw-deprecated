@@ -396,7 +396,7 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
@@ -421,15 +421,15 @@ object-fit: cover;
     <div class="carousel-inner" style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <img src="https://d33wubrfki0l68.cloudfront.net/13d76a8498f67dc50ce32fbf94fa4b10afc55cfb/d2b53/images/card-aubery.png" style="width: 100%;">
+            <img src="/images/card-aubery.png" style="width: 100%;">
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="https://d33wubrfki0l68.cloudfront.net/3b1ceaede576314b3a49a489f162abcf16b33aa4/2db49/images/card-lagu.png" style="width: 100%;">
+            <img src="/images/card-lagu.png" style="width: 100%;">
         </div>
         <input class="carousel-open" type="radio" id="carousel-3" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="https://d33wubrfki0l68.cloudfront.net/44198a0a6c5dbbab708f39315ee8fcc58e7c3be7/dc293/images/card-joe.png" style="width: 100%;">
+            <img src="/images/card-joe.png" style="width: 100%;">
         </div>
         <label for="carousel-3" class="carousel-control prev control-1">‹</label>
         <label for="carousel-2" class="carousel-control next control-1">›</label>
@@ -453,7 +453,7 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 50px 0px 20px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/74c6e150189752a49ae1469f1565c4d942bcd5a5/94924/images/roles-ya.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px;
+  <img src="/images/roles-ya.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px;
 -moz-border-radius: 20px;
 border-radius: 20px;">
 </div>
