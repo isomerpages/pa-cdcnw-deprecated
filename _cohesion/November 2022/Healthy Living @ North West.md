@@ -208,7 +208,7 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/38c374fae164486a4173751d2a76bc91d4e07d4a/4b6f9/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
+  <img src="/images/cohesion_logo.gif" style="width: 100%; max-width: 133px; z-index: 99; position: relative; margin-left: -22px;">
 </div>
 
 <div>
@@ -232,7 +232,7 @@ From the first HL Club that was launched in 2002 to the formation of new clubs o
 </div>
 
 <div style="text-align: center; padding: 0px 15px;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/e9be8e8c83bb33cae3bfd55850aae5a25171bd22/84c36/images/clubs.jpg" style="width: 90%; max-width: 100%; margin: 0px auto;">
+  <img src="/images/clubs.jpg" style="width: 90%; max-width: 100%; margin: 0px auto;">
 </div>
 
 <div style="padding: 20px 0px; word-spacing: -1px; word-break: keep-all;">
