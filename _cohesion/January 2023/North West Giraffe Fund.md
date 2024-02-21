@@ -397,11 +397,11 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
-	<img src="https://d33wubrfki0l68.cloudfront.net/b023f9c700307c6a9f1621244d10b782ed75813d/69cdf/images/green-living-igloo.png" style="width: 100%; margin-top: 0px;">
+	<img src="/images/green-living-igloo.png" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 30px 0px 20px;">
@@ -410,7 +410,7 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/85bc6caa5e1d00ea66a728680cc60c0f5d249101/b2a35/images/green-living-igloo-team.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/green-living-igloo-team.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -423,7 +423,7 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 0px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/90497be4302ef7011575fa701eda5f63b53caad7/6e63a/images/igloo1.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/igloo1.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="padding: 0px 0px;">
@@ -441,11 +441,11 @@ object-fit: cover;
     <div class="carousel-inner" style="-webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
         <input class="carousel-open" type="radio" id="carousel-1" name="carousel" aria-hidden="true" hidden="" checked="checked">
         <div class="carousel-item">
-            <img src="https://d33wubrfki0l68.cloudfront.net/52e56ce4d9d220ef5a4d62b93cf9942382622b75/f1f8c/images/prototype.png" style="width: 100%;">
+            <img src="/images/prototype.png" style="width: 100%;">
         </div>
         <input class="carousel-open" type="radio" id="carousel-2" name="carousel" aria-hidden="true" hidden="">
         <div class="carousel-item">
-            <img src="https://d33wubrfki0l68.cloudfront.net/4384a9121da0d1f2496237d317cfd4b1885149cf/15f7a/images/new-mockup.png" style="width: 100%;">
+            <img src="/images/new-mockup.png" style="width: 100%;">
         </div>
         
         <label for="carousel-3" class="carousel-control prev control-1">‹</label>
@@ -474,7 +474,7 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 0px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/7de75376e42d8405639c762e95b6ea91a6cf2d99/3e305/images/igloo2.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/igloo2.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
