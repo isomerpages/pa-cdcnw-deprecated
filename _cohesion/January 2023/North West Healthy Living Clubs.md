@@ -397,11 +397,11 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
-	<img src="https://d33wubrfki0l68.cloudfront.net/3f4a2ffdf77eb3a164ababc95c656ede30ab7aae/46499/images/healthy-kv.png" style="width: 100%; margin-top: 0px;">
+	<img src="/images/healthy-kv.png" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 30px 0px 20px;">
@@ -421,11 +421,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/797b1123bd598ae5c5aaddc7cc76f110a9d48173/7fbcd/images/dance-fit-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/dance-fit-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/b7bc7488d5742d9f95e282b0439b521b4b05126d/965e6/images/dancefit.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/dancefit.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -436,11 +436,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/3f9d21de992243c7b08f086f2788f5ba7806079b/ab45e/images/running-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/running-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/ac95410f5994fa6984f10e34780297ca5a84bc18/537bc/images/running.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/running.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -451,11 +451,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/c2b95b9abcb4539a4881385a662626a7dab9d758/616bd/images/brisk-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/brisk-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/dd5f4343ea65e0eb24dad43b366dbb637a354898/6fe5c/images/brisk.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/brisk.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -466,11 +466,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/e78c2f680e82e8950316c6ac6e252208227d9e67/7bc14/images/taichi-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/taichi-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/0b4a568cae7b5340f129c939360343eaca11f6c4/6654a/images/taichi.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/taichi.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -481,11 +481,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/314b760d7bcd5d99b38d69a07bf124203340f096/b33c4/images/qigong-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/qigong-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/f233d208bcfa196540582256632a261d1f047eea/06815/images/qigong.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/qigong.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -496,11 +496,11 @@ object-fit: cover;
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/6f7416011cef8aabdf6ec860863acf35117f99a4/dcf76/images/fitnessx-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/fitnessx-quote.png" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 <div style="text-align: center; padding: 20px 0px; display: inline-block;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/9ca8e842a776d1d1eea2e1eeb79f1220bcdf8091/98011/images/fitnessx.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
+  <img src="/images/fitnessx.gif" style="width: 100%; max-width: 100%; margin: 0px auto; -webkit-border-radius: 20px; -moz-border-radius: 20px; border-radius: 20px;">
 </div>
 
 
@@ -517,17 +517,17 @@ object-fit: cover;
       </p> 
       <div>
         <p style="font-size: large;">
-          <img src="https://d33wubrfki0l68.cloudfront.net/a65c89e1492b0bb32ea90cb0f6561e063a83d35a/cc842/images/health-goals-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Determine your health goals
+          <img src="/images/health-goals-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Determine your health goals
         </p>
       </div>
       <div>
         <p style="font-size: large;">
-          <img src="https://d33wubrfki0l68.cloudfront.net/1c002da9dce04955c7f2786cb79bfe092ca2bc12/0f1c3/images/physical-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Decide on the physical intensity  
+          <img src="/images/physical-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Decide on the physical intensity  
         </p>
       </div>
       <div>
         <p style="font-size: large;">
-          <img src="https://d33wubrfki0l68.cloudfront.net/58f0693609ccd51c5de708c809282bd025d76a14/2a6a0/images/enjoyment-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Enjoyment is key. No matter what you choose, make sure you have fun!  
+          <img src="/images/enjoyment-icon.png" style="max-width: 32px; margin: -5px 10px 0px 0px; float: left;" align="left">Enjoyment is key. No matter what you choose, make sure you have fun!  
         </p>
       </div>
       <p style="font-size: larger; text-align: left; color: #D5262B; margin: 0px 0px;">
