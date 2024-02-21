@@ -396,11 +396,11 @@ object-fit: cover;
 <body>
 <article style="max-width: 800px; width: 100%; margin: auto;">
 <div style="width: 100%;">
-  <img src="https://d33wubrfki0l68.cloudfront.net/abc6e70dc488c5f62ee571bffa3a0cb8186754b6/19768/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
+  <img src="/images/cohesion-logo.gif" style="width: 100%; max-width: 200px; z-index: 99; position: relative; margin-left: -20px;">
 </div>
 
 <div>
-	<img src="https://d33wubrfki0l68.cloudfront.net/168e720db4b4d99a9d82d0356d921b09da5b264d/7f369/images/toilets-kv.png" style="width: 100%; margin-top: 0px;">
+	<img src="/images/toilets-kv.png" style="width: 100%; margin-top: 0px;">
 </div>
 
 <div style="padding: 0px 0px 0px;">
